@@ -538,5 +538,205 @@ const GAITOU_DB = [
         ],
         "early_voting": "",
         "election_day": ""
+    },
+    {
+        "id": "S__17366",
+        "image_path": "photos/260127_長野県_下条みつ.jpg",
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "下条みつ",
+        "constituency": "長野2区",
+        "prefecture": "長野県",
+        "party": "中道改革連合",
+        "schedule": [
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅お城口広場",
+                "lat": 36.230762,
+                "lng": 137.965144,
+                "status": 0
+            },
+            {
+                "time": "17:10",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅お城口広場",
+                "lat": 36.230762,
+                "lng": 137.965144,
+                "status": 0
+            }
+        ],
+        "early_voting": "1/28(水)〜2/7(土)",
+        "election_day": "2026-02-08"
+    },
+    {
+        "id": "S__17367",
+        "image_path": "photos/260129_長野県_若林健太.jpg",
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "若林健太",
+        "constituency": "長野1区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "18:00",
+                "region": "高山村",
+                "municipality": "高山村",
+                "location": "荒井原区公会堂",
+                "lat": 36.671,
+                "lng": 138.3582,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "小布施町",
+                "municipality": "小布施町",
+                "location": "小布施町商工会館",
+                "lat": 36.7042,
+                "lng": 138.3155,
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "region": "須坂市",
+                "municipality": "須坂市",
+                "location": "須坂市シルキーホール",
+                "lat": 36.6517,
+                "lng": 138.3121,
+                "status": 0
+            }
+        ],
+        "early_voting": "",
+        "election_day": "2026-02-08"
+    },
+    {
+        "id": "S__17368",
+        "image_path": "photos/260128_長野県_若林健太.jpg",
+        "date": "2026-01-28",
+        "day_of_week": "水",
+        "candidate": "若林健太",
+        "constituency": "長野1区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "16:25",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "ケーズデンキ長野本店前",
+                "lat": 36.6265,
+                "lng": 138.1884,
+                "status": 0
+            },
+            {
+                "time": "16:50",
+                "region": "長野駅",
+                "municipality": "長野市",
+                "location": "長野駅前 善光寺口",
+                "lat": 36.6431,
+                "lng": 138.1886,
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "五分一公民館",
+                "lat": 36.6384,
+                "lng": 138.2096,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "西後町公民館",
+                "lat": 36.6491,
+                "lng": 138.1873,
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "上松公会堂",
+                "lat": 36.6669,
+                "lng": 138.2001,
+                "status": 0
+            },
+            {
+                "time": "19:30",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "西宮神社",
+                "lat": 36.6565,
+                "lng": 138.1878,
+                "status": 0
+            }
+        ],
+        "early_voting": "",
+        "election_day": "2026-02-08"
+    },
+    {
+        "id": "S__17369",
+        "image_path": "photos/260127_長野県_若林健太.jpg",
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "若林健太",
+        "constituency": "長野1区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "09:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "ホテル国際21 正面玄関前",
+                "lat": 36.651583,
+                "lng": 138.182644,
+                "status": 0
+            },
+            {
+                "time": "11:10",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "JAグリーン長野 若穂果実流通センター",
+                "lat": 36.610186,
+                "lng": 138.251759,
+                "status": 0
+            },
+            {
+                "time": "13:05",
+                "region": "高山村",
+                "municipality": "高山村",
+                "location": "中山会館",
+                "lat": 36.691809,
+                "lng": 138.366909,
+                "status": 0
+            },
+            {
+                "time": "17:15",
+                "region": "栄村",
+                "municipality": "栄村",
+                "location": "森宮野原駅前",
+                "lat": 36.989089,
+                "lng": 138.577871,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "木島平村",
+                "municipality": "木島平村",
+                "location": "中村区民会館",
+                "lat": 36.86137,
+                "lng": 138.404986,
+                "status": 0
+            }
+        ],
+        "early_voting": "",
+        "election_day": "2026-02-08"
     }
 ];
