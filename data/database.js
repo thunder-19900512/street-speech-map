@@ -93,7 +93,7 @@ const GAITOU_DB = [
                 "location": "茅野駅",
                 "lat": 35.99427934440608,
                 "lng": 138.15302789211276,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "09:30",
@@ -102,7 +102,7 @@ const GAITOU_DB = [
                 "location": "茅野市横内 交差点",
                 "lat": 35.9963,
                 "lng": 138.1459,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -138,7 +138,7 @@ const GAITOU_DB = [
                 "location": "湖畔公園・湖岸通り交差点",
                 "lat": 36.04738140844645,
                 "lng": 138.1118077039719,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -156,7 +156,7 @@ const GAITOU_DB = [
                 "location": "街宣車活動 等",
                 "lat": 36.04757224925469,
                 "lng": 138.11663031578067,
-                "status": 2
+                "status": 0
             }
         ],
         "early_voting": "",
