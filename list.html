@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>街頭演説一覧 - 高密度データビュー</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --text: #f1f5f9;
+            --text-muted: #94a3b8;
+            --accent: #3b82f6;
+            --border: #334155;
+            --success: #10b981;
+            --weekend-sat: #60a5fa;
+            --weekend-sun: #f87171;
+            --holiday: #f87171;
+            --status-0: #60a5fa;
+            /* AI */
+            --status-1: #fbbf24;
+            /* 人力 */
+            --status-2: #f87171;
+            /* 精密 */
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 10px;
+            font-size: 13px;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            padding: 0 5px;
+        }
+
+        h1 {
+            font-size: 1.2rem;
+            margin: 0;
+            background: linear-gradient(135deg, #60a5fa, #3b82f6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .nav-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.85rem;
+        }
+
+        .table-container {
+            background: var(--card-bg);
+            border-radius: 8px;
+            overflow: auto;
+            border: 1px solid var(--border);
+            max-height: calc(100vh - 60px);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: auto;
+        }
+
+        th {
+            background: #2d3748;
+            padding: 8px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            border-bottom: 2px solid var(--border);
+            white-space: nowrap;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        .filter-row th {
+            top: 35px;
+            padding: 4px 8px;
+            background: #1a202c;
+        }
+
+        select,
+        input {
+            width: 100%;
+            background: #0f172a;
+            border: 1px solid var(--border);
+            color: var(--text);
+            font-size: 0.75rem;
+            padding: 2px 4px;
+            border-radius: 3px;
+            outline: none;
+        }
+
+        select:focus,
+        input:focus {
+            border-color: var(--accent);
+        }
+
+        td {
+            padding: 4px 8px;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.85rem;
+            white-space: nowrap;
+        }
+
+        tr:hover td {
+            background: #2d3748;
+        }
+
+        .badge-status {
+            font-size: 0.7rem;
+            padding: 1px 4px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+
+        .badge-0 {
+            background: rgba(59, 130, 246, 0.2);
+            color: #60a5fa;
+        }
+
+        .badge-1 {
+            background: rgba(251, 191, 36, 0.2);
+            color: #fbbf24;
+        }
+
+        .badge-2 {
+            background: rgba(248, 113, 113, 0.2);
+            color: #f87171;
+        }
+
+        .wide-area {
+            color: #f87171;
+        }
+
+        .pref-area {
+            color: #fbbf24;
+        }
+
+        .city-area {
+            color: #60a5fa;
+        }
+
+        /* Footer Styles */
+        .app-footer {
+            text-align: center;
+            padding: 1rem 0;
+            background: var(--bg);
+            border-top: 1px solid var(--border);
+            margin-top: 10px;
+        }
+
+        .footer-links {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            font-size: 0.75rem;
+        }
+
+        .footer-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-link:hover {
+            color: var(--accent);
+        }
+
+        .footer-separator {
+            color: var(--border);
+        }
+
+        .day-sat {
+            color: var(--weekend-sat);
+            font-weight: bold;
+        }
+
+        .day-sun {
+            color: var(--weekend-sun);
+            font-weight: bold;
+        }
+
+        .day-holiday {
+            color: var(--holiday);
+            font-weight: bold;
+            position: relative;
+        }
+
+        .day-holiday::after {
+            content: "祝";
+            font-size: 0.6rem;
+            background: var(--holiday);
+            color: white;
+            padding: 0 2px;
+            border-radius: 2px;
+            margin-left: 2px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>街頭演説データ一覧</h1>
+        <a href="index.html" class="nav-link">← マップ表示に戻る</a>
+    </div>
+
+    <div class="table-container">
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>候補者</th>
+                    <th>日付</th>
+                    <th>曜日</th>
+                    <th>時間</th>
+                    <th>広域</th>
+                    <th>都道府県</th>
+                    <th>市区町村</th>
+                    <th>場所詳細</th>
+                    <th>状態</th>
+                    <th>地図</th>
+                </tr>
+                <tr class="filter-row">
+                    <th><input type="text" id="filter-candidate" placeholder="絞り込み..." oninput="filterTable()"></th>
+                    <th><input type="text" id="filter-date" placeholder="日付..." oninput="filterTable()"></th>
+                    <th>
+                        <select id="filter-day-type" onchange="filterTable()">
+                            <option value="">区分全て</option>
+                            <option value="weekday">平日(月-金)</option>
+                            <option value="weekend-hol">週末/祝日</option>
+                            <optgroup label="曜日別">
+                                <option value="月">月</option>
+                                <option value="火">火</option>
+                                <option value="水">水</option>
+                                <option value="木">木</option>
+                                <option value="金">金</option>
+                                <option value="土">土</option>
+                                <option value="日">日</option>
+                            </optgroup>
+                        </select>
+                    </th>
+                    <th><input type="text" id="filter-time" placeholder="時間..." oninput="filterTable()"></th>
+                    <th><select id="filter-wide" onchange="filterTable()">
+                            <option value="">全域</option>
+                        </select></th>
+                    <th><select id="filter-pref" onchange="filterTable()">
+                            <option value="">全て</option>
+                        </select></th>
+                    <th><select id="filter-city" onchange="filterTable()">
+                            <option value="">全て</option>
+                        </select></th>
+                    <th><input type="text" id="filter-location" placeholder="検索..." oninput="filterTable()"></th>
+                    <th>
+                        <select id="filter-status" onchange="filterTable()">
+                            <option value="">全ての状態</option>
+                            <option value="0">自動推定</option>
+                            <option value="1">人力チェック済</option>
+                            <option value="2">精密特定済</option>
+                        </select>
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+                <!-- Data injected here -->
+            </tbody>
+        </table>
+    </div>
+
+    <footer class="app-footer">
+        <div class="footer-links">
+            <a href="terms.html" target="_blank" class="footer-link">利用規約</a>
+            <span class="footer-separator">|</span>
+            <a href="privacy.html" target="_blank" class="footer-link">プライバシーポリシー</a>
+            <span class="footer-separator">|</span>
+            <a href="https://lit.link/yamadayuji1990" target="_blank" class="footer-link">つくった人</a>
+        </div>
+    </footer>
+
+    <script src="data/database.js"></script>
+    <script>
+        const HOLIDAYS_2026 = [
+            '2026-01-01', '2026-01-12', '2026-02-11', '2026-02-23', '2026-03-20',
+            '2026-04-29', '2026-05-03', '2026-05-04', '2026-05-05', '2026-05-06',
+            '2026-07-20', '2026-08-11', '2026-09-21', '2026-09-22', '2026-09-23',
+            '2026-10-12', '2026-11-03', '2026-11-23'
+        ];
+
+        function isHoliday(dateStr) { return HOLIDAYS_2026.includes(dateStr); }
+
+        function initFilters() {
+            const wideAreas = new Set();
+            const prefs = new Set();
+            const cities = new Set();
+            GAITOU_DB.forEach(item => {
+                wideAreas.add(item.constituency);
+                prefs.add(item.prefecture);
+                item.schedule.forEach(s => { if (s.municipality) cities.add(s.municipality); });
+            });
+            populateSelect('filter-wide', Array.from(wideAreas).sort());
+            populateSelect('filter-pref', Array.from(prefs).sort());
+            populateSelect('filter-city', Array.from(cities).sort());
+        }
+
+        function populateSelect(id, items) {
+            const select = document.getElementById(id);
+            items.forEach(item => { if (!item) return; const opt = document.createElement('option'); opt.value = item; opt.textContent = item; select.appendChild(opt); });
+        }
+
+        function renderTable(data = GAITOU_DB) {
+            const tbody = document.getElementById('table-body');
+            let html = '';
+            const statusLabels = ["自動推定", "人力✓済", "精密✓済"];
+
+            data.forEach(item => {
+                const holiday = isHoliday(item.date);
+                let dayType = holiday || item.day_of_week === '土' || item.day_of_week === '日' ? 'weekend-hol' : 'weekday';
+                const dayClass = holiday ? 'day-holiday' : (item.day_of_week === '土' ? 'day-sat' : (item.day_of_week === '日' ? 'day-sun' : ''));
+
+                item.schedule.forEach(s => {
+                    html += `
+                        <tr class="data-row" 
+                            data-candidate="${item.candidate}"
+                            data-date="${item.date}"
+                            data-day="${item.day_of_week}"
+                            data-day-type="${dayType}"
+                            data-time="${s.time}"
+                            data-wide="${item.constituency}"
+                            data-pref="${item.prefecture}"
+                            data-city="${s.municipality || ''}"
+                            data-location="${s.location}"
+                            data-status="${s.status}">
+                            <td><strong>${item.candidate}</strong></td>
+                            <td>${item.date.slice(5)}</td>
+                            <td class="${dayClass}">${item.day_of_week}</td>
+                            <td>${s.time}</td>
+                            <td class="wide-area">${item.constituency}</td>
+                            <td class="pref-area">${item.prefecture}</td>
+                            <td class="city-area">${s.municipality || '-'}</td>
+                            <td>${s.location}</td>
+                            <td><span class="badge-status badge-${s.status}">${statusLabels[s.status]}</span></td>
+                            <td>
+                                <a href="https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}" target="_blank" 
+                                   style="color:var(--accent); text-decoration:none; font-size:0.75rem;">地図 ↗</a>
+                            </td>
+                        </tr>
+                    `;
+                });
+            });
+            tbody.innerHTML = html;
+        }
+
+        function filterTable() {
+            const fCandidate = document.getElementById('filter-candidate').value.toLowerCase();
+            const fDate = document.getElementById('filter-date').value;
+            const fDayType = document.getElementById('filter-day-type').value;
+            const fTime = document.getElementById('filter-time').value;
+            const fWide = document.getElementById('filter-wide').value;
+            const fPref = document.getElementById('filter-pref').value;
+            const fCity = document.getElementById('filter-city').value;
+            const fLocation = document.getElementById('filter-location').value.toLowerCase();
+            const fStatus = document.getElementById('filter-status').value;
+
+            document.querySelectorAll('.data-row').forEach(row => {
+                const matches = [
+                    row.dataset.candidate.toLowerCase().includes(fCandidate),
+                    row.dataset.date.includes(fDate),
+                    !fDayType || (fDayType === 'weekday' || fDayType === 'weekend-hol' ? row.dataset.dayType === fDayType : row.dataset.day === fDayType),
+                    row.dataset.time.includes(fTime),
+                    !fWide || row.dataset.wide === fWide,
+                    !fPref || row.dataset.pref === fPref,
+                    !fCity || row.dataset.city === fCity,
+                    row.dataset.location.toLowerCase().includes(fLocation),
+                    !fStatus || row.dataset.status === fStatus
+                ];
+                row.style.display = matches.every(m => m) ? '' : 'none';
+            });
+        }
+
+        window.onload = () => { initFilters(); renderTable(); };
+    </script>
+</body>
+
+</html>

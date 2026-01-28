@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>街頭演説マップ・スケジュール</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --text: #f1f5f9;
+            --text-muted: #94a3b8;
+            --accent: #3b82f6;
+            --border: #334155;
+            --status-auto: #3b82f6;
+            --status-verified: #fbbf24;
+            --status-pinpoint: #f87171;
+            --success: #10b981;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #map {
+            flex: 1;
+            min-height: 40%;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .dashboard {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            overflow-y: auto;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            font-size: 1.2rem;
+            margin: 0;
+            background: linear-gradient(135deg, #60a5fa, #3b82f6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+
+        .view-toggle,
+        .help-toggle {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            color: var(--accent);
+            padding: 6px 12px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.8rem;
+            font-weight: bold;
+            transition: 0.2s;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .view-toggle:hover,
+        .help-toggle:hover {
+            background: var(--accent);
+            color: white;
+        }
+
+        .filters {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 8px;
+            margin-bottom: 15px;
+            background: var(--card-bg);
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+        }
+
+        .filter-group select,
+        .filter-group input {
+            width: 100%;
+            background: #0f172a;
+            border: 1px solid var(--border);
+            color: var(--text);
+            padding: 6px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            outline: none;
+        }
+
+        #results {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 10px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 10px;
+            display: flex;
+            gap: 10px;
+            transition: 0.2s;
+        }
+
+        .card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        .card-img {
+            width: 80px;
+            height: 80px;
+            object-fit: cover;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .card-content {
+            flex: 1;
+            font-size: 0.85rem;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 4px;
+        }
+
+        .candidate-name {
+            font-weight: bold;
+            font-size: 0.95rem;
+        }
+
+        .date-info {
+            color: var(--text-muted);
+            font-size: 0.75rem;
+        }
+
+        .schedule-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #0f172a;
+            border-radius: 4px;
+            padding: 4px 8px;
+            margin-bottom: 4px;
+            font-size: 0.8rem;
+        }
+
+        .status-badge {
+            font-size: 0.65rem;
+            padding: 1px 4px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+
+        .status-0 {
+            background: rgba(59, 130, 246, 0.2);
+            color: #60a5fa;
+        }
+
+        .status-1 {
+            background: rgba(251, 191, 36, 0.2);
+            color: #fbbf24;
+        }
+
+        .status-2 {
+            background: rgba(248, 113, 113, 0.2);
+            color: #f87171;
+        }
+
+        .btn-small {
+            background: #334155;
+            border: none;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 0.7rem;
+            cursor: pointer;
+            margin-left: 4px;
+        }
+
+        .btn-small:hover {
+            background: var(--accent);
+        }
+
+        .custom-div-icon {
+            background: none;
+            border: none;
+        }
+
+        .marker-pin {
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            transition: transform 0.2s;
+            border: 2px solid white;
+            position: relative;
+        }
+
+        .marker-pin:hover {
+            transform: scale(1.2);
+        }
+
+        /* Dispute Badge */
+        .dispute-badge {
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            background: #ef4444;
+            color: white;
+            font-size: 10px;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            z-index: 10;
+        }
+
+        .dispute-banner-popup {
+            background: #450a0a;
+            color: #fca5a5;
+            padding: 8px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            margin-bottom: 8px;
+            border-left: 3px solid #ef4444;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 2000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(5px);
+        }
+
+        .modal-content {
+            background-color: var(--card-bg);
+            margin: 10% auto;
+            padding: 20px;
+            border: 1px solid var(--border);
+            width: 90%;
+            max-width: 400px;
+            border-radius: 12px;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            width: 100%;
+        }
+
+        .guide-banner {
+            display: none;
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--accent);
+            color: white;
+            padding: 15px 30px;
+            border-radius: 50px;
+            z-index: 3000;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+            font-weight: bold;
+            text-align: center;
+            min-width: 320px;
+        }
+
+        .app-footer {
+            text-align: center;
+            padding: 1.5rem 0 0.5rem;
+            border-top: 1px solid var(--border);
+            margin-top: auto;
+            background: var(--card-bg);
+        }
+
+        .footer-links {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            font-size: 0.75rem;
+        }
+
+        .footer-link {
+            color: var(--text-muted);
+            text-decoration: none;
+        }
+
+        .footer-link:hover {
+            color: var(--accent);
+        }
+
+        .leaflet-popup-content-wrapper {
+            background: var(--card-bg);
+            color: var(--text);
+            border: 1px solid var(--border);
+            padding: 5px;
+        }
+
+        .leaflet-popup-tip {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+        }
+
+        /* Toast Notification */
+        #toast {
+            display: none;
+            position: fixed;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--card-bg);
+            color: white;
+            padding: 14px 28px;
+            border-radius: 50px;
+            z-index: 5000;
+            border: 1px solid var(--accent);
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.8);
+            font-weight: bold;
+            transition: opacity 0.3s;
+        }
+
+        .toast-show {
+            display: block;
+            animation: toastIn 0.3s;
+        }
+
+        @keyframes toastIn {
+            from {
+                opacity: 0;
+                bottom: 0;
+            }
+
+            to {
+                opacity: 1;
+                bottom: 40px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <div class="dashboard">
+        <div class="header">
+            <h1>街頭演説マップ</h1>
+            <div style="display:flex; gap:8px;">
+                <button class="help-toggle" onclick="openModal('helpModal')">❓ 使い方</button>
+                <a href="list.html" class="view-toggle">📊 一覧</a>
+            </div>
+        </div>
+
+        <div class="filters">
+            <div class="filter-group">
+                <input type="text" id="search-input" placeholder="キーワード検索..." oninput="updateDisplay()">
+            </div>
+            <div class="filter-group">
+                <select id="pref-filter" onchange="updateDisplay()">
+                    <option value="">すべての都道府県</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <select id="constituency-filter" onchange="updateDisplay()">
+                    <option value="">すべての選挙区</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <select id="candidate-filter" onchange="updateDisplay()">
+                    <option value="">すべての候補者</option>
+                </select>
+            </div>
+            <div class="filter-group" id="admin-filter" style="display:none; align-items:center;">
+                <label style="font-size:0.75rem; color: #ef4444; font-weight:bold; cursor:pointer;">
+                    <input type="checkbox" id="dispute-only" onchange="updateDisplay()"> ⚠️報告のみ表示
+                </label>
+            </div>
+        </div>
+
+        <div id="admin-panel"
+            style="display:none; background: #334155; padding: 10px; border-radius: 8px; margin-bottom: 15px; border-left: 5px solid #fbbf24;">
+            <div style="font-size:0.8rem; margin-bottom: 8px; color:#fff;"><strong>管理者モード:</strong> スプレッドシートの報告を反映中。
+            </div>
+            <div style="display:flex; gap:10px;">
+                <button class="btn-small" style="background:#fbbf24; color:#000; font-weight:bold; padding:8px 15px;"
+                    onclick="exportUpdatedDatabase()">更新データをJSONで出力</button>
+            </div>
+            <div id="export-area" style="display:none; margin-top:10px;">
+                <p style="font-size:11px; color:#fbbf24; margin-bottom:5px;"><strong>💡 安全な更新方法:</strong><br>1.
+                    下のJSONを全文コピー<br>2. ターミナルで <code>node scripts/update_db.js</code> を実行<br>3.
+                    指示に従ってペーストすると、バックアップを作成して更新されます。</p>
+                <textarea id="json-output"
+                    style="width:100%; height:120px; background:#000; color:#0f0; font-family:monospace; font-size:10px;"></textarea>
+            </div>
+        </div>
+
+        <div id="results"></div>
+
+        <footer class="app-footer">
+            <div class="footer-links">
+                <a href="terms.html" target="_blank" class="footer-link">利用規約</a>
+                <span class="footer-separator">|</span>
+                <a href="privacy.html" target="_blank" class="footer-link">プライバシーポリシー</a>
+                <span class="footer-separator">|</span>
+                <a href="https://lit.link/yamadayuji1990" target="_blank" class="footer-link">つくった人</a>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Dispute Modal -->
+    <div id="disputeModal" class="modal">
+        <div class="modal-content">
+            <div style="display:flex; justify-content:space-between; margin-bottom:15px;">
+                <h3>不自然な点を報告</h3>
+                <span style="font-size:24px; cursor:pointer" onclick="closeModal('disputeModal')">✕</span>
+            </div>
+            <div class="modal-body">
+                <p id="disputeTarget" style="font-size: 0.8rem; color: var(--text-muted);"></p>
+                <select id="disputeReason"
+                    style="width:100%; padding:10px; background:#0f172a; color:#fff; border:1px solid #334155; margin-bottom:10px;">
+                    <option value="場所が違う">場所が違う</option>
+                    <option value="時間が違う">時間が違う</option>
+                    <option value="中止/変更されていた">中止/変更されていた</option>
+                    <option value="その他">その他</option>
+                </select>
+                <textarea id="disputeComment"
+                    style="width:100%; height:80px; padding:10px; background:#0f172a; color:#fff; border:1px solid #334155; margin-bottom:10px;"
+                    placeholder="詳細な状況（任意）"></textarea>
+                <button class="btn-primary" onclick="submitDispute()">報告を送信する</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Help Modal -->
+    <div id="helpModal" class="modal">
+        <div class="modal-content" style="max-width: 500px;">
+            <div
+                style="display:flex; justify-content:space-between; margin-bottom:15px; border-bottom: 2px solid var(--accent); padding-bottom: 10px;">
+                <h3 style="margin:0;">🗺 街頭演説マップの使い方</h3>
+                <span style="font-size:24px; cursor:pointer" onclick="closeModal('helpModal')">✕</span>
+            </div>
+            <div class="modal-body" style="font-size: 0.9rem; line-height: 1.6;">
+                <p>このマップは、街頭演説の予定をみんなで確認し、正確な場所に修正していくプロジェクトです。</p>
+
+                <h4 style="color: var(--accent); margin: 15px 0 5px;">📍 ピンの色と精度</h4>
+                <ul style="padding-left: 20px;">
+                    <li><b style="color: var(--status-auto);">● 青色: 自動推定</b><br>AIや住所から大まかに配置した場所です。精度は低めです。</li>
+                    <li><b style="color: var(--status-verified);">● 黄色: 住所✓済</b><br>閲覧者が「大体この場所で合っている」と確認した場所です。</li>
+                    <li><b style="color: var(--status-pinpoint);">● 赤色: 精密✓済</b><br>ピンを駐車場の入口などの正確な位置に合わせた場所です。</li>
+                </ul>
+
+                <h4 style="color: var(--accent); margin: 15px 0 5px;">🤝 地図を育てる（協力する方法）</h4>
+                <p>ピンをクリックするとメニューが表示されます。</p>
+                <ul style="padding-left: 20px;">
+                    <li><b>[大体OK]</b> : 場所が合っていれば押してください。</li>
+                    <li><b>[ピンポイント調整]</b> : ピンを正確な場所（駐車場の入口など）へドラッグして確定できます。</li>
+                    <li><b>[不自然・間違い報告]</b> : スケジュールの変更や、場所が明らかに違う場合に報告できます。</li>
+                </ul>
+                <p style="font-size: 0.8rem; background: rgba(59, 130, 246, 0.1); padding: 10px; border-radius: 6px;">
+                    ※皆様の報告はリアルタイムに共有（または管理者が承認）され、地図の精度向上に役立てられます。</p>
+            </div>
+            <button class="btn-primary" style="margin-top:15px;" onclick="closeModal('helpModal')">閉じる</button>
+        </div>
+    </div>
+
+    <div id="editGuide" class="guide-banner">
+        ピンをドラッグして正確な位置に移動させてください<br>
+        <div style="margin-top:12px; display:flex; justify-content:center; gap:10px;">
+            <button class="btn-small"
+                style="background:#fff; color:var(--accent); padding:8px 20px; font-weight:bold; font-size:0.8rem;"
+                onclick="finishEditing()">この位置で確定</button>
+            <button class="btn-small" style="background:rgba(255,255,255,0.2); padding:8px 20px; font-size:0.8rem;"
+                onclick="cancelEditing()">キャンセル</button>
+        </div>
+    </div>
+
+    <div id="toast"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="data/database.js"></script>
+    <script>
+        const GAS_URL = "https://script.google.com/macros/s/AKfycbwyC7S8oiLvND6Blzowji2koOLG1z7rKxza9sbdMISSfmCGW_EEP9RCNlqvwGDMPLXv/exec";
+        const isAdmin = new URLSearchParams(window.location.search).get('mode') === 'admin';
+        let map;
+        let markers = [];
+        let editingIndex = null;
+        let originalLatLng = null;
+        let currentDisputeTarget = null;
+
+        function initMap() {
+            map = L.map('map').setView([36.3, 138.1], 10);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; OpenStreetMap contributors'
+            }).addTo(map);
+        }
+
+        function createMarkerIcon(status, isDisputed = false) {
+            let size, color, opacity;
+            if (status === 2) { size = 14; color = 'var(--status-pinpoint)'; opacity = 1; }
+            else if (status === 1) { size = 20; color = 'var(--status-verified)'; opacity = 0.8; }
+            else { size = 28; color = 'var(--status-auto)'; opacity = 0.5; }
+
+            const badgeHtml = isDisputed ? '<div class="dispute-badge">!</div>' : '';
+
+            return L.divIcon({
+                className: 'custom-div-icon',
+                html: `<div class="marker-pin" style="width: ${size}px; height: ${size}px; background: ${color}; opacity: ${opacity};">${badgeHtml}</div>`,
+                iconSize: [size, size],
+                iconAnchor: [size / 2, size / 2]
+            });
+        }
+
+        async function reportToGAS(data) {
+            const params = new URLSearchParams(data);
+            try {
+                await fetch(`${GAS_URL}?${params.toString()}`, { mode: 'no-cors' });
+                return true;
+            } catch (e) {
+                console.error("GAS Report error:", e);
+                return false;
+            }
+        }
+
+        function updateDisplay() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const pref = document.getElementById('pref-filter').value;
+            const consti = document.getElementById('constituency-filter').value;
+            const candidate = document.getElementById('candidate-filter').value;
+            const disputeOnly = document.getElementById('dispute-only').checked;
+
+            markers.forEach(m => map.removeLayer(m));
+            markers = [];
+
+            const filteredData = GAITOU_DB.filter(item => {
+                const matchesSearch = item.candidate.toLowerCase().includes(searchTerm) ||
+                    item.schedule.some(s => s.location.toLowerCase().includes(searchTerm));
+                const matchesPref = !pref || item.prefecture === pref;
+                const matchesConsti = !consti || item.constituency === consti;
+                const matchesCandidate = !candidate || item.candidate === candidate;
+
+                // For checking disputes across schedules within an item
+                const hasDispute = item.schedule.some(s => s.dispute);
+                const matchesDispute = !disputeOnly || hasDispute;
+
+                return matchesSearch && matchesPref && matchesConsti && matchesCandidate && matchesDispute;
+            });
+
+            const resultsContainer = document.getElementById('results');
+            resultsContainer.innerHTML = '';
+            const bounds = L.latLngBounds();
+
+            filteredData.forEach(item => {
+                let scheduleHtml = '';
+                let hasVisibleSchedules = false;
+
+                item.schedule.forEach(s => {
+                    // Filter at schedule level if disputeOnly is checked
+                    if (disputeOnly && !s.dispute) return;
+
+                    hasVisibleSchedules = true;
+                    const statusLabels = ["自動推定", "住所✓済", "精密✓済"];
+                    const statusClass = `status-${s.status}`;
+                    const currentIndex = markers.length;
+
+                    scheduleHtml += `
+                        <div class="schedule-item">
+                            <span>${s.time} ${s.location}</span>
+                            <div>
+                                <span class="status-badge ${statusClass}">${statusLabels[s.status]}</span>
+                                <button class="btn-small" onclick="focusOn(${s.lat}, ${s.lng})">位置</button>
+                            </div>
+                        </div>
+                    `;
+                    // ... (marker creation stays same but needs to use currentIndex correctly)
+
+                    let actionButtonsHtml = '';
+                    if (s.status === 0) {
+                        actionButtonsHtml = `
+                            <button onclick="quickVerify(${currentIndex})" class="btn-small" style="background:var(--success); color:white; padding:8px; font-weight:bold; margin:0;">大体OK</button>
+                            <button onclick="startEditingMarker(${currentIndex})" class="btn-small" style="background:var(--status-verified); color:#000; padding:8px; font-weight:bold; margin:0;">ピンポイント調整</button>
+                        `;
+                    } else if (s.status === 1) {
+                        actionButtonsHtml = `
+                            <button onclick="startEditingMarker(${currentIndex})" class="btn-small" style="background:var(--status-verified); color:#000; padding:8px; font-weight:bold; margin:0;">ピンポイント調整</button>
+                        `;
+                    }
+
+                    const disputeHtml = s.dispute ? `
+                        <div class="dispute-banner-popup">
+                            <strong>⚠️ 報告あり</strong><br>
+                            ${s.dispute}
+                        </div>
+                    ` : '';
+
+                    let adminActionsHtml = '';
+                    if (isAdmin && s.dispute) {
+                        adminActionsHtml = `
+                            <div style="background:var(--border); padding:8px; border-radius:4px; margin-top:10px;">
+                                <div style="font-size:0.7rem; font-weight:bold; margin-bottom:5px;">管理者用：異議の解決</div>
+                                <div style="display:grid; grid-template-columns: 1fr 1fr; gap:4px;">
+                                    <button onclick="resolveDispute('${item.id}', '${s.time}', 0)" class="btn-small" style="background:#444;">推定へ戻す</button>
+                                    <button onclick="resolveDispute('${item.id}', '${s.time}', 1)" class="btn-small" style="background:#444;">住所OKへ</button>
+                                    <button onclick="resolveDispute('${item.id}', '${s.time}', 2)" class="btn-small" style="background:#444;">精密OKへ</button>
+                                    <button onclick="startEditingMarker(${currentIndex})" class="btn-small" style="background:var(--accent);">位置修正</button>
+                                </div>
+                            </div>
+                        `;
+                    }
+
+                    const marker = L.marker([s.lat, s.lng], {
+                        icon: createMarkerIcon(s.status, (isAdmin && !!s.dispute)),
+                        data: { id: item.id, candidate: item.candidate, location: s.location, time: s.time, lat: s.lat, lng: s.lng }
+                    }).bindPopup(`
+                        <div style="font-family: sans-serif; min-width: 220px; color: var(--text); padding:5px;">
+                            ${disputeHtml}
+                            <strong style="color:var(--accent); font-size:1.1rem;">${item.candidate}</strong><br>
+                            <span style="font-size:0.9rem;">${item.date} ${s.time}</span><br>
+                            <span style="font-size:0.9rem;">${s.location}</span><br>
+                            <span class="status-badge ${statusClass}" style="margin:5px 0; display:inline-block;">${statusLabels[s.status]}</span>
+                            
+                            <div style="margin-top:12px; border-top:1px solid var(--border); padding-top:10px; display:flex; flex-direction:column; gap:8px;">
+                                ${actionButtonsHtml}
+                                <button onclick="openDisputeModal('${item.id}', '${item.candidate}', '${s.location}', '${s.time}')" class="btn-small" style="background:#666; padding:8px; margin:0;">不自然・間違い報告</button>
+                                ${adminActionsHtml}
+                            </div>
+                        </div>
+                    `);
+                    marker.addTo(map);
+                    markers.push(marker);
+                    bounds.extend([s.lat, s.lng]);
+                });
+
+                if (hasVisibleSchedules) {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                        <div style="display:flex; gap:10px; width:100%;">
+                            <img src="${item.image_path}" class="card-img" onclick="window.open('${item.image_path}')">
+                            <div class="card-content">
+                                <div class="card-header">
+                                    <span class="candidate-name">${item.candidate}</span>
+                                    <span class="date-info">${item.date} (${item.day_of_week})</span>
+                                </div>
+                                <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px;">${item.prefecture} / ${item.constituency}</div>
+                                ${scheduleHtml}
+                            </div>
+                        </div>
+                    `;
+                    resultsContainer.appendChild(card);
+                }
+            });
+
+            if (markers.length > 0) map.fitBounds(bounds, { padding: [50, 50] });
+        }
+
+        async function quickVerify(index) {
+            const marker = markers[index];
+            if (!marker) return;
+            const data = marker.options.data;
+
+            await reportToGAS({
+                id: data.id,
+                candidate: data.candidate,
+                location: data.location + " (" + data.time + ")",
+                action: "住所確認",
+                detail: "OK"
+            });
+
+            marker.setIcon(createMarkerIcon(1));
+            marker.closePopup();
+            alert("ご協力ありがとうございます！住所確認を記録しました。");
+        }
+
+        function startEditingMarker(index) {
+            if (!confirm("ピンの微調整を開始します。送信するまで元の位置には手動で戻せなくなります（ページ読み込み直しは必要）。よろしいですか？")) return;
+
+            editingIndex = index;
+            const marker = markers[index];
+            originalLatLng = marker.getLatLng();
+            marker.dragging.enable();
+            marker.closePopup();
+            document.getElementById('editGuide').style.display = 'block';
+            map.flyTo(marker.getLatLng(), 18);
+        }
+
+        async function finishEditing() {
+            if (editingIndex === null) return;
+            const marker = markers[editingIndex];
+            const newPos = marker.getLatLng();
+            const data = marker.options.data;
+
+            await reportToGAS({
+                id: data.id,
+                candidate: data.candidate,
+                location: data.location + " (" + data.time + ")",
+                action: "精密特定",
+                detail: `${newPos.lat}, ${newPos.lng}`
+            });
+
+            marker.setIcon(createMarkerIcon(2));
+            marker.dragging.disable();
+
+            // Show toast message
+            showToast("報告ありがとうございます！反映には「再読み込み」が必要です。");
+
+            // To prevent the pin from jumping back during this session
+            originalLatLng = newPos;
+            cancelEditing();
+        }
+
+        function showToast(msg) {
+            const t = document.getElementById('toast');
+            t.textContent = msg;
+            t.style.display = 'block';
+            t.classList.add('fade-in');
+            setTimeout(() => { t.style.display = 'none'; }, 5000);
+        }
+
+        function cancelEditing() {
+            if (editingIndex !== null) {
+                markers[editingIndex].setLatLng(originalLatLng);
+                markers[editingIndex].dragging.disable();
+            }
+            editingIndex = null;
+            document.getElementById('editGuide').style.display = 'none';
+        }
+
+        function openDisputeModal(id, candidate, location, time) {
+            currentDisputeTarget = { id, candidate, location, time };
+            document.getElementById('disputeTarget').textContent = `対象: ${candidate} - ${location} (${time})`;
+            document.getElementById('disputeModal').style.display = 'block';
+        }
+
+        function openModal(id) { document.getElementById(id).style.display = 'block'; }
+
+        function closeModal(id) { document.getElementById(id).style.display = 'none'; }
+
+        async function submitDispute() {
+            if (!currentDisputeTarget) return;
+            const reason = document.getElementById('disputeReason').value;
+            const comment = document.getElementById('disputeComment').value;
+
+            await reportToGAS({
+                id: currentDisputeTarget.id,
+                candidate: currentDisputeTarget.candidate,
+                location: currentDisputeTarget.location + " (" + currentDisputeTarget.time + ")",
+                action: "異議申し立て",
+                detail: `理由: ${reason} / コメント: ${comment}`
+            });
+
+            alert("不自然な点の報告を送信しました。目視確認いたします。");
+            closeModal('disputeModal');
+            currentDisputeTarget = null;
+        }
+
+        function resolveDispute(id, time, newStatus) {
+            const item = GAITOU_DB.find(d => d.id === String(id));
+            if (item) {
+                const schedule = item.schedule.find(s => s.time === time);
+                if (schedule) {
+                    schedule.status = newStatus;
+                    delete schedule.dispute;
+                    updateDisplay();
+                    alert("ステータスを更新しました。「更新後のデータをJSONで出力」ボタンで保存を忘れないでください。");
+                }
+            }
+        }
+
+        async function syncFromGas() {
+            if (isAdmin) {
+                document.getElementById('admin-filter').style.display = 'flex';
+                document.getElementById('admin-panel').style.display = 'block';
+            }
+
+            try {
+                const response = await fetch(`${GAS_URL}?read=true`);
+                const logs = await response.json();
+
+                logs.forEach(log => {
+                    const [ts, id, cand, loc, action, detail] = log;
+                    if (!id) return;
+
+                    const item = GAITOU_DB.find(d => d.id === String(id));
+                    if (item) {
+                        const timeInLoc = loc.match(/\((.*?)\)/)?.[1];
+                        const schedule = item.schedule.find(s => s.time === timeInLoc);
+
+                        if (schedule) {
+                            if (action === "住所確認") {
+                                schedule.status = Math.max(schedule.status, 1);
+                            } else if (action === "精密特定") {
+                                const coords = detail.split(',').map(s => parseFloat(s.trim()));
+                                if (coords.length === 2 && !isNaN(coords[0]) && !isNaN(coords[1])) {
+                                    schedule.lat = coords[0];
+                                    schedule.lng = coords[1];
+                                    schedule.status = 2;
+                                }
+                            } else if (action === "異議申し立て" && isAdmin) {
+                                schedule.dispute = detail;
+                            }
+                        }
+                    }
+                });
+                console.log("Admin: Live reports loaded.");
+            } catch (e) {
+                console.warn("No sync data.");
+            }
+        }
+
+        function exportUpdatedDatabase() {
+            // Clean up temporary dispute data before export if needed
+            const dataToExport = GAITOU_DB.map(item => {
+                const itemCopy = JSON.parse(JSON.stringify(item));
+                itemCopy.schedule.forEach(s => delete s.dispute); // Option: don't save disputes into official DB
+                return itemCopy;
+            });
+
+            const jsonText = JSON.stringify(dataToExport, null, 4);
+            document.getElementById('export-area').style.display = 'block';
+            document.getElementById('json-output').value = jsonText;
+            document.getElementById('json-output').select();
+            alert("現在の状態をJSONで書き出しました。これを database.json にコピーして上書きしてください。");
+        }
+
+        function focusOn(lat, lng) { map.flyTo([lat, lng], 17); }
+
+        function initFilters() {
+            const prefs = new Set(), constis = new Set(), candidates = new Set();
+            GAITOU_DB.forEach(item => { prefs.add(item.prefecture); constis.add(item.constituency); candidates.add(item.candidate); });
+            populateSelect('pref-filter', Array.from(prefs).sort());
+            populateSelect('constituency-filter', Array.from(constis).sort());
+            populateSelect('candidate-filter', Array.from(candidates).sort());
+        }
+
+        function populateSelect(id, items) {
+            const select = document.getElementById(id);
+            items.forEach(item => { const opt = document.createElement('option'); opt.value = item; opt.textContent = item; select.appendChild(opt); });
+        }
+
+        window.onload = async () => {
+            initMap();
+            initFilters();
+            await syncFromGas(); // Apply crowdsourced updates BEFORE rendering
+            updateDisplay();
+        };
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>利用規約 - 街頭演説スケジュール管理ツール</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --text: #f1f5f9;
+            --text-muted: #94a3b8;
+            --accent: #3b82f6;
+            --border: #334155;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 2rem;
+            line-height: 1.8;
+            display: flex;
+            justify-content: center;
+        }
+
+        .content-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 1rem;
+            padding: 2.5rem;
+            max-width: 800px;
+            width: 100%;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(135deg, #60a5fa, #3b82f6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-align: center;
+            font-weight: 800;
+        }
+
+        h2 {
+            font-size: 1.25rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: var(--accent);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
+        }
+
+        p,
+        li {
+            font-size: 0.95rem;
+            color: var(--text);
+        }
+
+        ul {
+            padding-left: 1.5rem;
+        }
+
+        .back-link {
+            display: block;
+            margin-top: 3rem;
+            text-align: center;
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--accent);
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content-card">
+        <h1>利用規約</h1>
+
+        <section>
+            <h2>1. 本サービスの目的</h2>
+            <p>本サービスは、政治家の街頭演説スケジュールを可視化し、有権者の情報アクセスを助け、今後の立候補者の街頭演説スケジュールづくりをサポートすることを目的としています。</p>
+        </section>
+
+        <section>
+            <h2>2. 情報の正確性について</h2>
+            <ul>
+                <li>表示されるデータは、AI（画像解析）によって自動抽出されたもの、または有志の協力によって入力されたものです。</li>
+                <li><strong>情報の正確性、完全性、最新性は保証されません。</strong> 天候や諸事情による急な変更・中止、および解析ミスが含まれる可能性があります。</li>
+                <li>必ず各候補者の公式SNSやHP、事務所発表等の一次情報を併せてご確認ください。</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>3. 免責事項</h2>
+            <ul>
+                <li>本サービスの利用により生じた直接的、間接的な損害について、開発者および運営者は一切の責任を負いません。</li>
+                <li>本サービスは予告なく停止、内容の変更、データの削除を行う場合があります。</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>4. 禁止事項</h2>
+            <ul>
+                <li>虚偽の情報を投稿・報告する行為。</li>
+                <li>本サービスの運営を妨害する行為、または不正にデータを改ざんする行為。</li>
+                <li>特定の候補者や政党に対する誹謗中傷を目的とした利用。</li>
+            </ul>
+        </section>
+
+        <a href="index.html" class="back-link">← マップに戻る</a>
+    </div>
+</body>
+
+</html>
