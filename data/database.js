@@ -393,5 +393,150 @@ const GAITOU_DB = [
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
+    },
+    {
+        "id": "S__520740868",
+        "image_path": "photos/260129_長野県_藤田ひかる.jpg",
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "藤田ひかる",
+        "constituency": "長野2区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "09:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "長野市商工会 豊野支所",
+                "lat": 36.71073,
+                "lng": 138.273945,
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "region": "飯綱町",
+                "municipality": "飯綱町",
+                "location": "飯綱町直売所さんちゃん前",
+                "lat": 36.68537,
+                "lng": 138.261947,
+                "status": 0
+            },
+            {
+                "time": "12:30",
+                "region": "信濃町",
+                "municipality": "信濃町",
+                "location": "第一スーパー古間店前",
+                "lat": 36.795296,
+                "lng": 138.216092,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "長野市戸隠",
+                "municipality": "長野市",
+                "location": "戸隠観光情報センター",
+                "lat": 36.741287,
+                "lng": 138.084595,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "長野市鬼無里",
+                "municipality": "長野市",
+                "location": "そば処鬼無里",
+                "lat": 36.6794329,
+                "lng": 137.9990808,
+                "status": 0
+            }
+        ],
+        "early_voting": "",
+        "election_day": "2026-02-08"
+    },
+    {
+        "id": "S__520740869",
+        "image_path": "photos/260129_長野県_花岡あきひさ.jpg",
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "花岡あきひさ",
+        "constituency": "長野4区",
+        "prefecture": "長野県",
+        "party": "国民民主党",
+        "schedule": [
+            {
+                "time": "08:10",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "上諏訪駅",
+                "lat": 36.0467583,
+                "lng": 138.1164639,
+                "status": 0
+            },
+            {
+                "time": "09:00",
+                "region": "下諏訪町",
+                "municipality": "下諏訪町",
+                "location": "諏訪大社下社",
+                "lat": 36.07524,
+                "lng": 138.09109,
+                "status": 0
+            },
+            {
+                "time": "10:15",
+                "region": "下諏訪町",
+                "municipality": "下諏訪町",
+                "location": "下諏訪町高浜交差点 ツルハドラッグ付近",
+                "lat": 36.067569,
+                "lng": 138.098965,
+                "status": 0
+            },
+            {
+                "time": "14:30",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "岡谷湖畔公園 みなとなぎさパーク",
+                "lat": 36.053782,
+                "lng": 138.054508,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "フォレストモール岡谷",
+                "lat": 36.079311,
+                "lng": 138.046911,
+                "status": 0
+            },
+            {
+                "time": "16:15",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "旧アピタ・レイクウォーク岡谷",
+                "lat": 36.065889,
+                "lng": 138.052028,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "岡谷駅",
+                "lat": 36.0567444,
+                "lng": 138.0446167,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "個人演説会@ライフプラザマリオ岡谷",
+                "lat": 36.0648992,
+                "lng": 138.072354,
+                "status": 0
+            }
+        ],
+        "early_voting": "",
+        "election_day": ""
     }
 ];
