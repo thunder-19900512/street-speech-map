@@ -444,6 +444,8 @@
                 <a href="privacy.html" target="_blank" class="footer-link">プライバシーポリシー</a>
                 <span class="footer-separator">|</span>
                 <a href="https://lit.link/yamadayuji1990" target="_blank" class="footer-link">つくった人</a>
+                <span class="footer-separator">|</span>
+                <a href="?mode=admin" class="footer-link">開発者用ページへ</a>
             </div>
         </footer>
     </div>
@@ -497,8 +499,17 @@
                     <li><b>[ピンポイント調整]</b> : ピンを正確な場所（駐車場の入口など）へドラッグして確定できます。</li>
                     <li><b>[不自然・間違い報告]</b> : スケジュールの変更や、場所が明らかに違う場合に報告できます。</li>
                 </ul>
+                <h4 style="color: var(--accent); margin: 15px 0 5px;">📸 街宣カードの提供</h4>
+                <p>街頭演説のスケジュールが記載された画像（街宣カード）をお持ちの方は、以下のリンクからアップロードいただけると助かります！</p>
+                <div style="text-align: center; margin: 10px 0;">
+                    <a href="https://www.dropbox.com/request/HOt4GT4CNk2zniZ8qjHU" target="_blank" class="btn-primary"
+                        style="text-decoration: none; display: inline-block; width: auto; padding: 10px 30px;">
+                        画像をアップロードする
+                    </a>
+                </div>
+
                 <p style="font-size: 0.8rem; background: rgba(59, 130, 246, 0.1); padding: 10px; border-radius: 6px;">
-                    ※皆様の報告はリアルタイムに共有（または管理者が承認）され、地図の精度向上に役立てられます。</p>
+                    ※皆様の報告や画像提供は、地図の精度向上と最新情報の維持に役立てられます。</p>
             </div>
             <button class="btn-primary" style="margin-top:15px;" onclick="closeModal('helpModal')">閉じる</button>
         </div>
@@ -521,12 +532,70 @@
     <script src="data/database.js"></script>
     <script>
         const GAS_URL = "https://script.google.com/macros/s/AKfycbwyC7S8oiLvND6Blzowji2koOLG1z7rKxza9sbdMISSfmCGW_EEP9RCNlqvwGDMPLXv/exec";
-        const isAdmin = new URLSearchParams(window.location.search).get('mode') === 'admin';
+        let isAdmin = false; // Initial status
         let map;
         let markers = [];
         let editingIndex = null;
         let originalLatLng = null;
         let currentDisputeTarget = null;
+
+        async function checkAdminAuth() {
+            // URLパラメータの取得をより確実に
+            const search = window.location.search || (window.location.hash.includes('?') ? window.location.hash.split('?')[1] : '');
+            const params = new URLSearchParams(search);
+            const mode = params.get('mode');
+
+            console.log("Debug - URL Search string:", search);
+            console.log("Debug - Mode Value:", mode);
+
+            // ログアウト処理
+            if (params.get('logout') === 'true') {
+                sessionStorage.removeItem('admin_authenticated');
+                console.log("Admin: Logged out successfully.");
+            }
+
+            if (mode !== 'admin') {
+                console.log("Admin: Mode is not 'admin'. Detected:", mode);
+                return false;
+            }
+
+            // すでに認証済みかチェック
+            if (sessionStorage.getItem('admin_authenticated') === 'true') {
+                console.log("Admin: Already authenticated via session.");
+                return true;
+            }
+
+            console.log("Admin: Requesting password...");
+            const password = prompt("管理者パスワードを入力してください");
+            if (!password) {
+                console.log("Admin: Password prompt cancelled.");
+                return false;
+            }
+
+            // 実行環境の確認 (SHA-256にはSecure Contextが必要な場合があります)
+            if (!window.crypto || !window.crypto.subtle) {
+                alert("エラー: お使いのブラウザ、または通信環境(非HTTPS等)ではパスワード照合ができません。\nlocalhost または HTTPS でアクセスしてください。");
+                return false;
+            }
+
+            // SHA-256でハッシュ化
+            const msgBuffer = new TextEncoder().encode(password);
+            const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
+            const EXPECTED_HASH = "e11571c3a4763d1a9c7afbe5b651c4fcb3a59e0091e9af83c3c26aba31fa0a30";
+
+            if (hashHex === EXPECTED_HASH) {
+                sessionStorage.setItem('admin_authenticated', 'true');
+                console.log("Admin: Auth successful.");
+                return true;
+            } else {
+                console.log("Admin: Password mismatch.");
+                alert("パスワードが違います");
+                return false;
+            }
+        }
 
         function initMap() {
             map = L.map('map').setView([36.3, 138.1], 10);
@@ -879,9 +948,22 @@
         }
 
         window.onload = async () => {
+            console.log("App starting...");
+            isAdmin = await checkAdminAuth();
+
+            const params = new URLSearchParams(window.location.search);
+            if (params.get('mode') === 'admin' && !isAdmin) {
+                console.log("Admin: Auth failed or cancelled. Redirecting to normal mode...");
+                window.history.replaceState({}, '', window.location.pathname);
+            }
+
+            if (isAdmin) {
+                console.log("Admin mode enabled.");
+            }
+
             initMap();
             initFilters();
-            await syncFromGas(); // Apply crowdsourced updates BEFORE rendering
+            await syncFromGas();
             updateDisplay();
         };
     </script>

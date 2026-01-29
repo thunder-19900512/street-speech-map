@@ -16,7 +16,7 @@ const GAITOU_DB = [
                 "location": "板橋公民館",
                 "lat": 35.9687,
                 "lng": 138.4786,
-                "status": 0
+                "status": 1
             },
             {
                 "time": "09:15",
@@ -120,7 +120,7 @@ const GAITOU_DB = [
                 "location": "岡谷駅",
                 "lat": 36.0567,
                 "lng": 138.0446,
-                "status": 0
+                "status": 1
             },
             {
                 "time": "13:30",
@@ -177,9 +177,9 @@ const GAITOU_DB = [
                 "region": "上田市別所温泉",
                 "municipality": "上田市",
                 "location": "あいそめの湯",
-                "lat": 36.3532,
-                "lng": 138.1632,
-                "status": 0
+                "lat": 36.35362584490823,
+                "lng": 138.16287774544708,
+                "status": 2
             }
         ],
         "early_voting": "",
@@ -200,9 +200,9 @@ const GAITOU_DB = [
                 "region": "上田駅",
                 "municipality": "上田市",
                 "location": "上田駅前",
-                "lat": 36.3966,
-                "lng": 138.2493,
-                "status": 0
+                "lat": 36.39705712438108,
+                "lng": 138.2500510364335,
+                "status": 2
             },
             {
                 "time": "13:00",
@@ -250,9 +250,9 @@ const GAITOU_DB = [
                 "region": "伊那市",
                 "municipality": "伊那市",
                 "location": "伊那市セントラルパーク",
-                "lat": 35.8405,
-                "lng": 137.9598,
-                "status": 0
+                "lat": 35.840459939467046,
+                "lng": 137.96002686023715,
+                "status": 2
             },
             {
                 "time": "13:25",
@@ -524,7 +524,7 @@ const GAITOU_DB = [
                 "location": "岡谷駅",
                 "lat": 36.0567444,
                 "lng": 138.0446167,
-                "status": 0
+                "status": 1
             },
             {
                 "time": "18:30",
@@ -554,18 +554,18 @@ const GAITOU_DB = [
                 "region": "松本市",
                 "municipality": "松本市",
                 "location": "松本駅お城口広場",
-                "lat": 36.230762,
-                "lng": 137.965144,
-                "status": 0
+                "lat": 36.23127664290772,
+                "lng": 137.96524865034962,
+                "status": 2
             },
             {
                 "time": "17:10",
                 "region": "松本市",
                 "municipality": "松本市",
                 "location": "松本駅お城口広場",
-                "lat": 36.230762,
-                "lng": 137.965144,
-                "status": 0
+                "lat": 36.2312883208319,
+                "lng": 137.9652722157589,
+                "status": 2
             }
         ],
         "early_voting": "1/28(水)〜2/7(土)",
