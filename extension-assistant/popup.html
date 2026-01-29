@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            width: 350px;
+            font-family: sans-serif;
+            padding: 15px;
+            background: #f8fafc;
+            color: #334155;
+        }
+
+        h2 {
+            font-size: 1.1rem;
+            color: #1e293b;
+            margin-top: 0;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 8px;
+        }
+
+        .step {
+            margin-bottom: 12px;
+            padding: 10px;
+            background: white;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .step.done {
+            border-color: #10b981;
+            background: #f0fdf4;
+            opacity: 0.7;
+        }
+
+        .step-title {
+            font-weight: bold;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .step-desc {
+            font-size: 0.8rem;
+            color: #64748b;
+            margin-top: 5px;
+        }
+
+        .btn-row {
+            margin-top: 10px;
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            font-size: 0.75rem;
+            padding: 5px 10px;
+            border-radius: 4px;
+            border: none;
+            background: #3b82f6;
+            color: white;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        button:hover {
+            background: #2563eb;
+        }
+
+        button.secondary {
+            background: #64748b;
+        }
+
+        .copy-cmd {
+            background: #1e293b;
+            font-family: monospace;
+        }
+
+        .reset {
+            margin-top: 20px;
+            font-size: 0.7rem;
+            text-decoration: underline;
+            color: #ef4444;
+            cursor: pointer;
+            text-align: right;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>🛠 更新ステップ</h2>
+
+    <div id="steps">
+        <!-- Step 1 -->
+        <div class="step" id="step1">
+            <div class="step-title">1. 不自然・間違い報告の処理</div>
+            <div class="step-desc">管理者ページで報告された箇所を修正・承認します。</div>
+            <div class="btn-row">
+                <button id="openAdmin">管理者ページを開く</button>
+            </div>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="step" id="step2">
+            <div class="step-title">2. ローカルDB同期</div>
+            <div class="step-desc">最新JSONをコピーし、スクリプトを実行して反映。</div>
+            <div class="btn-row">
+                <button class="copy-cmd" data-copy="node scripts/update_db.js">コマンドをコピー</button>
+            </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="step" id="step3">
+            <div class="step-title">3. スプシの過去分削除</div>
+            <div class="step-desc">スプレッドシートを開いて、過去の入力を削除します。</div>
+            <div class="btn-row">
+                <button id="openSheet">スプシを開く</button>
+            </div>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="step" id="step4">
+            <div class="step-title">4. Dropboxから画像収集</div>
+            <div class="step-desc">集まった画像(街宣カード)を photos フォルダへ移動。</div>
+            <div class="btn-row">
+                <button id="openDropbox">Dropboxを開く</button>
+            </div>
+        </div>
+
+        <!-- Step 5 -->
+        <div class="step" id="step5">
+            <div class="step-title">5. AIに解析を依頼</div>
+            <div class="step-desc">AIチャットに解析・更新・コミットを指示します。</div>
+            <div class="btn-row">
+                <button class="copy-cmd" data-copy="photosフォルダの新規画像を解析して、jsonを更新して、エラーなどなければコミットして。">指示文をコピー</button>
+            </div>
+        </div>
+
+        <!-- Step 6 -->
+        <div class="step" id="step6">
+            <div class="step-title">6. プッシュして公開</div>
+            <div class="step-desc">手動でGitHubへ送信し、変更を反映させます。</div>
+            <div class="btn-row">
+                <button class="copy-cmd" data-copy='git push'>プッシュコマンドをコピー</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="reset" id="reset">進捗をリセット</div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>

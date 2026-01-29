@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "街頭演説マップ更新アシスタント",
+    "version": "1.2",
+    "description": "街頭演説マップの管理作業を効率化するサイドパネルアシスタント",
+    "action": {
+        "default_title": "更新アシスタントを開く"
+    },
+    "permissions": [
+        "sidePanel",
+        "storage"
+    ],
+    "side_panel": {
+        "default_path": "popup.html"
+    },
+    "icons": {
+        "128": "icon.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}

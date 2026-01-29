@@ -9,9 +9,33 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "参政党",
         "schedule": [
-            { "time": "10:00", "region": "松本市", "municipality": "松本市", "location": "松本駅前お城口", "lat": 36.2312, "lng": 137.9652, "status": 0 },
-            { "time": "14:00", "region": "松本市", "municipality": "松本市", "location": "千歳橋", "lat": 36.2343, "lng": 137.9698, "status": 0 },
-            { "time": "16:00", "region": "松本市", "municipality": "松本市", "location": "渚一丁目交差点", "lat": 36.2316, "lng": 137.9576, "status": 0 }
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅前お城口",
+                "lat": 36.2312,
+                "lng": 137.9652,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "千歳橋",
+                "lat": 36.2343,
+                "lng": 137.9698,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "渚一丁目交差点",
+                "lat": 36.2316,
+                "lng": 137.9576,
+                "status": 0
+            }
         ]
     },
     {
@@ -24,9 +48,33 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "日本維新の会",
         "schedule": [
-            { "time": "10:00", "region": "松本市", "municipality": "松本市", "location": "渚交差点", "lat": 36.2316, "lng": 137.9576, "status": 0 },
-            { "time": "11:00", "region": "安曇野市", "municipality": "安曇野市", "location": "安曇野市インターパーク", "lat": 36.2950, "lng": 137.9220, "status": 0 },
-            { "time": "14:00", "region": "松本市", "municipality": "松本市", "location": "松本駅", "lat": 36.2312, "lng": 137.9652, "status": 0 }
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "渚交差点",
+                "lat": 36.2316,
+                "lng": 137.9576,
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "安曇野市インターパーク",
+                "lat": 36.295,
+                "lng": 137.922,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅",
+                "lat": 36.2312,
+                "lng": 137.9652,
+                "status": 0
+            }
         ]
     },
     {
@@ -39,9 +87,33 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "参政党",
         "schedule": [
-            { "time": "10:00", "region": "松本市", "municipality": "松本市", "location": "白板交差点", "lat": 36.2393, "lng": 137.9616, "status": 0 },
-            { "time": "14:00", "region": "松本市", "municipality": "松本市", "location": "平田駅東交差点", "lat": 36.2003, "lng": 137.9616, "status": 0 },
-            { "time": "16:00", "region": "松本市", "municipality": "松本市", "location": "筑摩南交差点", "lat": 36.2235, "lng": 137.9791, "status": 0 }
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "白板交差点",
+                "lat": 36.2393,
+                "lng": 137.9616,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "平田駅東交差点",
+                "lat": 36.2003,
+                "lng": 137.9616,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "筑摩南交差点",
+                "lat": 36.2235,
+                "lng": 137.9791,
+                "status": 0
+            }
         ]
     },
     {
@@ -54,10 +126,42 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "日本維新の会",
         "schedule": [
-            { "time": "07:30", "region": "松本市", "municipality": "松本市", "location": "桜橋東交差点", "lat": 36.2413, "lng": 137.9752, "status": 0 },
-            { "time": "10:00", "region": "松本市", "municipality": "松本市", "location": "新村交差点", "lat": 36.2255, "lng": 137.8996, "status": 0 },
-            { "time": "14:30", "region": "松本市", "municipality": "松本市", "location": "平瀬口交差点", "lat": 36.2745, "lng": 137.9461, "status": 0 },
-            { "time": "17:00", "region": "松本市", "municipality": "松本市", "location": "高宮交差点", "lat": 36.2165, "lng": 137.9631, "status": 0 }
+            {
+                "time": "07:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "桜橋東交差点",
+                "lat": 36.2413,
+                "lng": 137.9752,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "新村交差点",
+                "lat": 36.2255,
+                "lng": 137.8996,
+                "status": 0
+            },
+            {
+                "time": "14:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "平瀬口交差点",
+                "lat": 36.2745,
+                "lng": 137.9461,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "高宮交差点",
+                "lat": 36.2165,
+                "lng": 137.9631,
+                "status": 0
+            }
         ]
     },
     {
@@ -70,8 +174,24 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "中道改革連合",
         "schedule": [
-            { "time": "15:00", "region": "伊那市", "municipality": "伊那市", "location": "伊那市セントラルパーク", "lat": 35.8405, "lng": 137.9600, "status": 0 },
-            { "time": "17:00", "region": "飯田市", "municipality": "飯田市", "location": "Aコープあいぱんいいだ店前", "lat": 35.5218, "lng": 137.8226, "status": 0 }
+            {
+                "time": "15:00",
+                "region": "伊那市",
+                "municipality": "伊那市",
+                "location": "伊那市セントラルパーク",
+                "lat": 35.8405,
+                "lng": 137.96,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "飯田市",
+                "municipality": "飯田市",
+                "location": "Aコープあいぱんいいだ店前",
+                "lat": 35.5218,
+                "lng": 137.8226,
+                "status": 0
+            }
         ]
     },
     {
@@ -84,8 +204,24 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "自由民主党",
         "schedule": [
-            { "time": "11:00", "region": "佐久市望月", "municipality": "佐久市", "location": "望月川西座跡地", "lat": 36.2754, "lng": 138.3582, "status": 0 },
-            { "time": "15:00", "region": "立科町", "municipality": "立科町", "location": "立科町老人福祉センター", "lat": 36.2652, "lng": 138.3283, "status": 0 }
+            {
+                "time": "11:00",
+                "region": "佐久市望月",
+                "municipality": "佐久市",
+                "location": "望月川西座跡地",
+                "lat": 36.2754,
+                "lng": 138.3582,
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "region": "立科町",
+                "municipality": "立科町",
+                "location": "立科町老人福祉センター",
+                "lat": 36.2652,
+                "lng": 138.3283,
+                "status": 0
+            }
         ]
     },
     {
@@ -98,10 +234,42 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "中道改革連合",
         "schedule": [
-            { "time": "08:00", "region": "東御市", "municipality": "東御市", "location": "東御市常田交差点", "lat": 36.3536, "lng": 138.3181, "status": 0 },
-            { "time": "10:30", "region": "東御市", "municipality": "東御市", "location": "田中商店街 (小林時計店前)", "lat": 36.3512, "lng": 138.3315, "status": 0 },
-            { "time": "13:00~", "region": "小諸市", "municipality": "小諸市", "location": "小諸市街地", "lat": null, "lng": null, "status": 0 },
-            { "time": "15:30", "region": "小諸市", "municipality": "小諸市", "location": "山浦管工 駐車場", "lat": 36.3315, "lng": 138.4121, "status": 0 }
+            {
+                "time": "08:00",
+                "region": "東御市",
+                "municipality": "東御市",
+                "location": "東御市常田交差点",
+                "lat": 36.3536,
+                "lng": 138.3181,
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "region": "東御市",
+                "municipality": "東御市",
+                "location": "田中商店街 (小林時計店前)",
+                "lat": 36.3512,
+                "lng": 138.3315,
+                "status": 0
+            },
+            {
+                "time": "13:00~",
+                "region": "小諸市",
+                "municipality": "小諸市",
+                "location": "小諸市街地",
+                "lat": null,
+                "lng": null,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "小諸市",
+                "municipality": "小諸市",
+                "location": "山浦管工 駐車場",
+                "lat": 36.3315,
+                "lng": 138.4121,
+                "status": 0
+            }
         ]
     },
     {
@@ -114,9 +282,33 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "参政党",
         "schedule": [
-            { "time": "10:00", "region": "安曇野市", "municipality": "安曇野市", "location": "堀金交差点", "lat": 36.2913, "lng": 137.8931, "status": 0 },
-            { "time": "14:00", "region": "安曇野市", "municipality": "安曇野市", "location": "柏矢町交差点", "lat": 36.3195, "lng": 137.9045, "status": 0 },
-            { "time": "16:00", "region": "安曇野市", "municipality": "安曇野市", "location": "カインズ豊科店 南T字路", "lat": 36.2952, "lng": 137.9251, "status": 0 }
+            {
+                "time": "10:00",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "堀金交差点",
+                "lat": 36.2913,
+                "lng": 137.8931,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "柏矢町交差点",
+                "lat": 36.3195,
+                "lng": 137.9045,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "カインズ豊科店 南T字路",
+                "lat": 36.2952,
+                "lng": 137.9251,
+                "status": 0
+            }
         ]
     },
     {
@@ -129,11 +321,51 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "日本維新の会",
         "schedule": [
-            { "time": "07:30", "region": "松本市", "municipality": "松本市", "location": "高宮交差点", "lat": 36.2165, "lng": 137.9631, "status": 0 },
-            { "time": "10:00", "region": "松本市", "municipality": "松本市", "location": "松本駅", "lat": 36.2312, "lng": 137.9652, "status": 0 },
-            { "time": "11:30", "region": "安曇野市", "municipality": "安曇野市", "location": "エルサ安曇野", "lat": 36.2916, "lng": 137.9221, "status": 0 },
-            { "time": "13:00", "region": "松本市", "municipality": "松本市", "location": "並柳交差点", "lat": 36.2135, "lng": 137.9801, "status": 0 },
-            { "time": "17:30", "region": "松本市", "municipality": "松本市", "location": "高宮交差点", "lat": 36.2165, "lng": 137.9631, "status": 0 }
+            {
+                "time": "07:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "高宮交差点",
+                "lat": 36.2165,
+                "lng": 137.9631,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅",
+                "lat": 36.2312,
+                "lng": 137.9652,
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "エルサ安曇野",
+                "lat": 36.2916,
+                "lng": 137.9221,
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "並柳交差点",
+                "lat": 36.2135,
+                "lng": 137.9801,
+                "status": 0
+            },
+            {
+                "time": "17:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "高宮交差点",
+                "lat": 36.21501801309926,
+                "lng": 137.96038091182712,
+                "status": 2
+            }
         ]
     },
     {
@@ -146,13 +378,69 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "中道改革連合",
         "schedule": [
-            { "time": "08:10", "region": "南牧村野辺山", "municipality": "南牧村", "location": "板橋公民館", "lat": 35.9687, "lng": 138.4786, "status": 1 },
-            { "time": "09:15", "region": "川上村", "municipality": "川上村", "location": "ナナーズ川上店", "lat": 35.9708, "lng": 138.5669, "status": 0 },
-            { "time": "10:30", "region": "南相木村", "municipality": "南相木村", "location": "南相木村役場横", "lat": 36.036, "lng": 138.5469, "status": 0 },
-            { "time": "未定", "region": "北相木村", "municipality": "北相木村", "location": "中島公民館", "lat": 36.0356, "lng": 138.5474, "status": 0 },
-            { "time": "11:30", "region": "小海町", "municipality": "小海町", "location": "親沢公園横 駐車場", "lat": 36.0931, "lng": 138.4831, "status": 0 },
-            { "time": "16:30", "region": "佐久穂町", "municipality": "佐久穂町", "location": "キッチンえみゅー様 駐車場", "lat": 36.1558, "lng": 138.4745, "status": 0 },
-            { "time": "18:00~", "region": "佐久市街地", "municipality": "佐久市", "location": "佐久市街地", "lat": null, "lng": null, "status": 0 }
+            {
+                "time": "08:10",
+                "region": "南牧村野辺山",
+                "municipality": "南牧村",
+                "location": "板橋公民館",
+                "lat": 35.9687,
+                "lng": 138.4786,
+                "status": 1
+            },
+            {
+                "time": "09:15",
+                "region": "川上村",
+                "municipality": "川上村",
+                "location": "ナナーズ川上店",
+                "lat": 35.9708,
+                "lng": 138.5669,
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "region": "南相木村",
+                "municipality": "南相木村",
+                "location": "南相木村役場横",
+                "lat": 36.036,
+                "lng": 138.5469,
+                "status": 0
+            },
+            {
+                "time": "未定",
+                "region": "北相木村",
+                "municipality": "北相木村",
+                "location": "中島公民館",
+                "lat": 36.0356,
+                "lng": 138.5474,
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "region": "小海町",
+                "municipality": "小海町",
+                "location": "親沢公園横 駐車場",
+                "lat": 36.0931,
+                "lng": 138.4831,
+                "status": 0
+            },
+            {
+                "time": "16:30",
+                "region": "佐久穂町",
+                "municipality": "佐久穂町",
+                "location": "キッチンえみゅー様 駐車場",
+                "lat": 36.1558,
+                "lng": 138.4745,
+                "status": 0
+            },
+            {
+                "time": "18:00~",
+                "region": "佐久市街地",
+                "municipality": "佐久市",
+                "location": "佐久市街地",
+                "lat": null,
+                "lng": null,
+                "status": 0
+            }
         ],
         "early_voting": "1/28(水)〜2/7(土)",
         "election_day": "2026-02-08"
@@ -167,14 +455,78 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "国民民主党",
         "schedule": [
-            { "time": "08:40", "region": "茅野市", "municipality": "茅野市", "location": "茅野駅", "lat": 35.99427934440608, "lng": 138.15302789211276, "status": 0 },
-            { "time": "09:30", "region": "茅野市", "municipality": "茅野市", "location": "茅野市横内 交差点", "lat": 35.9963, "lng": 138.1459, "status": 0 },
-            { "time": "10:30", "region": "茅野市", "municipality": "茅野市", "location": "オギノ茅野ショッピングセンター", "lat": 36.0008, "lng": 138.1507, "status": 0 },
-            { "time": "13:00", "region": "岡谷市", "municipality": "岡谷市", "location": "岡谷駅", "lat": 36.0567, "lng": 138.0446, "status": 1 },
-            { "time": "13:30", "region": "岡谷市", "municipality": "岡谷市", "location": "旧アピタ・蚕糸公園", "lat": 36.0657, "lng": 138.0509, "status": 0 },
-            { "time": "16:00", "region": "諏訪市", "municipality": "諏訪市", "location": "湖畔公園・湖岸通り交差点", "lat": 36.04738140844645, "lng": 138.1118077039719, "status": 0 },
-            { "time": "17:00", "region": "諏訪市", "municipality": "諏訪市", "location": "上諏訪駅", "lat": 36.0465, "lng": 138.1165, "status": 0 },
-            { "time": "18:00~", "region": "諏訪市", "municipality": "諏訪市", "location": "街宣車活動 等", "lat": null, "lng": null, "status": 0 }
+            {
+                "time": "08:40",
+                "region": "茅野市",
+                "municipality": "茅野市",
+                "location": "茅野駅",
+                "lat": 35.99427934440608,
+                "lng": 138.15302789211276,
+                "status": 0
+            },
+            {
+                "time": "09:30",
+                "region": "茅野市",
+                "municipality": "茅野市",
+                "location": "茅野市横内 交差点",
+                "lat": 35.9963,
+                "lng": 138.1459,
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "region": "茅野市",
+                "municipality": "茅野市",
+                "location": "オギノ茅野ショッピングセンター",
+                "lat": 36.0008,
+                "lng": 138.1507,
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "岡谷駅",
+                "lat": 36.0567,
+                "lng": 138.0446,
+                "status": 1
+            },
+            {
+                "time": "13:30",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "旧アピタ・蚕糸公園",
+                "lat": 36.0657,
+                "lng": 138.0509,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "湖畔公園・湖岸通り交差点",
+                "lat": 36.04738140844645,
+                "lng": 138.1118077039719,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "上諏訪駅",
+                "lat": 36.0465,
+                "lng": 138.1165,
+                "status": 1
+            },
+            {
+                "time": "18:00~",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "街宣車活動 等",
+                "lat": null,
+                "lng": null,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": ""
@@ -189,7 +541,15 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "れいわ新選組",
         "schedule": [
-            { "time": "12:00", "region": "上田市別所温泉", "municipality": "上田市", "location": "あいそめの湯", "lat": 36.35362584490823, "lng": 138.16287774544708, "status": 2 }
+            {
+                "time": "12:00",
+                "region": "上田市別所温泉",
+                "municipality": "上田市",
+                "location": "あいそめの湯",
+                "lat": 36.35362584490823,
+                "lng": 138.16287774544708,
+                "status": 2
+            }
         ],
         "early_voting": "",
         "election_day": ""
@@ -204,9 +564,33 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "自由民主党",
         "schedule": [
-            { "time": "09:00", "region": "上田駅", "municipality": "上田市", "location": "上田駅前", "lat": 36.39705712438108, "lng": 138.2500510364335, "status": 2 },
-            { "time": "13:00", "region": "東御市", "municipality": "東御市", "location": "東御市役所付近", "lat": 36.3594, "lng": 138.3304, "status": 0 },
-            { "time": "17:00", "region": "小諸市", "municipality": "小諸市", "location": "小諸駅", "lat": 36.327, "lng": 138.4217, "status": 0 }
+            {
+                "time": "09:00",
+                "region": "上田駅",
+                "municipality": "上田市",
+                "location": "上田駅前",
+                "lat": 36.39705712438108,
+                "lng": 138.2500510364335,
+                "status": 2
+            },
+            {
+                "time": "13:00",
+                "region": "東御市",
+                "municipality": "東御市",
+                "location": "東御市役所付近",
+                "lat": 36.3594,
+                "lng": 138.3304,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "小諸市",
+                "municipality": "小諸市",
+                "location": "小諸駅",
+                "lat": 36.327,
+                "lng": 138.4217,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
@@ -221,10 +605,42 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "中道改革連合",
         "schedule": [
-            { "time": "09:30", "region": "飯田市", "municipality": "飯田市", "location": "飯田駅広場アイパーク", "lat": 35.5192, "lng": 137.8214, "status": 0 },
-            { "time": "11:00", "region": "伊那市", "municipality": "伊那市", "location": "伊那市セントラルパーク", "lat": 35.840459939467046, "lng": 137.96002686023715, "status": 2 },
-            { "time": "13:25", "region": "岡谷市", "municipality": "岡谷市", "location": "岡谷市蚕糸公園前", "lat": 36.0657, "lng": 138.0509, "status": 0 },
-            { "time": "15:30", "region": "長和町", "municipality": "長和町", "location": "道の駅マルメロの駅ながと", "lat": 36.2736, "lng": 138.2581, "status": 0 }
+            {
+                "time": "09:30",
+                "region": "飯田市",
+                "municipality": "飯田市",
+                "location": "飯田駅広場アイパーク",
+                "lat": 35.5192,
+                "lng": 137.8214,
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "region": "伊那市",
+                "municipality": "伊那市",
+                "location": "伊那市セントラルパーク",
+                "lat": 35.840459939467046,
+                "lng": 137.96002686023715,
+                "status": 2
+            },
+            {
+                "time": "13:25",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "岡谷市蚕糸公園前",
+                "lat": 36.0657,
+                "lng": 138.0509,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "長和町",
+                "municipality": "長和町",
+                "location": "道の駅マルメロの駅ながと",
+                "lat": 36.2736,
+                "lng": 138.2581,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": ""
@@ -239,15 +655,87 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "自由民主党",
         "schedule": [
-            { "time": "09:30", "region": "安曇野市", "municipality": "安曇野市", "location": "安曇野庁舎", "lat": 36.3026, "lng": 137.8996, "status": 0 },
-            { "time": "10:30", "region": "安曇野市", "municipality": "安曇野市", "location": "ベイシア堀金店前", "lat": 36.3025, "lng": 137.8758, "status": 0 },
-            { "time": "11:30", "region": "安曇野市", "municipality": "安曇野市", "location": "ザ・ビッグ三郷店前", "lat": 36.2448, "lng": 137.889, "status": 0 },
-            { "time": "13:30", "region": "安曇野市", "municipality": "安曇野市", "location": "白金交差点付近", "lat": 36.3331, "lng": 137.8952, "status": 0 },
-            { "time": "14:30", "region": "池田町", "municipality": "池田町", "location": "ザ・ビッグ信州池田店前", "lat": 36.386, "lng": 137.8931, "status": 0 },
-            { "time": "15:00", "region": "池田町", "municipality": "池田町", "location": "ツルヤ池田店前", "lat": 36.4112, "lng": 137.8795, "status": 0 },
-            { "time": "15:30", "region": "大町市", "municipality": "大町市", "location": "デリシア大町店前", "lat": 36.4974, "lng": 137.8575, "status": 0 },
-            { "time": "16:00", "region": "大町市", "municipality": "大町市", "location": "サンアルプス大町", "lat": 36.5189, "lng": 137.856, "status": 0 },
-            { "time": "18:00", "region": "池田町", "municipality": "池田町", "location": "池田町商工会館", "lat": 36.4218, "lng": 137.8766, "status": 0 }
+            {
+                "time": "09:30",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "安曇野庁舎",
+                "lat": 36.3026,
+                "lng": 137.8996,
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "ベイシア堀金店前",
+                "lat": 36.3025,
+                "lng": 137.8758,
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "ザ・ビッグ三郷店前",
+                "lat": 36.2448,
+                "lng": 137.889,
+                "status": 0
+            },
+            {
+                "time": "13:30",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "白金交差点付近",
+                "lat": 36.3331,
+                "lng": 137.8952,
+                "status": 0
+            },
+            {
+                "time": "14:30",
+                "region": "池田町",
+                "municipality": "池田町",
+                "location": "ザ・ビッグ信州池田店前",
+                "lat": 36.386,
+                "lng": 137.8931,
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "region": "池田町",
+                "municipality": "池田町",
+                "location": "ツルヤ池田店前",
+                "lat": 36.4112,
+                "lng": 137.8795,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "大町市",
+                "municipality": "大町市",
+                "location": "デリシア大町店前",
+                "lat": 36.4974,
+                "lng": 137.8575,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "大町市",
+                "municipality": "大町市",
+                "location": "サンアルプス大町",
+                "lat": 36.5189,
+                "lng": 137.856,
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "region": "池田町",
+                "municipality": "池田町",
+                "location": "池田町商工会館",
+                "lat": 36.4218,
+                "lng": 137.8766,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
@@ -262,7 +750,15 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "中道改革連合",
         "schedule": [
-            { "time": "18:30~", "region": "上田市", "municipality": "上田市", "location": "上田文化会館", "lat": 36.3999, "lng": 138.2605, "status": 0 }
+            {
+                "time": "18:30~",
+                "region": "上田市",
+                "municipality": "上田市",
+                "location": "上田文化会館",
+                "lat": 36.3999,
+                "lng": 138.2605,
+                "status": 1
+            }
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
@@ -277,11 +773,51 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "自由民主党",
         "schedule": [
-            { "time": "09:00", "region": "長野市", "municipality": "長野市", "location": "長野市商工会 豊野支所", "lat": 36.71073, "lng": 138.273945, "status": 0 },
-            { "time": "10:30", "region": "飯綱町", "municipality": "飯綱町", "location": "飯綱町直売所さんちゃん前", "lat": 36.68537, "lng": 138.261947, "status": 0 },
-            { "time": "12:30", "region": "信濃町", "municipality": "信濃町", "location": "第一スーパー古間店前", "lat": 36.795296, "lng": 138.216092, "status": 0 },
-            { "time": "14:00", "region": "長野市戸隠", "municipality": "長野市", "location": "戸隠観光情報センター", "lat": 36.741287, "lng": 138.084595, "status": 0 },
-            { "time": "15:30", "region": "長野市鬼無里", "municipality": "長野市", "location": "そば処鬼無里", "lat": 36.6794329, "lng": 137.9990808, "status": 0 }
+            {
+                "time": "09:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "長野市商工会 豊野支所",
+                "lat": 36.71073,
+                "lng": 138.273945,
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "region": "飯綱町",
+                "municipality": "飯綱町",
+                "location": "飯綱町直売所さんちゃん前",
+                "lat": 36.68537,
+                "lng": 138.261947,
+                "status": 0
+            },
+            {
+                "time": "12:30",
+                "region": "信濃町",
+                "municipality": "信濃町",
+                "location": "第一スーパー古間店前",
+                "lat": 36.795296,
+                "lng": 138.216092,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "長野市戸隠",
+                "municipality": "長野市",
+                "location": "戸隠観光情報センター",
+                "lat": 36.741287,
+                "lng": 138.084595,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "長野市鬼無里",
+                "municipality": "長野市",
+                "location": "そば処鬼無里",
+                "lat": 36.6794329,
+                "lng": 137.9990808,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
@@ -296,14 +832,78 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "国民民主党",
         "schedule": [
-            { "time": "08:10", "region": "諏訪市", "municipality": "諏訪市", "location": "上諏訪駅", "lat": 36.0467583, "lng": 138.1164639, "status": 0 },
-            { "time": "09:00", "region": "下諏訪町", "municipality": "下諏訪町", "location": "諏訪大社下社", "lat": 36.07524, "lng": 138.09109, "status": 0 },
-            { "time": "10:15", "region": "下諏訪町", "municipality": "下諏訪町", "location": "下諏訪町高浜交差点 ツルハドラッグ付近", "lat": 36.067569, "lng": 138.098965, "status": 0 },
-            { "time": "14:30", "region": "岡谷市", "municipality": "岡谷市", "location": "岡谷湖畔公園 みなとなぎさパーク", "lat": 36.053782, "lng": 138.054508, "status": 0 },
-            { "time": "15:30", "region": "岡谷市", "municipality": "岡谷市", "location": "フォレストモール岡谷", "lat": 36.079311, "lng": 138.046911, "status": 0 },
-            { "time": "16:15", "region": "岡谷市", "municipality": "岡谷市", "location": "旧アピタ・レイクウォーク岡谷", "lat": 36.065889, "lng": 138.052028, "status": 0 },
-            { "time": "17:00", "region": "岡谷市", "municipality": "岡谷市", "location": "岡谷駅", "lat": 36.0567444, "lng": 138.0446167, "status": 1 },
-            { "time": "18:30", "region": "岡谷市", "municipality": "岡谷市", "location": "個人演説会@ライフプラザマリオ岡谷", "lat": 36.0648992, "lng": 138.072354, "status": 0 }
+            {
+                "time": "08:10",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "上諏訪駅",
+                "lat": 36.0467583,
+                "lng": 138.1164639,
+                "status": 1
+            },
+            {
+                "time": "09:00",
+                "region": "下諏訪町",
+                "municipality": "下諏訪町",
+                "location": "諏訪大社下社",
+                "lat": 36.07524,
+                "lng": 138.09109,
+                "status": 0
+            },
+            {
+                "time": "10:15",
+                "region": "下諏訪町",
+                "municipality": "下諏訪町",
+                "location": "下諏訪町高浜交差点 ツルハドラッグ付近",
+                "lat": 36.067569,
+                "lng": 138.098965,
+                "status": 0
+            },
+            {
+                "time": "14:30",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "岡谷湖畔公園 みなとなぎさパーク",
+                "lat": 36.053782,
+                "lng": 138.054508,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "フォレストモール岡谷",
+                "lat": 36.079311,
+                "lng": 138.046911,
+                "status": 0
+            },
+            {
+                "time": "16:15",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "旧アピタ・レイクウォーク岡谷",
+                "lat": 36.065889,
+                "lng": 138.052028,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "岡谷駅",
+                "lat": 36.0567444,
+                "lng": 138.0446167,
+                "status": 1
+            },
+            {
+                "time": "18:30",
+                "region": "岡谷市",
+                "municipality": "岡谷市",
+                "location": "個人演説会@ライフプラザマリオ岡谷",
+                "lat": 36.0648992,
+                "lng": 138.072354,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": ""
@@ -318,8 +918,24 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "中道改革連合",
         "schedule": [
-            { "time": "10:00", "region": "松本市", "municipality": "松本市", "location": "松本駅お城口広場", "lat": 36.23127664290772, "lng": 137.96524865034962, "status": 2 },
-            { "time": "17:10", "region": "松本市", "municipality": "松本市", "location": "松本駅お城口広場", "lat": 36.2312883208319, "lng": 137.9652722157589, "status": 2 }
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅お城口広場",
+                "lat": 36.23127664290772,
+                "lng": 137.96524865034962,
+                "status": 2
+            },
+            {
+                "time": "17:10",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅お城口広場",
+                "lat": 36.2312883208319,
+                "lng": 137.9652722157589,
+                "status": 2
+            }
         ],
         "early_voting": "1/28(水)〜2/7(土)",
         "election_day": "2026-02-08"
@@ -334,9 +950,33 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "自由民主党",
         "schedule": [
-            { "time": "18:00", "region": "高山村", "municipality": "高山村", "location": "荒井原区公会堂", "lat": 36.671, "lng": 138.3582, "status": 0 },
-            { "time": "18:30", "region": "小布施町", "municipality": "小布施町", "location": "小布施町商工会館", "lat": 36.7042, "lng": 138.3155, "status": 0 },
-            { "time": "19:00", "region": "須坂市", "municipality": "須坂市", "location": "須坂市シルキーホール", "lat": 36.6517, "lng": 138.3121, "status": 0 }
+            {
+                "time": "18:00",
+                "region": "高山村",
+                "municipality": "高山村",
+                "location": "荒井原区公会堂",
+                "lat": 36.671,
+                "lng": 138.3582,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "小布施町",
+                "municipality": "小布施町",
+                "location": "小布施町商工会館",
+                "lat": 36.7042,
+                "lng": 138.3155,
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "region": "須坂市",
+                "municipality": "須坂市",
+                "location": "須坂市シルキーホール",
+                "lat": 36.6517,
+                "lng": 138.3121,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
@@ -351,12 +991,60 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "自由民主党",
         "schedule": [
-            { "time": "16:25", "region": "長野市", "municipality": "長野市", "location": "ケーズデンキ長野本店前", "lat": 36.6265, "lng": 138.1884, "status": 0 },
-            { "time": "16:50", "region": "長野駅", "municipality": "長野市", "location": "長野駅前 善光寺口", "lat": 36.6431, "lng": 138.1886, "status": 0 },
-            { "time": "18:00", "region": "長野市", "municipality": "長野市", "location": "五分一公民館", "lat": 36.6384, "lng": 138.2096, "status": 0 },
-            { "time": "18:30", "region": "長野市", "municipality": "長野市", "location": "西後町公民館", "lat": 36.6491, "lng": 138.1873, "status": 0 },
-            { "time": "19:00", "region": "長野市", "municipality": "長野市", "location": "上松公会堂", "lat": 36.6669, "lng": 138.2001, "status": 0 },
-            { "time": "19:30", "region": "長野市", "municipality": "長野市", "location": "西宮神社", "lat": 36.6565, "lng": 138.1878, "status": 0 }
+            {
+                "time": "16:25",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "ケーズデンキ長野本店前",
+                "lat": 36.6265,
+                "lng": 138.1884,
+                "status": 0
+            },
+            {
+                "time": "16:50",
+                "region": "長野駅",
+                "municipality": "長野市",
+                "location": "長野駅前 善光寺口",
+                "lat": 36.6431,
+                "lng": 138.1886,
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "五分一公民館",
+                "lat": 36.6384,
+                "lng": 138.2096,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "西後町公民館",
+                "lat": 36.6491,
+                "lng": 138.1873,
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "上松公会堂",
+                "lat": 36.6669,
+                "lng": 138.2001,
+                "status": 0
+            },
+            {
+                "time": "19:30",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "西宮神社",
+                "lat": 36.6565,
+                "lng": 138.1878,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
@@ -371,11 +1059,51 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "party": "自由民主党",
         "schedule": [
-            { "time": "09:00", "region": "長野市", "municipality": "長野市", "location": "ホテル国際21 正面玄関前", "lat": 36.651583, "lng": 138.182644, "status": 0 },
-            { "time": "11:10", "region": "長野市", "municipality": "長野市", "location": "JAグリーン長野 若穂果実流通センター", "lat": 36.610186, "lng": 138.251759, "status": 0 },
-            { "time": "13:05", "region": "高山村", "municipality": "高山村", "location": "中山会館", "lat": 36.691809, "lng": 138.366909, "status": 0 },
-            { "time": "17:15", "region": "栄村", "municipality": "栄村", "location": "森宮野原駅前", "lat": 36.989089, "lng": 138.577871, "status": 0 },
-            { "time": "18:30", "region": "木島平村", "municipality": "木島平村", "location": "中村区民会館", "lat": 36.86137, "lng": 138.404986, "status": 0 }
+            {
+                "time": "09:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "ホテル国際21 正面玄関前",
+                "lat": 36.651583,
+                "lng": 138.182644,
+                "status": 0
+            },
+            {
+                "time": "11:10",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "JAグリーン長野 若穂果実流通センター",
+                "lat": 36.610186,
+                "lng": 138.251759,
+                "status": 0
+            },
+            {
+                "time": "13:05",
+                "region": "高山村",
+                "municipality": "高山村",
+                "location": "中山会館",
+                "lat": 36.691809,
+                "lng": 138.366909,
+                "status": 0
+            },
+            {
+                "time": "17:15",
+                "region": "栄村",
+                "municipality": "栄村",
+                "location": "森宮野原駅前",
+                "lat": 36.989089,
+                "lng": 138.577871,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "木島平村",
+                "municipality": "木島平村",
+                "location": "中村区民会館",
+                "lat": 36.86137,
+                "lng": 138.404986,
+                "status": 0
+            }
         ],
         "early_voting": "",
         "election_day": "2026-02-08"
