@@ -1,5 +1,266 @@
 const GAITOU_DB = [
     {
+        "id": "17432",
+        "image_path": "photos/260130_長野県_若林けんた.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "若林けんた",
+        "constituency": "長野1区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "17:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "TOiGO前 バス停付近",
+                "lat": 36.649,
+                "lng": 138.188,
+                "status": 0
+            },
+            {
+                "time": "17:30",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "長野駅前 善光寺口",
+                "lat": 36.643,
+                "lng": 138.188,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "上駒沢会館",
+                "lat": 36.696,
+                "lng": 138.232,
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "若槻東条会館",
+                "lat": 36.685,
+                "lng": 138.204,
+                "status": 0
+            },
+            {
+                "time": "19:30",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "浅川公民館",
+                "lat": 36.685,
+                "lng": 138.185,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17431",
+        "image_path": "photos/260129_長野県_わかさ清史.jpg",
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "わかさ清史",
+        "constituency": "長野1区",
+        "prefecture": "長野県",
+        "party": "日本維新の会",
+        "schedule": [
+            {
+                "time": "18:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "長野駅前",
+                "lat": 36.643033,
+                "lng": 138.188643,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17430",
+        "image_path": "photos/260128_長野県_仁科ひろき.jpg",
+        "date": "2026-01-28",
+        "day_of_week": "水",
+        "candidate": "仁科ひろき",
+        "constituency": "長野3区",
+        "prefecture": "長野県",
+        "party": "参政党",
+        "schedule": [
+            {
+                "time": "08:00",
+                "region": "佐久市",
+                "municipality": "佐久市",
+                "location": "佐久平駅",
+                "lat": 36.277,
+                "lng": 138.463,
+                "status": 0
+            },
+            {
+                "time": "09:30",
+                "region": "佐久市",
+                "municipality": "佐久市",
+                "location": "佐久大学入口交差点",
+                "lat": 36.255,
+                "lng": 138.465,
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "region": "佐久市",
+                "municipality": "佐久市",
+                "location": "フォレストモール佐久平",
+                "lat": 36.273,
+                "lng": 138.465,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "小諸市",
+                "municipality": "小諸市",
+                "location": "湧玉川橋北交差点",
+                "lat": 36.315,
+                "lng": 138.455,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "佐久市",
+                "municipality": "佐久市",
+                "location": "フォレストモール佐久平",
+                "lat": 36.273,
+                "lng": 138.465,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17429",
+        "image_path": "photos/260129_長野県_仁科ひろき.jpg",
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "仁科ひろき",
+        "constituency": "長野3区",
+        "prefecture": "長野県",
+        "party": "参政党",
+        "schedule": [
+            {
+                "time": "08:30",
+                "region": "小諸市",
+                "municipality": "小諸市",
+                "location": "浅間サンライン入口交差点",
+                "lat": 36.311,
+                "lng": 138.423,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "御代田町",
+                "municipality": "御代田町",
+                "location": "鳥井原東交差点",
+                "lat": 36.319,
+                "lng": 138.508,
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "region": "小諸市",
+                "municipality": "小諸市",
+                "location": "三ツ矢東交差点",
+                "lat": 36.326,
+                "lng": 138.455,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "小諸市",
+                "municipality": "小諸市",
+                "location": "浅間中学校西交差点",
+                "lat": 36.342,
+                "lng": 138.425,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17428",
+        "image_path": "photos/260130_長野県_神津たけし.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "神津たけし",
+        "constituency": "長野3区",
+        "prefecture": "長野県",
+        "party": "中道改革連合",
+        "schedule": [
+            {
+                "time": "08:00",
+                "region": "千曲市",
+                "municipality": "千曲市",
+                "location": "粟佐北交差点",
+                "lat": 36.541,
+                "lng": 138.192,
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "region": "千曲市",
+                "municipality": "千曲市",
+                "location": "ウィッシュホーム様前",
+                "lat": 36.529,
+                "lng": 138.118,
+                "status": 0
+            },
+            {
+                "time": "14:30",
+                "region": "千曲市",
+                "municipality": "千曲市",
+                "location": "武水別神社鳥居前",
+                "lat": 36.525,
+                "lng": 138.125,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "千曲市",
+                "municipality": "千曲市",
+                "location": "マツモトキヨシ千曲内川店様前",
+                "lat": 36.495,
+                "lng": 138.165,
+                "status": 0
+            },
+            {
+                "time": "18:00~",
+                "region": "坂城町",
+                "municipality": "坂城町",
+                "location": "坂城町遊説",
+                "lat": 36.46,
+                "lng": 138.15,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17427",
+        "image_path": "photos/260129_長野県_山口こうじ.jpg",
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "山口こうじ",
+        "constituency": "長野県",
+        "prefecture": "長野県",
+        "party": "れいわ新選組",
+        "schedule": [
+            {
+                "time": "11:00",
+                "region": "上田市",
+                "municipality": "上田市",
+                "location": "アリオ上田横",
+                "lat": 36.397,
+                "lng": 138.243,
+                "status": 0
+            }
+        ]
+    },
+    {
         "id": "S__64880647",
         "image_path": "photos/260127_長野県_竹下ひろよし.jpg",
         "date": "2026-01-27",
@@ -23,9 +284,9 @@ const GAITOU_DB = [
                 "region": "松本市",
                 "municipality": "松本市",
                 "location": "千歳橋",
-                "lat": 36.2343,
-                "lng": 137.9698,
-                "status": 0
+                "lat": 36.23445362215017,
+                "lng": 137.9694601893425,
+                "status": 2
             },
             {
                 "time": "16:00",
@@ -94,16 +355,16 @@ const GAITOU_DB = [
                 "location": "白板交差点",
                 "lat": 36.2393,
                 "lng": 137.9616,
-                "status": 0
+                "status": 1
             },
             {
                 "time": "14:00",
                 "region": "松本市",
                 "municipality": "松本市",
                 "location": "平田駅東交差点",
-                "lat": 36.2003,
-                "lng": 137.9616,
-                "status": 0
+                "lat": 36.1910305499097,
+                "lng": 137.96468853950503,
+                "status": 2
             },
             {
                 "time": "16:00",
@@ -158,9 +419,9 @@ const GAITOU_DB = [
                 "region": "松本市",
                 "municipality": "松本市",
                 "location": "高宮交差点",
-                "lat": 36.2165,
-                "lng": 137.9631,
-                "status": 0
+                "lat": 36.21499638379496,
+                "lng": 137.96031117439273,
+                "status": 2
             }
         ]
     },
@@ -326,9 +587,9 @@ const GAITOU_DB = [
                 "region": "松本市",
                 "municipality": "松本市",
                 "location": "高宮交差点",
-                "lat": 36.2165,
-                "lng": 137.9631,
-                "status": 0
+                "lat": 36.21498667327043,
+                "lng": 137.96042919158938,
+                "status": 2
             },
             {
                 "time": "10:00",
@@ -362,8 +623,8 @@ const GAITOU_DB = [
                 "region": "松本市",
                 "municipality": "松本市",
                 "location": "高宮交差点",
-                "lat": 36.21501801309926,
-                "lng": 137.96038091182712,
+                "lat": 36.215013688693276,
+                "lng": 137.96042650938037,
                 "status": 2
             }
         ]
