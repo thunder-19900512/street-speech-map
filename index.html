@@ -668,16 +668,20 @@
                     if (disputeOnly && !s.dispute) return;
 
                     hasVisibleSchedules = true;
+                    const hasCoords = (s.lat && s.lng && !isNaN(s.lat) && !isNaN(s.lng));
                     const statusLabels = ["自動推定", "住所✓済", "精密✓済"];
                     const statusClass = `status-${s.status}`;
                     const currentIndex = markers.length;
+
+                    // 座標がある場合のみ「位置」ボタンを表示
+                    const locationBtn = hasCoords ? `<button class="btn-small" onclick="focusOn(${s.lat}, ${s.lng})">位置</button>` : `<span style="font-size:0.7rem; color:var(--text-muted); margin-left:8px;">(詳細未詳)</span>`;
 
                     scheduleHtml += `
                         <div class="schedule-item">
                             <span>${s.time} ${s.location}</span>
                             <div>
                                 <span class="status-badge ${statusClass}">${statusLabels[s.status]}</span>
-                                <button class="btn-small" onclick="focusOn(${s.lat}, ${s.lng})">位置</button>
+                                ${locationBtn}
                             </div>
                         </div>
                     `;
@@ -717,27 +721,29 @@
                         `;
                     }
 
-                    const marker = L.marker([s.lat, s.lng], {
-                        icon: createMarkerIcon(s.status, (isAdmin && !!s.dispute)),
-                        data: { id: item.id, candidate: item.candidate, location: s.location, time: s.time, lat: s.lat, lng: s.lng }
-                    }).bindPopup(`
-                        <div style="font-family: sans-serif; min-width: 220px; color: var(--text); padding:5px;">
-                            ${disputeHtml}
-                            <strong style="color:var(--accent); font-size:1.1rem;">${item.candidate}</strong><br>
-                            <span style="font-size:0.9rem;">${item.date} ${s.time}</span><br>
-                            <span style="font-size:0.9rem;">${s.location}</span><br>
-                            <span class="status-badge ${statusClass}" style="margin:5px 0; display:inline-block;">${statusLabels[s.status]}</span>
-                            
-                            <div style="margin-top:12px; border-top:1px solid var(--border); padding-top:10px; display:flex; flex-direction:column; gap:8px;">
-                                ${actionButtonsHtml}
-                                <button onclick="openDisputeModal('${item.id}', '${item.candidate}', '${s.location}', '${s.time}')" class="btn-small" style="background:#666; padding:8px; margin:0;">不自然・間違い報告</button>
-                                ${adminActionsHtml}
+                    if (hasCoords) {
+                        const marker = L.marker([s.lat, s.lng], {
+                            icon: createMarkerIcon(s.status, (isAdmin && !!s.dispute)),
+                            data: { id: item.id, candidate: item.candidate, location: s.location, time: s.time, lat: s.lat, lng: s.lng }
+                        }).bindPopup(`
+                            <div style="font-family: sans-serif; min-width: 220px; color: var(--text); padding:5px;">
+                                ${disputeHtml}
+                                <strong style="color:var(--accent); font-size:1.1rem;">${item.candidate}</strong><br>
+                                <span style="font-size:0.9rem;">${item.date} ${s.time}</span><br>
+                                <span style="font-size:0.9rem;">${s.location}</span><br>
+                                <span class="status-badge ${statusClass}" style="margin:5px 0; display:inline-block;">${statusLabels[s.status]}</span>
+                                
+                                <div style="margin-top:12px; border-top:1px solid var(--border); padding-top:10px; display:flex; flex-direction:column; gap:8px;">
+                                    ${actionButtonsHtml}
+                                    <button onclick="openDisputeModal('${item.id}', '${item.candidate}', '${s.location}', '${s.time}')" class="btn-small" style="background:#666; padding:8px; margin:0;">不自然・間違い報告</button>
+                                    ${adminActionsHtml}
+                                </div>
                             </div>
-                        </div>
-                    `);
-                    marker.addTo(map);
-                    markers.push(marker);
-                    bounds.extend([s.lat, s.lng]);
+                        `);
+                        marker.addTo(map);
+                        markers.push(marker);
+                        bounds.extend([s.lat, s.lng]);
+                    }
                 });
 
                 if (hasVisibleSchedules) {

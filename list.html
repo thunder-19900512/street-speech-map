@@ -332,8 +332,13 @@
                 let dayType = holiday || item.day_of_week === '土' || item.day_of_week === '日' ? 'weekend-hol' : 'weekday';
                 const dayClass = holiday ? 'day-holiday' : (item.day_of_week === '土' ? 'day-sat' : (item.day_of_week === '日' ? 'day-sun' : ''));
 
-                item.schedule.forEach(s => {
-                    html += `
+                const hasCoords = (s.lat && s.lng && !isNaN(s.lat) && !isNaN(s.lng));
+                const mapLink = hasCoords ? `
+                        <a href="https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}" target="_blank" 
+                           style="color:var(--accent); text-decoration:none; font-size:0.75rem;">地図 ↗</a>
+                    ` : '-';
+
+                html += `
                         <tr class="data-row" 
                             data-candidate="${item.candidate}"
                             data-date="${item.date}"
@@ -354,13 +359,9 @@
                             <td class="city-area">${s.municipality || '-'}</td>
                             <td>${s.location}</td>
                             <td><span class="badge-status badge-${s.status}">${statusLabels[s.status]}</span></td>
-                            <td>
-                                <a href="https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}" target="_blank" 
-                                   style="color:var(--accent); text-decoration:none; font-size:0.75rem;">地図 ↗</a>
-                            </td>
+                            <td>${mapLink}</td>
                         </tr>
                     `;
-                });
             });
             tbody.innerHTML = html;
         }
