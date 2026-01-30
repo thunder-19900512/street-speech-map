@@ -1,5 +1,329 @@
 const GAITOU_DB = [
     {
+        "id": "17446",
+        "image_path": "photos/260130_長野県_後藤しげゆき.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "後藤しげゆき",
+        "constituency": "長野4区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "08:15",
+                "region": "木祖村",
+                "municipality": "木祖村",
+                "location": "笑ん館",
+                "lat": 35.981,
+                "lng": 137.765,
+                "status": 0
+            },
+            {
+                "time": "11:40",
+                "region": "木曽町",
+                "municipality": "木曽町",
+                "location": "交流促進センター",
+                "lat": 35.852,
+                "lng": 137.605,
+                "status": 0
+            },
+            {
+                "time": "12:15",
+                "region": "王滝村",
+                "municipality": "王滝村",
+                "location": "王滝村総合案内所",
+                "lat": 35.815,
+                "lng": 137.555,
+                "status": 0
+            },
+            {
+                "time": "13:50",
+                "region": "木曽町",
+                "municipality": "木曽町",
+                "location": "JAグリーンファームきそ",
+                "lat": 35.845,
+                "lng": 137.695,
+                "status": 0
+            },
+            {
+                "time": "15:50",
+                "region": "大桑村",
+                "municipality": "大桑村",
+                "location": "野尻地区館",
+                "lat": 35.665,
+                "lng": 137.645,
+                "status": 0
+            },
+            {
+                "time": "16:50",
+                "region": "南木曽町",
+                "municipality": "南木曽町",
+                "location": "南木曽駅前",
+                "lat": 35.602,
+                "lng": 137.612,
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "region": "上松町",
+                "municipality": "上松町",
+                "location": "上松町ひのきの里総合文化センター",
+                "lat": 35.785,
+                "lng": 137.695,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17445",
+        "image_path": "photos/260131_長野県_藤田ひかる.jpg",
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "藤田ひかる",
+        "constituency": "長野2区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "09:00",
+                "region": "朝日村",
+                "municipality": "朝日村",
+                "location": "朝日村商工会館",
+                "lat": 36.132,
+                "lng": 137.885,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "山形村",
+                "municipality": "山形村",
+                "location": "山形村ミラフード館",
+                "lat": 36.152,
+                "lng": 137.905,
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "今井 道の駅",
+                "lat": 36.168,
+                "lng": 137.915,
+                "status": 0
+            },
+            {
+                "time": "13:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "イオンタウン松本村井前",
+                "lat": 36.182,
+                "lng": 137.955,
+                "status": 0
+            },
+            {
+                "time": "14:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "デリシア寿店前",
+                "lat": 36.202,
+                "lng": 137.985,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "綿半松本芳川店",
+                "lat": 36.195,
+                "lng": 137.965,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17444",
+        "image_path": "photos/260130_長野県_藤田ひかる.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "藤田ひかる",
+        "constituency": "長野2区",
+        "prefecture": "長野県",
+        "party": "自由民主党",
+        "schedule": [
+            {
+                "time": "09:00",
+                "region": "生坂村",
+                "municipality": "生坂村",
+                "location": "生坂村若者コミュニティセンター",
+                "lat": 36.415,
+                "lng": 137.915,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "麻績村",
+                "municipality": "麻績村",
+                "location": "麻績村地域交流センター",
+                "lat": 36.465,
+                "lng": 138.015,
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "region": "筑北村",
+                "municipality": "筑北村",
+                "location": "筑北村本城公民館",
+                "lat": 36.418,
+                "lng": 138.025,
+                "status": 0
+            },
+            {
+                "time": "16:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "デリシア桐店前",
+                "lat": 36.252,
+                "lng": 137.975,
+                "status": 0
+            },
+            {
+                "time": "17:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "元町西友前",
+                "lat": 36.238,
+                "lng": 137.985,
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "松本駅前",
+                "lat": 36.231,
+                "lng": 137.965,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17443",
+        "image_path": "photos/260130_長野県_手塚大輔.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "手塚大輔",
+        "constituency": "長野2区",
+        "prefecture": "長野県",
+        "party": "日本維新の会",
+        "schedule": [
+            {
+                "time": "07:30",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "白板交差点",
+                "lat": 36.239,
+                "lng": 137.961,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "下堀西交差点",
+                "lat": 36.248,
+                "lng": 137.940,
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "region": "安曇野市",
+                "municipality": "安曇野市",
+                "location": "柏矢町交差点",
+                "lat": 36.319,
+                "lng": 137.904,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "桜橋東交差点",
+                "lat": 36.241,
+                "lng": 137.975,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "松本市",
+                "municipality": "松本市",
+                "location": "並柳",
+                "lat": 36.213,
+                "lng": 137.980,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17442",
+        "image_path": "photos/260130_長野県_竹下ひろよし.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "竹下ひろよし",
+        "constituency": "長野2区",
+        "prefecture": "長野県",
+        "party": "参政党",
+        "schedule": [
+            {
+                "time": "10:00",
+                "region": "長野市",
+                "municipality": "長野市",
+                "location": "エーコープしんまち店 付近",
+                "lat": 36.562,
+                "lng": 138.005,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "白馬村",
+                "municipality": "白馬村",
+                "location": "JR白馬駅 前",
+                "lat": 36.696,
+                "lng": 137.864,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "大町市",
+                "municipality": "大町市",
+                "location": "フレスポ大町 入口付近",
+                "lat": 36.492,
+                "lng": 137.865,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17441",
+        "image_path": "photos/260130_長野県_福田じゅんた.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "福田じゅんた",
+        "constituency": "長野県",
+        "prefecture": "長野県",
+        "party": "中道改革連合",
+        "schedule": [
+            {
+                "time": "11:00",
+                "region": "飯島町",
+                "municipality": "飯島町",
+                "location": "道の駅 田切の里",
+                "lat": 35.685,
+                "lng": 137.915,
+                "status": 0
+            }
+        ]
+    },
+    {
         "id": "17440",
         "image_path": "photos/260130_福岡県_おかべよしたか.jpg",
         "date": "2026-01-30",
@@ -959,9 +1283,9 @@ const GAITOU_DB = [
                 "region": "伊那市",
                 "municipality": "伊那市",
                 "location": "伊那市セントラルパーク",
-                "lat": 35.8405,
-                "lng": 137.96,
-                "status": 0
+                "lat": 35.84049033238892,
+                "lng": 137.96004831790927,
+                "status": 2
             },
             {
                 "time": "17:00",
@@ -1626,9 +1950,9 @@ const GAITOU_DB = [
                 "region": "下諏訪町",
                 "municipality": "下諏訪町",
                 "location": "大社通り交差点（諏訪大社下社から変更）",
-                "lat": 36.07524,
-                "lng": 138.09109,
-                "status": 0
+                "lat": 36.07461456828749,
+                "lng": 138.08649301528934,
+                "status": 2
             },
             {
                 "time": "10:15",
@@ -1653,9 +1977,9 @@ const GAITOU_DB = [
                 "region": "岡谷市",
                 "municipality": "岡谷市",
                 "location": "今井交差点（フォレストモール岡谷から変更）",
-                "lat": 36.079311,
-                "lng": 138.046911,
-                "status": 0
+                "lat": 36.0823409102858,
+                "lng": 138.04695725440982,
+                "status": 2
             },
             {
                 "time": "16:15",
