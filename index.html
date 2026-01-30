@@ -397,6 +397,9 @@
                 <input type="text" id="search-input" placeholder="キーワード検索..." oninput="updateDisplay()">
             </div>
             <div class="filter-group">
+                <input type="date" id="date-filter" onchange="updateDisplay()">
+            </div>
+            <div class="filter-group">
                 <select id="pref-filter" onchange="updateDisplay()">
                     <option value="">すべての都道府県</option>
                 </select>
@@ -459,17 +462,35 @@
             </div>
             <div class="modal-body">
                 <p id="disputeTarget" style="font-size: 0.8rem; color: var(--text-muted);"></p>
-                <select id="disputeReason"
+                <select id="disputeReason" onchange="toggleDisputeFields()"
                     style="width:100%; padding:10px; background:#0f172a; color:#fff; border:1px solid #334155; margin-bottom:10px;">
                     <option value="場所が違う">場所が違う</option>
+                    <option value="場所の変更">場所の変更</option>
+                    <option value="中止">中止</option>
                     <option value="時間が違う">時間が違う</option>
-                    <option value="中止/変更されていた">中止/変更されていた</option>
                     <option value="その他">その他</option>
                 </select>
+
+                <!-- For Location Change -->
+                <div id="locationChangeFields"
+                    style="display:none; background: rgba(59, 130, 246, 0.1); padding: 10px; border-radius: 6px; margin-bottom: 10px; border: 1px solid var(--accent);">
+                    <p style="font-size: 0.75rem; margin-top: 0;"><strong>場所変更の詳細:</strong></p>
+                    <input type="text" id="newLocationName" placeholder="変更先の名称 (例: 今井交差点)"
+                        style="width:100%; padding:8px; margin-bottom:8px; background:#000; border:1px solid #555; color:#fff; font-size:0.8rem;">
+                    <div style="display:flex; gap:5px; align-items:center; margin-bottom:8px;">
+                        <input type="text" id="newCoords" readonly placeholder="地図から選んでください"
+                            style="flex:1; padding:8px; background:#111; border:1px solid #333; color:#aaa; font-size:0.75rem;">
+                        <button class="btn-small" style="background:var(--accent); white-space:nowrap;"
+                            onclick="startPickingNewLocation()">地図から選ぶ</button>
+                    </div>
+                    <input type="hidden" id="newLat">
+                    <input type="hidden" id="newLng">
+                </div>
+
                 <textarea id="disputeComment"
                     style="width:100%; height:80px; padding:10px; background:#0f172a; color:#fff; border:1px solid #334155; margin-bottom:10px;"
-                    placeholder="詳細な状況（任意）"></textarea>
-                <button class="btn-primary" onclick="submitDispute()">報告を送信する</button>
+                    placeholder="状況・変更理由（任意）"></textarea>
+                <button id="submitDisputeBtn" class="btn-primary" onclick="submitDispute()">報告を送信する</button>
             </div>
         </div>
     </div>
@@ -523,6 +544,14 @@
                 onclick="finishEditing()">この位置で確定</button>
             <button class="btn-small" style="background:rgba(255,255,255,0.2); padding:8px 20px; font-size:0.8rem;"
                 onclick="cancelEditing()">キャンセル</button>
+        </div>
+    </div>
+
+    <div id="pickingGuide" class="guide-banner">
+        地図上の新しい場所をクリックしてください<br>
+        <div style="margin-top:12px; display:flex; justify-content:center; gap:10px;">
+            <button class="btn-small" style="background:rgba(255,255,255,0.2); padding:8px 20px; font-size:0.8rem;"
+                onclick="stopPickingNewLocation()">キャンセル</button>
         </div>
     </div>
 
@@ -633,6 +662,7 @@
 
         function updateDisplay() {
             const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const date = document.getElementById('date-filter').value;
             const pref = document.getElementById('pref-filter').value;
             const consti = document.getElementById('constituency-filter').value;
             const candidate = document.getElementById('candidate-filter').value;
@@ -644,6 +674,7 @@
             const filteredData = GAITOU_DB.filter(item => {
                 const matchesSearch = item.candidate.toLowerCase().includes(searchTerm) ||
                     item.schedule.some(s => s.location.toLowerCase().includes(searchTerm));
+                const matchesDate = !date || item.date === date;
                 const matchesPref = !pref || item.prefecture === pref;
                 const matchesConsti = !consti || item.constituency === consti;
                 const matchesCandidate = !candidate || item.candidate === candidate;
@@ -652,7 +683,7 @@
                 const hasDispute = item.schedule.some(s => s.dispute);
                 const matchesDispute = !disputeOnly || hasDispute;
 
-                return matchesSearch && matchesPref && matchesConsti && matchesCandidate && matchesDispute;
+                return matchesSearch && matchesDate && matchesPref && matchesConsti && matchesCandidate && matchesDispute;
             });
 
             const resultsContainer = document.getElementById('results');
@@ -845,6 +876,46 @@
             currentDisputeTarget = { id, candidate, location, time };
             document.getElementById('disputeTarget').textContent = `対象: ${candidate} - ${location} (${time})`;
             document.getElementById('disputeModal').style.display = 'block';
+            resetDisputeModal();
+        }
+
+        function resetDisputeModal() {
+            document.getElementById('disputeReason').value = "場所が違う";
+            document.getElementById('locationChangeFields').style.display = 'none';
+            document.getElementById('newLocationName').value = "";
+            document.getElementById('newCoords').value = "";
+            document.getElementById('newLat').value = "";
+            document.getElementById('newLng').value = "";
+            document.getElementById('disputeComment').value = "";
+        }
+
+        function toggleDisputeFields() {
+            const reason = document.getElementById('disputeReason').value;
+            document.getElementById('locationChangeFields').style.display = (reason === "場所の変更") ? 'block' : 'none';
+        }
+
+        let isPickingLocation = false;
+        function startPickingNewLocation() {
+            isPickingLocation = true;
+            document.getElementById('disputeModal').style.display = 'none';
+            document.getElementById('pickingGuide').style.display = 'block';
+            map.getContainer().style.cursor = 'crosshair';
+
+            map.once('click', (e) => {
+                if (!isPickingLocation) return;
+                const { lat, lng } = e.latlng;
+                document.getElementById('newLat').value = lat;
+                document.getElementById('newLng').value = lng;
+                document.getElementById('newCoords').value = `${lat.toFixed(6)}, ${lng.toFixed(6)}`;
+                stopPickingNewLocation();
+                document.getElementById('disputeModal').style.display = 'block';
+            });
+        }
+
+        function stopPickingNewLocation() {
+            isPickingLocation = false;
+            document.getElementById('pickingGuide').style.display = 'none';
+            map.getContainer().style.cursor = '';
         }
 
         function openModal(id) { document.getElementById(id).style.display = 'block'; }
@@ -854,17 +925,31 @@
         async function submitDispute() {
             if (!currentDisputeTarget) return;
             const reason = document.getElementById('disputeReason').value;
+            let detail = `理由: ${reason}`;
+
+            if (reason === "場所の変更") {
+                const newName = document.getElementById('newLocationName').value;
+                const lat = document.getElementById('newLat').value;
+                const lng = document.getElementById('newLng').value;
+                if (!newName || !lat) {
+                    alert("変更先の名称と場所を地図から指定してください");
+                    return;
+                }
+                detail = `[CHANGE] ${newName} @ ${lat},${lng}`;
+            }
+
             const comment = document.getElementById('disputeComment').value;
+            if (comment) detail += ` / コメント: ${comment}`;
 
             await reportToGAS({
                 id: currentDisputeTarget.id,
                 candidate: currentDisputeTarget.candidate,
                 location: currentDisputeTarget.location + " (" + currentDisputeTarget.time + ")",
                 action: "異議申し立て",
-                detail: `理由: ${reason} / コメント: ${comment}`
+                detail: detail
             });
 
-            alert("不自然な点の報告を送信しました。目視確認いたします。");
+            alert("報告を送信しました。管理者が確認いたします。");
             closeModal('disputeModal');
             currentDisputeTarget = null;
         }
@@ -874,10 +959,28 @@
             if (item) {
                 const schedule = item.schedule.find(s => s.time === time);
                 if (schedule) {
+                    // Specific logic for approval of location change
+                    if (schedule.dispute && schedule.dispute.startsWith("[CHANGE]")) {
+                        const match = schedule.dispute.match(/\[CHANGE\] (.*?) @ (.*?),(.*?)(?: \/ |$)/);
+                        if (match && newStatus >= 1) { // If approved as verified or pinpoint
+                            const newName = match[1];
+                            const lat = parseFloat(match[2]);
+                            const lng = parseFloat(match[3]);
+
+                            if (!schedule.location.includes("から変更")) {
+                                schedule.location = `${newName}（${schedule.location}から変更）`;
+                            } else {
+                                schedule.location = newName;
+                            }
+                            schedule.lat = lat;
+                            schedule.lng = lng;
+                        }
+                    }
+
                     schedule.status = newStatus;
                     delete schedule.dispute;
                     updateDisplay();
-                    alert("ステータスを更新しました。「更新後のデータをJSONで出力」ボタンで保存を忘れないでください。");
+                    alert("更新しました。「更新データをJSONで出力」ボタンで保存してください。");
                 }
             }
         }
@@ -927,7 +1030,8 @@
             // Clean up temporary dispute data before export if needed
             const dataToExport = GAITOU_DB.map(item => {
                 const itemCopy = JSON.parse(JSON.stringify(item));
-                itemCopy.schedule.forEach(s => delete s.dispute); // Option: don't save disputes into official DB
+                // Optional: keep processed location names but clear dispute text
+                itemCopy.schedule.forEach(s => delete s.dispute);
                 return itemCopy;
             });
 
