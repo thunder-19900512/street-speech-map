@@ -1,5 +1,524 @@
 [
     {
+        "id": "17440",
+        "image_path": "photos/260130_福岡県_おかべよしたか.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "おかべよしたか",
+        "constituency": "福岡5区",
+        "prefecture": "福岡県",
+        "party": "参政党",
+        "schedule": [
+            {
+                "time": "07:00",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "西鉄春日原駅",
+                "lat": 33.536,
+                "lng": 130.473,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "白水大池公園西交差点",
+                "lat": 33.518,
+                "lng": 130.455,
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "ルミエール春日店",
+                "lat": 33.525,
+                "lng": 130.435,
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "ロピア春日ナフコ店",
+                "lat": 33.515,
+                "lng": 130.445,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "アクロスモール春日",
+                "lat": 33.522,
+                "lng": 130.438,
+                "status": 0
+            },
+            {
+                "time": "16:30",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "大土居交差点",
+                "lat": 33.515,
+                "lng": 130.465,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "光町交差点",
+                "lat": 33.532,
+                "lng": 130.475,
+                "status": 0
+            },
+            {
+                "time": "17:30",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "春日航空自衛隊前",
+                "lat": 33.535,
+                "lng": 130.485,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "春日市",
+                "municipality": "春日市",
+                "location": "JR春日駅",
+                "lat": 33.53,
+                "lng": 130.468,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17439",
+        "image_path": "photos/260130_福岡県_かわもと健.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "かわもと健",
+        "constituency": "福岡5区",
+        "prefecture": "福岡県",
+        "party": "国民民主党",
+        "schedule": [
+            {
+                "time": "12:30",
+                "region": "大野城市",
+                "municipality": "大野城市",
+                "location": "大野城市役所前",
+                "lat": 33.535,
+                "lng": 130.478,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "筑紫野市",
+                "municipality": "筑紫野市",
+                "location": "イオンモール筑紫野前",
+                "lat": 33.475,
+                "lng": 130.542,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "筑紫野市",
+                "municipality": "筑紫野市",
+                "location": "朝倉街道駅前",
+                "lat": 33.486,
+                "lng": 130.548,
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "region": "筑紫野市",
+                "municipality": "筑紫野市",
+                "location": "西鉄二日市駅西口前",
+                "lat": 33.499,
+                "lng": 130.518,
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "region": "筑紫野市",
+                "municipality": "筑紫野市",
+                "location": "イオン二日市店前",
+                "lat": 33.5,
+                "lng": 130.525,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17438",
+        "image_path": "photos/260130_石川県_小竹凱.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "小竹凱",
+        "constituency": "石川1区",
+        "prefecture": "石川県",
+        "party": "国民民主党",
+        "schedule": [
+            {
+                "time": "08:50",
+                "region": "金沢市",
+                "municipality": "金沢市",
+                "location": "泉本町交差点",
+                "lat": 36.551,
+                "lng": 136.638,
+                "status": 0
+            },
+            {
+                "time": "10:45",
+                "region": "金沢市",
+                "municipality": "金沢市",
+                "location": "横川交差点",
+                "lat": 36.535,
+                "lng": 136.645,
+                "status": 0
+            },
+            {
+                "time": "11:15",
+                "region": "金沢市",
+                "municipality": "金沢市",
+                "location": "西南部交差点",
+                "lat": 36.545,
+                "lng": 136.615,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "金沢市",
+                "municipality": "金沢市",
+                "location": "入江3丁目交差点",
+                "lat": 36.556,
+                "lng": 136.625,
+                "status": 0
+            },
+            {
+                "time": "14:45",
+                "region": "金沢市",
+                "municipality": "金沢市",
+                "location": "新神田交差点",
+                "lat": 36.562,
+                "lng": 136.635,
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "region": "金沢市",
+                "municipality": "金沢市",
+                "location": "示野中町交差点",
+                "lat": 36.582,
+                "lng": 136.625,
+                "status": 0
+            },
+            {
+                "time": "16:15",
+                "region": "金沢市",
+                "municipality": "金沢市",
+                "location": "松村町交差点",
+                "lat": 36.595,
+                "lng": 136.615,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17437",
+        "image_path": "photos/260130_富山県_山本圭太.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "山本圭太",
+        "constituency": "富山県",
+        "prefecture": "富山県",
+        "party": "国民民主党",
+        "schedule": [
+            {
+                "time": "10:00",
+                "region": "高岡市",
+                "municipality": "高岡市",
+                "location": "イオン高岡江尻",
+                "lat": 36.756,
+                "lng": 137.025,
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "region": "高岡市",
+                "municipality": "高岡市",
+                "location": "大阪屋ショップ上北島",
+                "lat": 36.755,
+                "lng": 136.995,
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "region": "高岡市",
+                "municipality": "高岡市",
+                "location": "ラ・ムー高岡",
+                "lat": 36.735,
+                "lng": 137.015,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "高岡市",
+                "municipality": "高岡市",
+                "location": "イオンモール高岡",
+                "lat": 36.726,
+                "lng": 137.012,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17436",
+        "image_path": "photos/260131_群馬県_安野貴博.jpg",
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "安野貴博",
+        "constituency": "全国",
+        "prefecture": "群馬県",
+        "party": "チームみらい",
+        "schedule": [
+            {
+                "time": "10:30",
+                "region": "高崎市",
+                "municipality": "高崎市",
+                "location": "高崎駅東口",
+                "lat": 36.3225,
+                "lng": 139.015,
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "region": "さいたま市",
+                "municipality": "さいたま市",
+                "location": "大宮駅東口",
+                "lat": 35.906,
+                "lng": 139.63,
+                "status": 0
+            },
+            {
+                "time": "13:30",
+                "region": "川越市",
+                "municipality": "川越市",
+                "location": "川越駅西口",
+                "lat": 35.907,
+                "lng": 139.482,
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "region": "所沢市",
+                "municipality": "所沢市",
+                "location": "所沢駅西口1階",
+                "lat": 35.787,
+                "lng": 139.473,
+                "status": 0
+            },
+            {
+                "time": "16:45",
+                "region": "さいたま市",
+                "municipality": "さいたま市",
+                "location": "浦和駅東口パルコ前",
+                "lat": 35.859,
+                "lng": 139.658,
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "region": "東京都",
+                "municipality": "渋谷区",
+                "location": "渋谷駅スクランブル交差点",
+                "lat": 35.659,
+                "lng": 139.701,
+                "status": 0
+            },
+            {
+                "time": "19:15",
+                "region": "東京都",
+                "municipality": "渋谷区",
+                "location": "恵比寿駅西口",
+                "lat": 35.646,
+                "lng": 139.71,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17435",
+        "image_path": "photos/260131_福島県_山口洋太.jpg",
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "山口洋太",
+        "constituency": "福島4区",
+        "prefecture": "福島県",
+        "party": "国民民主党",
+        "schedule": [
+            {
+                "time": "14:00",
+                "region": "いわき市",
+                "municipality": "いわき市",
+                "location": "道の駅 いわき・ら・ら・ミュウ前",
+                "lat": 36.936,
+                "lng": 140.865,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17434",
+        "image_path": "photos/260131_長野県_花岡あきひさ.jpg",
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "花岡あきひさ",
+        "constituency": "長野4区",
+        "prefecture": "長野県",
+        "party": "国民民主党",
+        "schedule": [
+            {
+                "time": "09:00",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "塩尻駅",
+                "lat": 36.1147,
+                "lng": 137.9482,
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "19号と20号の交差点・辻立ち",
+                "lat": 36.1105,
+                "lng": 137.9495,
+                "status": 0
+            },
+            {
+                "time": "11:20",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "無印良品ツルヤ塩尻広丘店付近・辻立ち",
+                "lat": 36.1485,
+                "lng": 137.9545,
+                "status": 0
+            },
+            {
+                "time": "13:30",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "広丘駅",
+                "lat": 36.1436,
+                "lng": 137.9515,
+                "status": 0
+            },
+            {
+                "time": "14:15",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "コミュニティマーケットプレイスギャザ付近",
+                "lat": 36.148,
+                "lng": 137.953,
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "広丘吉田交差点・辻立ち",
+                "lat": 36.155,
+                "lng": 137.956,
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "広丘交番北交差点・辻立ち",
+                "lat": 36.145,
+                "lng": 137.952,
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "17433",
+        "image_path": "photos/260130_長野県_花岡あきひさ.jpg",
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "花岡あきひさ",
+        "constituency": "長野4区",
+        "prefecture": "長野県",
+        "party": "国民民主党",
+        "schedule": [
+            {
+                "time": "09:00",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "塩尻駅前",
+                "lat": 36.1147,
+                "lng": 137.9482,
+                "status": 0
+            },
+            {
+                "time": "09:45",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "19号20号交差点・辻立ち",
+                "lat": 36.1105,
+                "lng": 137.9495,
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "region": "塩尻市",
+                "municipality": "塩尻市",
+                "location": "無印良品ツルヤ塩尻広丘店付近・辻立ち",
+                "lat": 36.1485,
+                "lng": 137.9545,
+                "status": 0
+            },
+            {
+                "time": "12:20",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "上諏訪駅",
+                "lat": 36.0465,
+                "lng": 138.1165,
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "region": "茅野市",
+                "municipality": "茅野市",
+                "location": "諏訪ステーションパーク",
+                "lat": 35.989,
+                "lng": 138.125,
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "綿半スーパーセンター諏訪店",
+                "lat": 36.015,
+                "lng": 138.095,
+                "status": 0
+            },
+            {
+                "time": "16:45",
+                "region": "諏訪市",
+                "municipality": "諏訪市",
+                "location": "諏訪市飯島交差点・辻立ち",
+                "lat": 36.008,
+                "lng": 138.105,
+                "status": 0
+            }
+        ]
+    },
+    {
         "id": "17432",
         "image_path": "photos/260130_長野県_若林けんた.jpg",
         "date": "2026-01-30",
