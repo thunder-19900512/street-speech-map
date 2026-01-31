@@ -1,4 +1,4 @@
-const database = [
+const GAITOU_DB = [
     {
         "date": "2026-01-31",
         "day_of_week": "土",
