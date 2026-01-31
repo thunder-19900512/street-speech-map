@@ -12,7 +12,7 @@
                 "lng": 139.9274,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -21,7 +21,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:30",
@@ -30,7 +30,7 @@
                 "lng": 139.9124,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -39,7 +39,7 @@
                 "lng": 139.9142,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "木",
@@ -60,7 +60,7 @@
                 "lng": 139.9274,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:00",
@@ -69,7 +69,7 @@
                 "lng": 139.9311,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -78,7 +78,7 @@
                 "lng": 139.9142,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -87,7 +87,7 @@
                 "lng": 139.8932,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:30",
@@ -96,7 +96,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "火",
@@ -117,7 +117,7 @@
                 "lng": 139.9274,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "火",
@@ -138,7 +138,7 @@
                 "lng": 139.9242,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -147,7 +147,7 @@
                 "lng": 139.9274,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "木",
@@ -168,7 +168,7 @@
                 "lng": 139.9124,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -177,7 +177,7 @@
                 "lng": 139.9023,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "水",
@@ -198,7 +198,7 @@
                 "lng": 139.9272,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:30",
@@ -207,7 +207,7 @@
                 "lng": 139.928,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:45",
@@ -216,7 +216,7 @@
                 "lng": 139.9142,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:15",
@@ -225,7 +225,7 @@
                 "lng": 139.9142,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -234,7 +234,7 @@
                 "lng": 139.9023,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:15",
@@ -243,7 +243,7 @@
                 "lng": 139.8972,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:45",
@@ -252,7 +252,7 @@
                 "lng": 139.9238,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:15",
@@ -261,7 +261,7 @@
                 "lng": 139.9287,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:45",
@@ -270,7 +270,7 @@
                 "lng": 139.9181,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:15",
@@ -279,7 +279,7 @@
                 "lng": 139.9255,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -288,7 +288,7 @@
                 "lng": 139.9202,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -297,7 +297,7 @@
                 "lng": 139.9007,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -306,7 +306,7 @@
                 "lng": 139.9124,
                 "region": "千葉県",
                 "municipality": "浦安市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "土",
@@ -327,7 +327,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:00",
@@ -336,7 +336,7 @@
                 "lng": 139.9341,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -345,7 +345,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -354,7 +354,7 @@
                 "lng": 139.9274,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -363,7 +363,7 @@
                 "lng": 139.9242,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "土",
@@ -384,7 +384,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -393,7 +393,7 @@
                 "lng": 139.9274,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -402,7 +402,7 @@
                 "lng": 139.9023,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "金",
@@ -423,7 +423,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -432,7 +432,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -441,7 +441,7 @@
                 "lng": 139.909821,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             }
         ],
         "day_of_week": "金",
@@ -465,7 +465,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "09:00",
@@ -474,7 +474,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -483,7 +483,7 @@
                 "lng": 140.005,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:00",
@@ -492,7 +492,7 @@
                 "lng": 139.9897,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -501,7 +501,7 @@
                 "lng": 139.979,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -510,7 +510,7 @@
                 "lng": 139.9592,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667176"
@@ -532,7 +532,7 @@
                 "location": "茅野駅",
                 "lat": 35.99438253570444,
                 "lng": 138.1528179228131,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "09:30",
@@ -550,7 +550,7 @@
                 "location": "オギノ茅野ショッピングセンター",
                 "lat": 35.99972142576321,
                 "lng": 138.1508583744009,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -559,7 +559,7 @@
                 "location": "岡谷駅",
                 "lat": 36.05710654101095,
                 "lng": 138.04422221258665,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "13:30",
@@ -568,7 +568,7 @@
                 "location": "旧アピタ・蚕糸公園",
                 "lat": 36.06595713409925,
                 "lng": 138.05076522973607,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -586,7 +586,7 @@
                 "location": "上諏訪駅",
                 "lat": 36.04689709811837,
                 "lng": 138.1167888791887,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "18:00~",
@@ -966,7 +966,7 @@
                 "location": "西鉄唐の原駅",
                 "lat": 33.68030490708292,
                 "lng": 130.43462580432978,
-                "status": 2
+                "status": 0
             }
         ]
     },
@@ -1755,7 +1755,7 @@
                 "location": "白板交差点",
                 "lat": 36.239,
                 "lng": 137.961,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -1773,7 +1773,7 @@
                 "location": "柏矢町交差点",
                 "lat": 36.319,
                 "lng": 137.904,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -2145,7 +2145,7 @@
                 "location": "高崎駅東口",
                 "lat": 36.3225,
                 "lng": 139.015,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -2154,7 +2154,7 @@
                 "location": "大宮駅東口",
                 "lat": 35.9063,
                 "lng": 139.63,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:30",
@@ -2163,7 +2163,7 @@
                 "location": "川越駅西口",
                 "lat": 35.907,
                 "lng": 139.482,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -2172,7 +2172,7 @@
                 "location": "所沢駅西口1階",
                 "lat": 35.787,
                 "lng": 139.473,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:45",
@@ -2181,7 +2181,7 @@
                 "location": "浦和駅東口パルコ前",
                 "lat": 35.859,
                 "lng": 139.658,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -2190,7 +2190,7 @@
                 "location": "渋谷駅スクランブル交差点",
                 "lat": 35.6594,
                 "lng": 139.7006,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:15",
@@ -2661,7 +2661,7 @@
                 "location": "千歳橋",
                 "lat": 36.23445362215017,
                 "lng": 137.9694601893425,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -2730,7 +2730,7 @@
                 "location": "白板交差点",
                 "lat": 36.239,
                 "lng": 137.961,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -2739,7 +2739,7 @@
                 "location": "平田駅東交差点",
                 "lat": 36.1910305499097,
                 "lng": 137.96468853950503,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -2796,7 +2796,7 @@
                 "location": "高宮交差点",
                 "lat": 36.215,
                 "lng": 137.962,
-                "status": 1
+                "status": 0
             }
         ]
     },
@@ -2817,7 +2817,7 @@
                 "location": "伊那市セントラルパーク",
                 "lat": 35.84049033238892,
                 "lng": 137.96004831790927,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -2934,7 +2934,7 @@
                 "location": "柏矢町交差点",
                 "lat": 36.319,
                 "lng": 137.904,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -2964,7 +2964,7 @@
                 "location": "高宮交差点",
                 "lat": 36.215,
                 "lng": 137.962,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -2991,7 +2991,7 @@
                 "location": "並柳交差点",
                 "lat": 36.213,
                 "lng": 137.98,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -3000,7 +3000,7 @@
                 "location": "高宮交差点",
                 "lat": 36.215,
                 "lng": 137.962,
-                "status": 1
+                "status": 0
             }
         ]
     },
@@ -3021,7 +3021,7 @@
                 "location": "上田駅前",
                 "lat": 36.39705712438108,
                 "lng": 138.2500510364335,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -3062,7 +3062,7 @@
                 "location": "あいそめの湯",
                 "lat": 36.35362584490823,
                 "lng": 138.16287774544708,
-                "status": 2
+                "status": 0
             }
         ],
         "early_voting": "",
@@ -3094,7 +3094,7 @@
                 "location": "伊那市セントラルパーク",
                 "lat": 35.840459939467046,
                 "lng": 137.96002686023715,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "13:25",
@@ -3103,7 +3103,7 @@
                 "location": "岡谷市蚕糸公園前",
                 "lat": 36.06593090600342,
                 "lng": 138.0507516254581,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "15:30",
@@ -3230,7 +3230,7 @@
                 "location": "上田文化会館",
                 "lat": 36.3999,
                 "lng": 138.2605,
-                "status": 1
+                "status": 0
             }
         ],
         "early_voting": "",
@@ -3312,7 +3312,7 @@
                 "location": "上諏訪駅",
                 "lat": 36.04691103157453,
                 "lng": 138.1168305624249,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "09:00",
@@ -3321,7 +3321,7 @@
                 "location": "大社通り交差点（諏訪大社下社から変更）",
                 "lat": 36.07461456828749,
                 "lng": 138.08649301528934,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "10:15",
@@ -3339,7 +3339,7 @@
                 "location": "岡谷湖畔公園 みなとなぎさパーク",
                 "lat": 36.05144947019964,
                 "lng": 138.05354209939225,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "15:30",
@@ -3348,7 +3348,7 @@
                 "location": "今井交差点（フォレストモール岡谷から変更）",
                 "lat": 36.0823409102858,
                 "lng": 138.04695725440982,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "16:15",
@@ -3357,7 +3357,7 @@
                 "location": "旧アピタ・レイクウォーク岡谷",
                 "lat": 36.06592010992882,
                 "lng": 138.05079109421254,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -3366,7 +3366,7 @@
                 "location": "岡谷駅",
                 "lat": 36.057097098708994,
                 "lng": 138.04420704009738,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -3398,7 +3398,7 @@
                 "location": "松本駅お城口広場",
                 "lat": 36.23127664290772,
                 "lng": 137.96524865034962,
-                "status": 2
+                "status": 0
             },
             {
                 "time": "17:10",
@@ -3407,7 +3407,7 @@
                 "location": "松本駅お城口広場",
                 "lat": 36.2312883208319,
                 "lng": 137.9652722157589,
-                "status": 2
+                "status": 0
             }
         ],
         "early_voting": "1/28(水)〜2/7(土)",
@@ -3596,7 +3596,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667186"
@@ -3616,7 +3616,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -3625,7 +3625,7 @@
                 "lng": 139.9828,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -3634,7 +3634,7 @@
                 "lng": 139.9666,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667185"
@@ -3654,7 +3654,7 @@
                 "lng": 139.9961,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -3663,7 +3663,7 @@
                 "lng": 139.993,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -3672,7 +3672,7 @@
                 "lng": 139.9826,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:30",
@@ -3681,7 +3681,7 @@
                 "lng": 139.979,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -3690,7 +3690,7 @@
                 "lng": 139.957,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -3699,7 +3699,7 @@
                 "lng": 139.972,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -3708,7 +3708,7 @@
                 "lng": 139.9592,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667184"
@@ -3728,7 +3728,7 @@
                 "lng": 139.9515,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -3737,7 +3737,7 @@
                 "lng": 139.9374,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -3746,7 +3746,7 @@
                 "lng": 139.9787,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -3755,7 +3755,7 @@
                 "lng": 139.9828,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667183"
@@ -3775,7 +3775,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667182"
@@ -3795,7 +3795,7 @@
                 "lng": 139.9592,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -3804,7 +3804,7 @@
                 "lng": 139.9922,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667181"
@@ -3824,7 +3824,7 @@
                 "lng": 139.9431,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -3833,7 +3833,7 @@
                 "lng": 139.9384,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:40",
@@ -3842,7 +3842,7 @@
                 "lng": 139.94,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:20",
@@ -3851,7 +3851,7 @@
                 "lng": 139.932,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:30",
@@ -3860,7 +3860,7 @@
                 "lng": 139.9611,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:20",
@@ -3869,7 +3869,7 @@
                 "lng": 139.9547,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:10",
@@ -3878,7 +3878,7 @@
                 "lng": 139.9516,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -3887,7 +3887,7 @@
                 "lng": 139.9431,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667180"
@@ -3907,7 +3907,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667179"
@@ -3927,7 +3927,7 @@
                 "lng": 139.9592,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -3936,7 +3936,7 @@
                 "lng": 139.9708,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -3945,7 +3945,7 @@
                 "lng": 139.9922,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -3954,7 +3954,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667178"
@@ -3974,7 +3974,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:50",
@@ -3983,7 +3983,7 @@
                 "lng": 139.908,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:10",
@@ -3992,7 +3992,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -4001,7 +4001,7 @@
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667177"
@@ -4022,7 +4022,7 @@
                 "municipality": "高崎市",
                 "lat": 36.3225,
                 "lng": 139.015,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -4031,7 +4031,7 @@
                 "municipality": "さいたま市大宮区",
                 "lat": 35.9063,
                 "lng": 139.63,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:30",
@@ -4040,7 +4040,7 @@
                 "municipality": "川越市",
                 "lat": 35.907,
                 "lng": 139.482,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -4049,7 +4049,7 @@
                 "municipality": "所沢市",
                 "lat": 35.787,
                 "lng": 139.473,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:45",
@@ -4058,7 +4058,7 @@
                 "municipality": "さいたま市浦和区",
                 "lat": 35.859,
                 "lng": 139.658,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4067,7 +4067,7 @@
                 "municipality": "越谷市",
                 "lat": 35.875,
                 "lng": 139.791,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667175"
@@ -4088,7 +4088,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.669,
                 "lng": 139.679,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -4097,7 +4097,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.665,
                 "lng": 139.689,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -4106,7 +4106,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.669,
                 "lng": 139.689,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -4115,7 +4115,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.6811,
                 "lng": 139.686,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:30",
@@ -4124,7 +4124,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.677,
                 "lng": 139.677,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:20",
@@ -4133,7 +4133,7 @@
                 "municipality": "港区",
                 "lat": 35.6285,
                 "lng": 139.74,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:30",
@@ -4142,7 +4142,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.6594,
                 "lng": 139.7006,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667174"
@@ -4163,7 +4163,7 @@
                 "municipality": "福岡市中央区",
                 "lat": 33.5859,
                 "lng": 130.3763,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -4172,7 +4172,7 @@
                 "municipality": "福岡市東区",
                 "lat": 33.661,
                 "lng": 130.432,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -4181,7 +4181,7 @@
                 "municipality": "新宮町",
                 "lat": 33.708,
                 "lng": 130.444,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -4190,7 +4190,7 @@
                 "municipality": "福岡市中央区",
                 "lat": 33.5882,
                 "lng": 130.3994,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -4199,7 +4199,7 @@
                 "municipality": "福岡市博多区",
                 "lat": 33.5902,
                 "lng": 130.4207,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667173"
@@ -4220,7 +4220,7 @@
                 "municipality": "上田市",
                 "lat": 36.391,
                 "lng": 138.255,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667172"
@@ -4241,7 +4241,7 @@
                 "municipality": "千葉市美浜区",
                 "lat": 35.6485,
                 "lng": 140.0419,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4250,7 +4250,7 @@
                 "municipality": "千葉市美浜区",
                 "lat": 35.628,
                 "lng": 140.073,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:20",
@@ -4259,7 +4259,7 @@
                 "municipality": "千葉市中央区",
                 "lat": 35.6135,
                 "lng": 140.1127,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667171"
@@ -4280,7 +4280,7 @@
                 "municipality": "船橋市",
                 "lat": 35.681,
                 "lng": 139.996,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:45",
@@ -4289,7 +4289,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7222,
                 "lng": 139.988,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -4298,7 +4298,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:30",
@@ -4307,7 +4307,7 @@
                 "municipality": "市川市",
                 "lat": 35.755,
                 "lng": 139.954,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -4316,7 +4316,7 @@
                 "municipality": "市川市",
                 "lat": 35.7209,
                 "lng": 139.927,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667170"
@@ -4337,7 +4337,7 @@
                 "municipality": "松本市",
                 "lat": 36.213,
                 "lng": 137.98,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:30",
@@ -4346,7 +4346,7 @@
                 "municipality": "松本市",
                 "lat": 36.235,
                 "lng": 137.975,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:30",
@@ -4355,7 +4355,7 @@
                 "municipality": "安曇野市",
                 "lat": 36.319,
                 "lng": 137.904,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -4364,7 +4364,7 @@
                 "municipality": "松本市",
                 "lat": 36.239,
                 "lng": 137.961,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4373,7 +4373,7 @@
                 "municipality": "松本市",
                 "lat": 36.215,
                 "lng": 137.962,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667169"
@@ -4394,7 +4394,7 @@
                 "municipality": "飯田市",
                 "lat": 35.498,
                 "lng": 137.818,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:30",
@@ -4403,7 +4403,7 @@
                 "municipality": "飯田市",
                 "lat": 35.495,
                 "lng": 137.825,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:30",
@@ -4412,7 +4412,7 @@
                 "municipality": "飯田市",
                 "lat": 35.4967,
                 "lng": 137.8415,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -4421,7 +4421,7 @@
                 "municipality": "高森町",
                 "lat": 35.545,
                 "lng": 137.885,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667168"
@@ -4442,7 +4442,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:10",
@@ -4451,7 +4451,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7072,
                 "lng": 139.9592,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -4460,7 +4460,7 @@
                 "municipality": "市川市",
                 "lat": 35.717,
                 "lng": 139.932,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4469,7 +4469,7 @@
                 "municipality": "市川市",
                 "lat": 35.7289,
                 "lng": 139.908,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667167"
@@ -4490,7 +4490,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.6737,
                 "lng": 139.667,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -4499,7 +4499,7 @@
                 "municipality": "渋谷区",
                 "lat": 35.669,
                 "lng": 139.689,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -4508,7 +4508,7 @@
                 "municipality": "港区",
                 "lat": 35.6664,
                 "lng": 139.758,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -4517,7 +4517,7 @@
                 "municipality": "港区",
                 "lat": 35.6285,
                 "lng": 139.74,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667166"
@@ -4538,7 +4538,7 @@
                 "municipality": "福岡市博多区",
                 "lat": 33.5902,
                 "lng": 130.4207,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:30",
@@ -4547,7 +4547,7 @@
                 "municipality": "佐賀市",
                 "lat": 33.264,
                 "lng": 130.298,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -4556,7 +4556,7 @@
                 "municipality": "久留米市",
                 "lat": 33.313,
                 "lng": 130.521,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4565,7 +4565,7 @@
                 "municipality": "久留米市",
                 "lat": 33.313,
                 "lng": 130.521,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667165"
@@ -4586,7 +4586,7 @@
                 "municipality": "高崎市",
                 "lat": 36.3225,
                 "lng": 139.013,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -4595,7 +4595,7 @@
                 "municipality": "熊谷市",
                 "lat": 36.139,
                 "lng": 139.39,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667164"
@@ -4616,7 +4616,7 @@
                 "municipality": "練馬区",
                 "lat": 35.7379,
                 "lng": 139.6543,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -4625,7 +4625,7 @@
                 "municipality": "西東京市",
                 "lat": 35.7273,
                 "lng": 139.539,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:30",
@@ -4634,7 +4634,7 @@
                 "municipality": "武蔵村山市",
                 "lat": 35.748,
                 "lng": 139.387,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:30",
@@ -4643,7 +4643,7 @@
                 "municipality": "国分寺市",
                 "lat": 35.7,
                 "lng": 139.48,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -4652,7 +4652,7 @@
                 "municipality": "八王子市",
                 "lat": 35.6555,
                 "lng": 139.3391,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667163"
@@ -4673,7 +4673,7 @@
                 "municipality": "仙台市青葉区",
                 "lat": 38.263,
                 "lng": 140.881,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -4682,7 +4682,7 @@
                 "municipality": "仙台市青葉区",
                 "lat": 38.261,
                 "lng": 140.88,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -4691,7 +4691,7 @@
                 "municipality": "仙台市青葉区",
                 "lat": 38.26,
                 "lng": 140.875,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -4700,7 +4700,7 @@
                 "municipality": "仙台市青葉区",
                 "lat": 38.263,
                 "lng": 140.881,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -4709,7 +4709,7 @@
                 "municipality": "仙台市太白区",
                 "lat": 38.225,
                 "lng": 140.887,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4718,7 +4718,7 @@
                 "municipality": "仙台市青葉区",
                 "lat": 38.263,
                 "lng": 140.881,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667162"
@@ -4739,7 +4739,7 @@
                 "municipality": "高槻市",
                 "lat": 34.851,
                 "lng": 135.618,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -4748,7 +4748,7 @@
                 "municipality": "豊中市",
                 "lat": 34.81,
                 "lng": 135.495,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -4757,7 +4757,7 @@
                 "municipality": "箕面市",
                 "lat": 34.838,
                 "lng": 135.483,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:30",
@@ -4766,7 +4766,7 @@
                 "municipality": "神戸市中央区",
                 "lat": 34.678,
                 "lng": 135.184,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -4775,7 +4775,7 @@
                 "municipality": "西宮市",
                 "lat": 34.743,
                 "lng": 135.361,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -4784,7 +4784,7 @@
                 "municipality": "神戸市中央区",
                 "lat": 34.692,
                 "lng": 135.195,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667161"
@@ -4805,7 +4805,7 @@
                 "municipality": "名古屋市名東区",
                 "lat": 35.1821,
                 "lng": 137.021,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -4814,7 +4814,7 @@
                 "municipality": "長久手市",
                 "lat": 35.1716,
                 "lng": 137.05,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -4823,7 +4823,7 @@
                 "municipality": "名古屋市千種区",
                 "lat": 35.1616,
                 "lng": 136.9842,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4832,7 +4832,7 @@
                 "municipality": "名古屋市中村区",
                 "lat": 35.1712,
                 "lng": 136.8829,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667160"
@@ -4853,7 +4853,7 @@
                 "municipality": "海老名市",
                 "lat": 35.448,
                 "lng": 139.388,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -4862,7 +4862,7 @@
                 "municipality": "相模原市緑区",
                 "lat": 35.5947,
                 "lng": 139.3451,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -4871,7 +4871,7 @@
                 "municipality": "相模原市南区",
                 "lat": 35.532,
                 "lng": 139.437,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:30",
@@ -4880,7 +4880,7 @@
                 "municipality": "大和市",
                 "lat": 35.507,
                 "lng": 139.444,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -4889,7 +4889,7 @@
                 "municipality": "横浜市戸塚区",
                 "lat": 35.4,
                 "lng": 139.534,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667159"
@@ -4910,7 +4910,7 @@
                 "municipality": "品川区",
                 "lat": 35.6339,
                 "lng": 139.7157,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -4919,7 +4919,7 @@
                 "municipality": "大田区",
                 "lat": 35.5971,
                 "lng": 139.6677,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:30",
@@ -4928,7 +4928,7 @@
                 "municipality": "目黒区",
                 "lat": 35.6074,
                 "lng": 139.6687,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667158"
@@ -4949,7 +4949,7 @@
                 "municipality": "江東区",
                 "lat": 35.6537,
                 "lng": 139.7953,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:30",
@@ -4958,7 +4958,7 @@
                 "municipality": "目黒区",
                 "lat": 35.6074,
                 "lng": 139.6687,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -4967,7 +4967,7 @@
                 "municipality": "世田谷区",
                 "lat": 35.6115,
                 "lng": 139.6266,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:20",
@@ -4976,7 +4976,7 @@
                 "municipality": "世田谷区",
                 "lat": 35.6438,
                 "lng": 139.6717,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667157"
@@ -4997,7 +4997,7 @@
                 "municipality": "京都市左京区",
                 "lat": 35.0304,
                 "lng": 135.773,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -5006,7 +5006,7 @@
                 "municipality": "京都市左京区",
                 "lat": 35.029,
                 "lng": 135.778,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -5015,7 +5015,7 @@
                 "municipality": "京都市左京区",
                 "lat": 35.016,
                 "lng": 135.778,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -5024,7 +5024,7 @@
                 "municipality": "京都市東山区",
                 "lat": 34.981,
                 "lng": 135.77,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -5033,7 +5033,7 @@
                 "municipality": "京都市山科区",
                 "lat": 34.9912,
                 "lng": 135.8174,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667156"
@@ -5054,7 +5054,7 @@
                 "municipality": "中央区",
                 "lat": 35.6594,
                 "lng": 139.7777,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:00",
@@ -5063,7 +5063,7 @@
                 "municipality": "中央区",
                 "lat": 35.6594,
                 "lng": 139.7777,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -5072,7 +5072,7 @@
                 "municipality": "台東区",
                 "lat": 35.7125,
                 "lng": 139.7745,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -5081,7 +5081,7 @@
                 "municipality": "中央区",
                 "lat": 35.671,
                 "lng": 139.765,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667155"
@@ -5102,7 +5102,7 @@
                 "municipality": "千葉市美浜区",
                 "lat": 35.6485,
                 "lng": 140.0419,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "09:30",
@@ -5111,7 +5111,7 @@
                 "municipality": "千葉市中央区",
                 "lat": 35.6135,
                 "lng": 140.1127,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -5120,7 +5120,7 @@
                 "municipality": "千葉市中央区",
                 "lat": 35.578,
                 "lng": 140.123,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:30",
@@ -5129,7 +5129,7 @@
                 "municipality": "市原市",
                 "lat": 35.525,
                 "lng": 140.175,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -5138,7 +5138,7 @@
                 "municipality": "市原市",
                 "lat": 35.508,
                 "lng": 140.091,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:30",
@@ -5147,7 +5147,7 @@
                 "municipality": "市原市",
                 "lat": 35.513,
                 "lng": 140.091,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:30",
@@ -5156,7 +5156,7 @@
                 "municipality": "木更津市",
                 "lat": 35.441,
                 "lng": 139.936,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:30",
@@ -5165,7 +5165,7 @@
                 "municipality": "木更津市",
                 "lat": 35.365,
                 "lng": 139.905,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -5174,7 +5174,7 @@
                 "municipality": "君津市",
                 "lat": 35.335,
                 "lng": 139.895,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -5183,7 +5183,7 @@
                 "municipality": "袖ケ浦市",
                 "lat": 35.432,
                 "lng": 139.958,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667154"
@@ -5204,7 +5204,7 @@
                 "municipality": "上田市",
                 "lat": 36.398,
                 "lng": 138.245,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667153"
@@ -5225,7 +5225,7 @@
                 "municipality": "市川市",
                 "lat": 35.7289,
                 "lng": 139.908,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:00",
@@ -5234,7 +5234,7 @@
                 "municipality": "市川市",
                 "lat": 35.7209,
                 "lng": 139.927,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -5243,7 +5243,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7142,
                 "lng": 139.9431,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667152"
@@ -5264,7 +5264,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7118,
                 "lng": 139.979,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:30",
@@ -5273,7 +5273,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7,
                 "lng": 140.005,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -5282,7 +5282,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -5291,7 +5291,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667151"
@@ -5312,7 +5312,7 @@
                 "municipality": "豊橋市",
                 "lat": 34.763,
                 "lng": 137.3829,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:00",
@@ -5321,7 +5321,7 @@
                 "municipality": "岡崎市",
                 "lat": 34.9378,
                 "lng": 137.1644,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -5330,7 +5330,7 @@
                 "municipality": "安城市",
                 "lat": 34.9591,
                 "lng": 137.0844,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -5339,7 +5339,7 @@
                 "municipality": "刈谷市",
                 "lat": 34.9908,
                 "lng": 137.0083,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -5348,7 +5348,7 @@
                 "municipality": "日進市",
                 "lat": 35.1183,
                 "lng": 137.0223,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667150"
@@ -5369,7 +5369,7 @@
                 "municipality": "成田市",
                 "lat": 35.7773,
                 "lng": 140.3137,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -5378,7 +5378,7 @@
                 "municipality": "印西市",
                 "lat": 35.801,
                 "lng": 140.111,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:45",
@@ -5387,7 +5387,7 @@
                 "municipality": "柏市",
                 "lat": 35.894,
                 "lng": 139.952,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -5396,7 +5396,7 @@
                 "municipality": "流山市",
                 "lat": 35.872,
                 "lng": 139.925,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -5405,7 +5405,7 @@
                 "municipality": "柏市",
                 "lat": 35.862,
                 "lng": 139.9709,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -5414,7 +5414,7 @@
                 "municipality": "松戸市",
                 "lat": 35.7843,
                 "lng": 139.9006,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667149"
@@ -5435,7 +5435,7 @@
                 "municipality": "上田市",
                 "lat": 36.315,
                 "lng": 138.113,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -5444,7 +5444,7 @@
                 "municipality": "青木村",
                 "lat": 36.371,
                 "lng": 138.125,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "13:00",
@@ -5453,7 +5453,7 @@
                 "municipality": "青木村",
                 "lat": 36.371,
                 "lng": 138.125,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:30",
@@ -5462,7 +5462,7 @@
                 "municipality": "上田市",
                 "lat": 36.402,
                 "lng": 138.252,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667148"
@@ -5483,7 +5483,7 @@
                 "municipality": "市川市",
                 "lat": 35.7617,
                 "lng": 139.913,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "09:00",
@@ -5492,7 +5492,7 @@
                 "municipality": "市川市",
                 "lat": 35.761,
                 "lng": 139.927,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:00",
@@ -5501,7 +5501,7 @@
                 "municipality": "松戸市",
                 "lat": 35.7725,
                 "lng": 139.8997,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "16:00",
@@ -5510,7 +5510,7 @@
                 "municipality": "市川市",
                 "lat": 35.7358,
                 "lng": 139.903,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -5519,7 +5519,7 @@
                 "municipality": "市川市",
                 "lat": 35.7275,
                 "lng": 139.911,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:00",
@@ -5528,7 +5528,7 @@
                 "municipality": "市川市",
                 "lat": 35.7247,
                 "lng": 139.919,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -5537,7 +5537,7 @@
                 "municipality": "市川市",
                 "lat": 35.7242,
                 "lng": 139.927,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667147"
@@ -5558,7 +5558,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -5567,7 +5567,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7411,
                 "lng": 140.0075,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "11:30",
@@ -5576,7 +5576,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7222,
                 "lng": 139.988,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -5585,7 +5585,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7303,
                 "lng": 139.9667,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -5594,7 +5594,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667146"
@@ -5615,7 +5615,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7072,
                 "lng": 139.9592,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:30",
@@ -5624,7 +5624,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7142,
                 "lng": 139.9431,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -5633,7 +5633,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:00",
@@ -5642,7 +5642,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7017,
                 "lng": 139.985,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -5651,7 +5651,7 @@
                 "municipality": "船橋市",
                 "lat": 35.7072,
                 "lng": 139.9592,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667145"
@@ -5672,7 +5672,7 @@
                 "municipality": "大田区",
                 "lat": 35.6001,
                 "lng": 139.6914,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -5681,7 +5681,7 @@
                 "municipality": "目黒区",
                 "lat": 35.6226,
                 "lng": 139.6841,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -5690,7 +5690,7 @@
                 "municipality": "大田区",
                 "lat": 35.6075,
                 "lng": 139.6856,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667144"
@@ -5711,7 +5711,7 @@
                 "municipality": "文京区",
                 "lat": 35.7175,
                 "lng": 139.7657,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "09:30",
@@ -5720,7 +5720,7 @@
                 "municipality": "文京区",
                 "lat": 35.7069,
                 "lng": 139.7699,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "10:00",
@@ -5729,7 +5729,7 @@
                 "municipality": "台東区",
                 "lat": 35.7077,
                 "lng": 139.7735,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -5738,7 +5738,7 @@
                 "municipality": "台東区",
                 "lat": 35.7297,
                 "lng": 139.7915,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667143"
@@ -5759,7 +5759,7 @@
                 "municipality": "世田谷区",
                 "lat": 35.6611,
                 "lng": 139.6667,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:30",
@@ -5768,7 +5768,7 @@
                 "municipality": "府中市",
                 "lat": 35.6721,
                 "lng": 139.4804,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:30",
@@ -5777,7 +5777,7 @@
                 "municipality": "三鷹市",
                 "lat": 35.7027,
                 "lng": 139.561,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:25",
@@ -5786,7 +5786,7 @@
                 "municipality": "調布市",
                 "lat": 35.6521,
                 "lng": 139.5447,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -5795,7 +5795,7 @@
                 "municipality": "立川市",
                 "lat": 35.6983,
                 "lng": 139.4137,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667142"
@@ -5816,7 +5816,7 @@
                 "municipality": "札幌市厚別区",
                 "lat": 43.0392,
                 "lng": 141.4744,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "09:00",
@@ -5825,7 +5825,7 @@
                 "municipality": "北広島市",
                 "lat": 42.9901,
                 "lng": 141.5501,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "14:30",
@@ -5834,7 +5834,7 @@
                 "municipality": "釧路市",
                 "lat": 43.0267,
                 "lng": 144.36,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "15:00",
@@ -5843,7 +5843,7 @@
                 "municipality": "釧路市",
                 "lat": 42.9774,
                 "lng": 144.4137,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "18:30",
@@ -5852,7 +5852,7 @@
                 "municipality": "帯広市",
                 "lat": 42.918,
                 "lng": 143.2023,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667141"
@@ -5873,7 +5873,7 @@
                 "municipality": "豊中市",
                 "lat": 34.7876,
                 "lng": 135.4612,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "19:00",
@@ -5882,7 +5882,7 @@
                 "municipality": "大阪市中央区",
                 "lat": 34.6662,
                 "lng": 135.5003,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667140"
@@ -5903,7 +5903,7 @@
                 "municipality": "目黒区",
                 "lat": 35.6074,
                 "lng": 139.6687,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "12:00",
@@ -5912,7 +5912,7 @@
                 "municipality": "品川区",
                 "lat": 35.6206,
                 "lng": 139.7046,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "17:30",
@@ -5921,7 +5921,7 @@
                 "municipality": "大田区",
                 "lat": 35.5851,
                 "lng": 139.6823,
-                "status": 1
+                "status": 0
             }
         ],
         "id": "520667139"
@@ -5943,7 +5943,7 @@
                 "location": "板橋公民館",
                 "lat": 35.9687,
                 "lng": 138.4786,
-                "status": 1
+                "status": 0
             },
             {
                 "time": "09:15",
