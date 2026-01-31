@@ -62,6 +62,12 @@
             font-weight: 800;
         }
 
+        .last-updated {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
         .view-toggle,
         .help-toggle {
             background: var(--card-bg);
@@ -385,7 +391,10 @@
 
     <div class="dashboard">
         <div class="header">
-            <h1>街頭演説マップ</h1>
+            <div>
+                <h1>街頭演説マップ</h1>
+                <div class="last-updated">最終更新: 2026-02-01 08:17:44</div>
+            </div>
             <div style="display:flex; gap:8px;">
                 <button class="help-toggle" onclick="openModal('helpModal')">❓ 使い方</button>
                 <a href="list.html" class="view-toggle">📊 一覧</a>
@@ -685,6 +694,9 @@
 
                 return matchesSearch && matchesDate && matchesPref && matchesConsti && matchesCandidate && matchesDispute;
             });
+
+            // 最新の日付から降順に並び替え
+            filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
 
             const resultsContainer = document.getElementById('results');
             resultsContainer.innerHTML = '';

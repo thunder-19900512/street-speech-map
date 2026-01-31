@@ -51,6 +51,12 @@
             -webkit-text-fill-color: transparent;
         }
 
+        .last-updated {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
         .nav-link {
             color: var(--accent);
             text-decoration: none;
@@ -216,7 +222,10 @@
 
 <body>
     <div class="header">
-        <h1>街頭演説データ一覧</h1>
+        <div>
+            <h1>街頭演説データ一覧</h1>
+            <div class="last-updated">最終更新: 2026-02-01 08:17:44</div>
+        </div>
         <a href="index.html" class="nav-link">← マップ表示に戻る</a>
     </div>
 
@@ -323,6 +332,9 @@
         }
 
         function renderTable(data = GAITOU_DB) {
+            // 最新の日付から降順に並び替え
+            data.sort((a, b) => new Date(b.date) - new Date(a.date));
+
             const tbody = document.getElementById('table-body');
             let html = '';
             const statusLabels = ["自動推定", "人力✓済", "精密✓済"];
