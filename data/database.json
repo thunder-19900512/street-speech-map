@@ -194,11 +194,11 @@
             {
                 "time": "10:00",
                 "location": "市川遊説",
-                "lat": 0,
-                "lng": 0,
+                "lat": 35.7212,
+                "lng": 139.9272,
                 "region": "千葉県",
-                "municipality": "",
-                "status": 0
+                "municipality": "市川市",
+                "status": 1
             },
             {
                 "time": "13:30",
@@ -212,11 +212,11 @@
             {
                 "time": "13:45",
                 "location": "行徳遊説",
-                "lat": 0,
-                "lng": 0,
+                "lat": 35.6826,
+                "lng": 139.9142,
                 "region": "千葉県",
-                "municipality": "",
-                "status": 0
+                "municipality": "市川市",
+                "status": 1
             },
             {
                 "time": "14:15",
@@ -239,11 +239,11 @@
             {
                 "time": "15:15",
                 "location": "浦安市内遊説",
-                "lat": 0,
-                "lng": 0,
+                "lat": 35.6548,
+                "lng": 139.8972,
                 "region": "千葉県",
-                "municipality": "",
-                "status": 0
+                "municipality": "浦安市",
+                "status": 1
             },
             {
                 "time": "15:45",
@@ -3771,11 +3771,11 @@
             {
                 "time": "14:40",
                 "location": "船橋駅",
-                "lat": 0,
-                "lng": 0,
+                "lat": 35.7017,
+                "lng": 139.985,
                 "region": "千葉県",
-                "municipality": "",
-                "status": 0
+                "municipality": "船橋市",
+                "status": 1
             }
         ],
         "id": "520667182"
@@ -3950,11 +3950,11 @@
             {
                 "time": "19:00",
                 "location": "船橋北口",
-                "lat": 0,
-                "lng": 0,
+                "lat": 35.7017,
+                "lng": 139.985,
                 "region": "千葉県",
-                "municipality": "",
-                "status": 0
+                "municipality": "船橋市",
+                "status": 1
             }
         ],
         "id": "520667178"
