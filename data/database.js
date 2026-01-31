@@ -532,7 +532,7 @@ const GAITOU_DB = [
                 "location": "茅野駅",
                 "lat": 35.99438253570444,
                 "lng": 138.1528179228131,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "09:30",
@@ -550,7 +550,7 @@ const GAITOU_DB = [
                 "location": "オギノ茅野ショッピングセンター",
                 "lat": 35.99972142576321,
                 "lng": 138.1508583744009,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "13:00",
@@ -559,7 +559,7 @@ const GAITOU_DB = [
                 "location": "岡谷駅",
                 "lat": 36.05710654101095,
                 "lng": 138.04422221258665,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "13:30",
@@ -568,7 +568,7 @@ const GAITOU_DB = [
                 "location": "旧アピタ・蚕糸公園",
                 "lat": 36.06595713409925,
                 "lng": 138.05076522973607,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "16:00",
@@ -586,7 +586,7 @@ const GAITOU_DB = [
                 "location": "上諏訪駅",
                 "lat": 36.04689709811837,
                 "lng": 138.1167888791887,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "18:00~",
@@ -2661,7 +2661,7 @@ const GAITOU_DB = [
                 "location": "千歳橋",
                 "lat": 36.23445362215017,
                 "lng": 137.9694601893425,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "16:00",
@@ -2730,7 +2730,7 @@ const GAITOU_DB = [
                 "location": "白板交差点",
                 "lat": 36.239,
                 "lng": 137.961,
-                "status": 0
+                "status": 1
             },
             {
                 "time": "14:00",
@@ -2739,7 +2739,7 @@ const GAITOU_DB = [
                 "location": "平田駅東交差点",
                 "lat": 36.1910305499097,
                 "lng": 137.96468853950503,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "16:00",
@@ -2796,7 +2796,7 @@ const GAITOU_DB = [
                 "location": "高宮交差点",
                 "lat": 36.215,
                 "lng": 137.962,
-                "status": 0
+                "status": 2
             }
         ]
     },
@@ -2817,7 +2817,7 @@ const GAITOU_DB = [
                 "location": "伊那市セントラルパーク",
                 "lat": 35.84049033238892,
                 "lng": 137.96004831790927,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "17:00",
@@ -2964,7 +2964,7 @@ const GAITOU_DB = [
                 "location": "高宮交差点",
                 "lat": 36.215,
                 "lng": 137.962,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "10:00",
@@ -3000,7 +3000,7 @@ const GAITOU_DB = [
                 "location": "高宮交差点",
                 "lat": 36.215,
                 "lng": 137.962,
-                "status": 0
+                "status": 2
             }
         ]
     },
@@ -3021,7 +3021,7 @@ const GAITOU_DB = [
                 "location": "上田駅前",
                 "lat": 36.39705712438108,
                 "lng": 138.2500510364335,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "13:00",
@@ -3062,7 +3062,7 @@ const GAITOU_DB = [
                 "location": "あいそめの湯",
                 "lat": 36.35362584490823,
                 "lng": 138.16287774544708,
-                "status": 0
+                "status": 2
             }
         ],
         "early_voting": "",
@@ -3094,7 +3094,7 @@ const GAITOU_DB = [
                 "location": "伊那市セントラルパーク",
                 "lat": 35.840459939467046,
                 "lng": 137.96002686023715,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "13:25",
@@ -3103,7 +3103,7 @@ const GAITOU_DB = [
                 "location": "岡谷市蚕糸公園前",
                 "lat": 36.06593090600342,
                 "lng": 138.0507516254581,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "15:30",
@@ -3230,7 +3230,7 @@ const GAITOU_DB = [
                 "location": "上田文化会館",
                 "lat": 36.3999,
                 "lng": 138.2605,
-                "status": 0
+                "status": 1
             }
         ],
         "early_voting": "",
@@ -3312,7 +3312,7 @@ const GAITOU_DB = [
                 "location": "上諏訪駅",
                 "lat": 36.04691103157453,
                 "lng": 138.1168305624249,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "09:00",
@@ -3321,7 +3321,7 @@ const GAITOU_DB = [
                 "location": "大社通り交差点（諏訪大社下社から変更）",
                 "lat": 36.07461456828749,
                 "lng": 138.08649301528934,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "10:15",
@@ -3339,7 +3339,7 @@ const GAITOU_DB = [
                 "location": "岡谷湖畔公園 みなとなぎさパーク",
                 "lat": 36.05144947019964,
                 "lng": 138.05354209939225,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "15:30",
@@ -3348,7 +3348,7 @@ const GAITOU_DB = [
                 "location": "今井交差点（フォレストモール岡谷から変更）",
                 "lat": 36.0823409102858,
                 "lng": 138.04695725440982,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "16:15",
@@ -3357,7 +3357,7 @@ const GAITOU_DB = [
                 "location": "旧アピタ・レイクウォーク岡谷",
                 "lat": 36.06592010992882,
                 "lng": 138.05079109421254,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "17:00",
@@ -3366,7 +3366,7 @@ const GAITOU_DB = [
                 "location": "岡谷駅",
                 "lat": 36.057097098708994,
                 "lng": 138.04420704009738,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "18:30",
@@ -3398,7 +3398,7 @@ const GAITOU_DB = [
                 "location": "松本駅お城口広場",
                 "lat": 36.23127664290772,
                 "lng": 137.96524865034962,
-                "status": 0
+                "status": 2
             },
             {
                 "time": "17:10",
@@ -3407,7 +3407,7 @@ const GAITOU_DB = [
                 "location": "松本駅お城口広場",
                 "lat": 36.2312883208319,
                 "lng": 137.9652722157589,
-                "status": 0
+                "status": 2
             }
         ],
         "early_voting": "1/28(水)〜2/7(土)",
@@ -5943,7 +5943,7 @@ const GAITOU_DB = [
                 "location": "板橋公民館",
                 "lat": 35.9687,
                 "lng": 138.4786,
-                "status": 0
+                "status": 1
             },
             {
                 "time": "09:15",
