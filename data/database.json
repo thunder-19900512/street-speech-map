@@ -105,7 +105,7 @@
                 "time": "08:00",
                 "location": "JR検見川浜駅",
                 "lat": 35.638,
-                "lng": 140.060,
+                "lng": 140.06,
                 "region": "千葉県",
                 "municipality": "千葉市美浜区",
                 "status": 0
@@ -162,7 +162,7 @@
                 "time": "13:00",
                 "location": "更北商工会",
                 "lat": 36.602,
-                "lng": 138.180,
+                "lng": 138.18,
                 "region": "長野県",
                 "municipality": "長野市",
                 "status": 2
@@ -303,7 +303,7 @@
                 "time": "10:00",
                 "location": "伊那市長谷 遊説",
                 "lat": 35.812,
-                "lng": 138.140,
+                "lng": 138.14,
                 "region": "長野県",
                 "municipality": "伊那市",
                 "status": 0
@@ -312,7 +312,7 @@
                 "time": "11:00",
                 "location": "伊那市長谷 演説会 (南アルプス村)",
                 "lat": 35.812,
-                "lng": 138.140,
+                "lng": 138.14,
                 "region": "長野県",
                 "municipality": "伊那市",
                 "status": 2
@@ -366,7 +366,7 @@
                 "time": "15:30",
                 "location": "小沢公民館 演説会",
                 "lat": 35.864,
-                "lng": 137.930,
+                "lng": 137.93,
                 "region": "長野県",
                 "municipality": "伊那市",
                 "status": 2
@@ -399,7 +399,7 @@
         "date": "2026-01-31",
         "candidate": "宮下一郎",
         "party": "自由民主党",
-        "image_path": "photos/260131_長野県_宮下一郎.jpg",
+        "image_path": "photos/260131_長野県_宮下一郎_3.jpg",
         "schedule": [
             {
                 "time": "08:00",
@@ -462,7 +462,7 @@
                 "time": "07:30",
                 "location": "辰野町 お手振り (羽場交差点)",
                 "lat": 35.957,
-                "lng": 137.990,
+                "lng": 137.99,
                 "region": "長野県",
                 "municipality": "辰野町",
                 "status": 0
@@ -498,7 +498,7 @@
                 "time": "13:00",
                 "location": "南箕輪村 遊説",
                 "lat": 35.864,
-                "lng": 137.940,
+                "lng": 137.94,
                 "region": "長野県",
                 "municipality": "南箕輪村",
                 "status": 0
@@ -701,7 +701,7 @@
             {
                 "time": "09:30",
                 "location": "飯田駅広場アイパーク",
-                "lat": 35.520,
+                "lat": 35.52,
                 "lng": 137.822,
                 "region": "長野県",
                 "municipality": "飯田市",
@@ -728,7 +728,7 @@
             {
                 "time": "15:30",
                 "location": "長和町 道の駅マルメロの駅ながと",
-                "lat": 36.230,
+                "lat": 36.23,
                 "lng": 138.258,
                 "region": "長野県",
                 "municipality": "長和町",
@@ -876,7 +876,7 @@
         "date": "2026-01-30",
         "candidate": "たじま要",
         "party": "中道改革連合",
-        "image_path": "photos/260130_千葉県_たじま要.png",
+        "image_path": "photos/260130_千葉県_たじま要_2.png",
         "schedule": [
             {
                 "time": "07:00",
@@ -1367,11 +1367,11 @@
             {
                 "time": "12:30",
                 "location": "コルトンプラザ前",
-                "lat": 35.716,
-                "lng": 139.932,
+                "lat": 35.71727245126595,
+                "lng": 139.9327862262726,
                 "region": "千葉県",
                 "municipality": "市川市",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "19:00",
@@ -1463,7 +1463,7 @@
             {
                 "time": "07:00",
                 "location": "船橋南口",
-                "lat": 35.700,
+                "lat": 35.7,
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
@@ -1472,7 +1472,7 @@
             {
                 "time": "11:00",
                 "location": "JR船橋駅南口",
-                "lat": 35.700,
+                "lat": 35.7,
                 "lng": 139.985,
                 "region": "千葉県",
                 "municipality": "船橋市",
@@ -1481,11 +1481,11 @@
             {
                 "time": "19:00",
                 "location": "船橋北口",
-                "lat": 35.702,
-                "lng": 139.985,
+                "lat": 35.702200111323016,
+                "lng": 139.98532533645633,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 0
+                "status": 2
             }
         ],
         "day_of_week": "日",
@@ -1752,7 +1752,7 @@
                 "time": "18:30",
                 "location": "検見川浜駅",
                 "lat": 35.638,
-                "lng": 140.060,
+                "lng": 140.06,
                 "region": "千葉県",
                 "municipality": "千葉市美浜区",
                 "status": 0
@@ -6117,11 +6117,11 @@
             {
                 "time": "14:40",
                 "location": "船橋駅",
-                "lat": 35.7017,
-                "lng": 139.985,
+                "lat": 35.7011581413613,
+                "lng": 139.98543262481692,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 0
+                "status": 2
             }
         ],
         "id": "520667182"
@@ -6248,12 +6248,12 @@
         "schedule": [
             {
                 "time": "13:00",
-                "location": "JR船橋駅",
-                "lat": 35.701149419094875,
-                "lng": 139.98549163341525,
+                "location": "船橋駅南口（JR船橋駅から変更）",
+                "lat": 35.7012343568899,
+                "lng": 139.98597979545596,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 2
+                "status": 1
             }
         ],
         "id": "520667179"
@@ -6296,11 +6296,11 @@
             {
                 "time": "19:00",
                 "location": "船橋北口",
-                "lat": 35.7017,
-                "lng": 139.985,
+                "lat": 35.702187362100645,
+                "lng": 139.98543262481692,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 0
+                "status": 2
             }
         ],
         "id": "520667178"
@@ -6316,11 +6316,11 @@
             {
                 "time": "13:00",
                 "location": "船橋駅北口",
-                "lat": 35.7017,
-                "lng": 139.985,
+                "lat": 35.7021960842535,
+                "lng": 139.9855345487595,
                 "region": "千葉県",
                 "municipality": "船橋市",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "15:50",
