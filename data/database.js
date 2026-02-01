@@ -1,5 +1,179 @@
 const GAITOU_DB = [
     {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "須田えいたろう",
+        "prefecture": "愛知県",
+        "constituency": "比例東海",
+        "party": "チームみらい",
+        "image_path": "photos/260203_愛知県_須田えいたろう.jpg",
+        "schedule": [
+            {
+                "time": "19:00",
+                "location": "名古屋駅近くの会場 (調整中)",
+                "lat": 35.171,
+                "lng": 136.882,
+                "region": "愛知県",
+                "municipality": "名古屋市",
+                "status": 0
+            }
+        ],
+        "id": "520667336"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "須田えいたろう",
+        "prefecture": "静岡県",
+        "constituency": "比例東海",
+        "party": "チームみらい",
+        "image_path": "photos/260202_静岡県_愛知県_須田えいたろう.jpg",
+        "schedule": [
+            {
+                "time": "15:40",
+                "location": "静岡駅 北口",
+                "lat": 34.971,
+                "lng": 138.389,
+                "region": "静岡県",
+                "municipality": "静岡市",
+                "status": 0
+            },
+            {
+                "time": "17:10",
+                "location": "浜松駅 北口",
+                "lat": 34.704,
+                "lng": 137.734,
+                "region": "静岡県",
+                "municipality": "浜松市",
+                "status": 0
+            },
+            {
+                "time": "18:50",
+                "location": "名古屋駅 JRゲートタワー前",
+                "lat": 35.172,
+                "lng": 136.883,
+                "region": "愛知県",
+                "municipality": "名古屋市",
+                "status": 0
+            }
+        ],
+        "id": "520667337"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "比例北海道",
+        "party": "チームみらい",
+        "image_path": "photos/260202_北海道_稲原むねよし.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "JR琴似駅前 (東口)",
+                "lat": 43.082,
+                "lng": 141.307,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            },
+            {
+                "time": "09:00",
+                "location": "JR桑園駅前 (東口)",
+                "lat": 43.071,
+                "lng": 141.332,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "大同生命札幌ビル miredo前",
+                "lat": 43.064,
+                "lng": 141.351,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "JR札幌駅南口",
+                "lat": 43.067,
+                "lng": 141.351,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "札幌三越・パルコ前交差点",
+                "lat": 43.059,
+                "lng": 141.353,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "JR札幌駅南口",
+                "lat": 43.067,
+                "lng": 141.351,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            }
+        ],
+        "id": "520667338"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "林たくみ",
+        "prefecture": "宮城県",
+        "constituency": "比例東北",
+        "party": "チームみらい",
+        "image_path": "photos/260202_宮城県_林たくみ.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "仙台駅西口デッキ (エスパル側)",
+                "lat": 38.26,
+                "lng": 140.881,
+                "region": "宮城県",
+                "municipality": "仙台市青葉区",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "北上駅西口",
+                "lat": 39.282,
+                "lng": 141.112,
+                "region": "岩手県",
+                "municipality": "北上市",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "八戸駅西口",
+                "lat": 40.51,
+                "lng": 141.431,
+                "region": "青森県",
+                "municipality": "八戸市",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "盛岡駅東口",
+                "lat": 39.702,
+                "lng": 141.137,
+                "region": "岩手県",
+                "municipality": "盛岡市",
+                "status": 0
+            }
+        ],
+        "id": "520667339"
+    },
+    {
         "date": "2026-01-27",
         "candidate": "門山ひろあき",
         "party": "自由民主党",
