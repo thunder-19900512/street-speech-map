@@ -1,4 +1,5 @@
-const GAITOU_DB =     {
+const GAITOU_DB = [
+    {
         "date": "2026-02-03",
         "day_of_week": "火",
         "candidate": "須田えいたろう",
