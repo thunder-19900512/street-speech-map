@@ -1,5 +1,44 @@
 const GAITOU_DB = [
     {
+        "date": "2026-02-04",
+        "day_of_week": "水",
+        "candidate": "神津たけし",
+        "prefecture": "長野県",
+        "constituency": "長野3区",
+        "party": "中道改革連合",
+        "image_path": "photos/260204_長野県_神津たけし.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "菅平",
+                "lat": 36.529,
+                "lng": 138.354,
+                "region": "長野県",
+                "municipality": "上田市",
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "location": "ゆきむら夢工房 駐車場",
+                "lat": 36.4442,
+                "lng": 138.2933,
+                "region": "長野県",
+                "municipality": "上田市",
+                "status": 0
+            },
+            {
+                "time": "13:45",
+                "location": "JA信州うえだ 丸子支所 依田店",
+                "lat": 36.3151,
+                "lng": 138.2863,
+                "region": "長野県",
+                "municipality": "上田市",
+                "status": 0
+            }
+        ],
+        "id": "520667364"
+    },
+    {
         "date": "2026-02-02",
         "day_of_week": "月",
         "candidate": "門山ひろあき",
