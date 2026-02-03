@@ -1,5 +1,746 @@
 const GAITOU_DB = [
     {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "門山ひろあき",
+        "prefecture": "千葉県",
+        "constituency": "千葉1区",
+        "party": "自由民主党",
+        "image_path": "photos/260202_千葉県_門山ひろあき.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "蘇我駅",
+                "lat": 35.5815,
+                "lng": 140.131,
+                "region": "千葉県",
+                "municipality": "千葉市中央区",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "稲毛駅",
+                "lat": 35.637,
+                "lng": 140.092,
+                "region": "千葉県",
+                "municipality": "千葉市稲毛区",
+                "status": 0
+            }
+        ],
+        "id": "520667348"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "たじま要",
+        "prefecture": "千葉県",
+        "constituency": "千葉1区",
+        "party": "中道改革連合",
+        "image_path": "photos/260202_千葉県_たじま要.jpg",
+        "schedule": [
+            {
+                "time": "07:30",
+                "location": "海浜幕張駅",
+                "lat": 35.648,
+                "lng": 140.042,
+                "region": "千葉県",
+                "municipality": "千葉市美浜区",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "ヤオコー検見川浜店前",
+                "lat": 35.638,
+                "lng": 140.059,
+                "region": "千葉県",
+                "municipality": "千葉市美浜区",
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "location": "千葉駅ビックカメラ前",
+                "lat": 35.613,
+                "lng": 140.113,
+                "region": "千葉県",
+                "municipality": "千葉市中央区",
+                "status": 0
+            },
+            {
+                "time": "17:50",
+                "location": "検見川浜駅",
+                "lat": 35.637,
+                "lng": 140.059,
+                "region": "千葉県",
+                "municipality": "千葉市美浜区",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "稲毛海岸駅",
+                "lat": 35.629,
+                "lng": 140.073,
+                "region": "千葉県",
+                "municipality": "千葉市美浜区",
+                "status": 0
+            }
+        ],
+        "id": "520667349"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "上田あつひろ",
+        "prefecture": "千葉県",
+        "constituency": "千葉1区",
+        "party": "参政党",
+        "image_path": "photos/260202_千葉県_上田あつひろ.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "蘇我駅 西口",
+                "lat": 35.5815,
+                "lng": 140.131,
+                "region": "千葉県",
+                "municipality": "千葉市中央区",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "西千葉駅",
+                "lat": 35.622,
+                "lng": 140.103,
+                "region": "千葉県",
+                "municipality": "千葉市中央区",
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "location": "千葉駅ビックカメラ前",
+                "lat": 35.613,
+                "lng": 140.113,
+                "region": "千葉県",
+                "municipality": "千葉市中央区",
+                "status": 0
+            }
+        ],
+        "id": "520667350"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "水沼ひでゆき",
+        "prefecture": "千葉県",
+        "constituency": "千葉4区",
+        "party": "中道改革連合",
+        "image_path": "photos/260202_千葉県_水沼ひでゆき.jpg",
+        "schedule": [
+            {
+                "time": "06:30",
+                "location": "北国分駅",
+                "lat": 35.759,
+                "lng": 139.915,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            },
+            {
+                "time": "17:30",
+                "location": "船橋駅南口",
+                "lat": 35.701,
+                "lng": 139.985,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            }
+        ],
+        "id": "520667351"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "なかむら愛",
+        "prefecture": "千葉県",
+        "constituency": "千葉14区",
+        "party": "参政党",
+        "image_path": "photos/260202_千葉県_なかむら愛.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "新津田沼駅",
+                "lat": 35.691,
+                "lng": 140.024,
+                "region": "千葉県",
+                "municipality": "習志野市",
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "location": "習志野駐屯地",
+                "lat": 35.708,
+                "lng": 140.051,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "高根公団",
+                "lat": 35.731,
+                "lng": 140.031,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "location": "北習志野駅",
+                "lat": 35.716,
+                "lng": 140.041,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "谷津駅",
+                "lat": 35.684,
+                "lng": 140.007,
+                "region": "千葉県",
+                "municipality": "習志野市",
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "location": "新津田沼駅",
+                "lat": 35.691,
+                "lng": 140.024,
+                "region": "千葉県",
+                "municipality": "習志野市",
+                "status": 0
+            }
+        ],
+        "id": "520667352"
+    },
+    {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "林たくみ",
+        "prefecture": "宮城県",
+        "constituency": "比例東北",
+        "party": "チームみらい",
+        "image_path": "photos/260203_宮城県_秋田県_林たくみ.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "秋田駅西口 (大屋根下)",
+                "lat": 39.716,
+                "lng": 140.129,
+                "region": "秋田県",
+                "municipality": "秋田市",
+                "status": 0
+            },
+            {
+                "time": "15:30",
+                "location": "名掛丁ドンキ前",
+                "lat": 38.2612,
+                "lng": 140.880,
+                "region": "宮城県",
+                "municipality": "仙台市青葉区",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "アエル前",
+                "lat": 38.263,
+                "lng": 140.881,
+                "region": "宮城県",
+                "municipality": "仙台市青葉区",
+                "status": 0
+            }
+        ],
+        "id": "520667353"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "みやじ純一",
+        "prefecture": "千葉県",
+        "constituency": "千葉5区",
+        "party": "参政党",
+        "image_path": "photos/260202_千葉県_みやじ純一.jpg",
+        "schedule": [
+            {
+                "time": "09:00",
+                "location": "市川駅",
+                "lat": 35.728,
+                "lng": 139.907,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "location": "本八幡駅",
+                "lat": 35.721,
+                "lng": 139.927,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "本八幡駅",
+                "lat": 35.721,
+                "lng": 139.927,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "市川駅",
+                "lat": 35.728,
+                "lng": 139.907,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            }
+        ],
+        "id": "520667354"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "くどう聖子",
+        "prefecture": "千葉県",
+        "constituency": "千葉4区",
+        "party": "参政党",
+        "image_path": "photos/260202_千葉県_くどう聖子.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "船橋駅北口",
+                "lat": 35.702,
+                "lng": 139.985,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "東船橋駅南口",
+                "lat": 35.699,
+                "lng": 140.004,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "船橋本町1丁目交差点",
+                "lat": 35.700,
+                "lng": 139.984,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "船橋駅北口",
+                "lat": 35.702,
+                "lng": 139.985,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "location": "塚田駅",
+                "lat": 35.721,
+                "lng": 139.976,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "19:15",
+                "location": "馬込沢駅",
+                "lat": 35.741,
+                "lng": 139.992,
+                "region": "千葉県",
+                "municipality": "鎌ケ谷市",
+                "status": 0
+            }
+        ],
+        "id": "520667355"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "岡野純子",
+        "prefecture": "千葉県",
+        "constituency": "千葉5区",
+        "party": "国民民主党",
+        "image_path": "photos/260202_千葉県_岡野純子.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "本八幡駅",
+                "lat": 35.721,
+                "lng": 139.927,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "本八幡駅",
+                "lat": 35.721,
+                "lng": 139.927,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            }
+        ],
+        "id": "520667356"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "ながの春信",
+        "prefecture": "千葉県",
+        "constituency": "千葉14区",
+        "party": "自由民主党",
+        "image_path": "photos/260202_千葉県_ながの春信.jpg",
+        "schedule": [
+            {
+                "time": "10:00",
+                "location": "田中真太郎先生宅前",
+                "lat": 35.691,
+                "lng": 140.038,
+                "region": "千葉県",
+                "municipality": "習志野市",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "JR津田沼駅南口",
+                "lat": 35.691,
+                "lng": 140.020,
+                "region": "千葉県",
+                "municipality": "習志野市",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "JR津田沼駅北口",
+                "lat": 35.691,
+                "lng": 140.020,
+                "region": "千葉県",
+                "municipality": "船橋市",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "JR津田沼駅南口",
+                "lat": 35.691,
+                "lng": 140.020,
+                "region": "千葉県",
+                "municipality": "習志野市",
+                "status": 0
+            }
+        ],
+        "id": "520667357"
+    },
+    {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "古川あおい",
+        "prefecture": "沖縄県",
+        "constituency": "比例九州",
+        "party": "チームみらい",
+        "image_path": "photos/260203_沖縄県_大分県_古川あおい.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "那覇 パレットくもじ前",
+                "lat": 26.214,
+                "lng": 127.679,
+                "region": "沖縄県",
+                "municipality": "那覇市",
+                "status": 0
+            },
+            {
+                "time": "16:30",
+                "location": "別府公園北交差点",
+                "lat": 33.282,
+                "lng": 131.493,
+                "region": "大分県",
+                "municipality": "別府市",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "大分市 トキハ本店前",
+                "lat": 33.236,
+                "lng": 131.606,
+                "region": "大分県",
+                "municipality": "大分市",
+                "status": 0
+            }
+        ],
+        "id": "520667358"
+    },
+    {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "神津たけし",
+        "prefecture": "長野県",
+        "constituency": "長野3区",
+        "party": "中道改革連合",
+        "image_path": "photos/260203_長野県_神津たけし.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "小諸市四ツ谷交差点",
+                "lat": 36.327,
+                "lng": 138.411,
+                "region": "長野県",
+                "municipality": "小諸市",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "ヤオトク軽井沢店",
+                "lat": 36.342,
+                "lng": 138.618,
+                "region": "長野県",
+                "municipality": "軽井沢町",
+                "status": 0
+            },
+            {
+                "time": "13:30",
+                "location": "JA 軽井沢支所",
+                "lat": 36.340,
+                "lng": 138.597,
+                "region": "長野県",
+                "municipality": "軽井沢町",
+                "status": 0
+            }
+        ],
+        "id": "520667359"
+    },
+    {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "比例北海道",
+        "party": "チームみらい",
+        "image_path": "photos/260203_北海道_稲原むねよし.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "JR手稲駅(北口)",
+                "lat": 43.129,
+                "lng": 141.244,
+                "region": "北海道",
+                "municipality": "札幌市手稲区",
+                "status": 0
+            },
+            {
+                "time": "09:30",
+                "location": "JR小樽駅前",
+                "lat": 43.197,
+                "lng": 141.000,
+                "region": "北海道",
+                "municipality": "小樽市",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "地下鉄東西線琴似駅前(イオン交差点)",
+                "lat": 43.078,
+                "lng": 141.307,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "地下鉄東西線西28丁目駅(3番出口付近)",
+                "lat": 43.058,
+                "lng": 141.321,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "大通り公園付近(明治安田生命札幌大通ビル前)",
+                "lat": 43.059,
+                "lng": 141.345,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "JR札幌駅南口",
+                "lat": 43.068,
+                "lng": 141.350,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            }
+        ],
+        "id": "520667360"
+    },
+    {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "土橋あきひろ",
+        "prefecture": "東京都",
+        "constituency": "比例東京",
+        "party": "チームみらい",
+        "image_path": "photos/260203_東京都_土橋あきひろ.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "稲荷町駅2番出口",
+                "lat": 35.711,
+                "lng": 139.782,
+                "region": "東京都",
+                "municipality": "台東区",
+                "status": 0
+            },
+            {
+                "time": "10:00",
+                "location": "勝どきTTT",
+                "lat": 35.658,
+                "lng": 139.776,
+                "region": "東京都",
+                "municipality": "中央区",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "下谷神社前",
+                "lat": 35.710,
+                "lng": 139.779,
+                "region": "東京都",
+                "municipality": "台東区",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "鳥越神社前",
+                "lat": 35.702,
+                "lng": 139.785,
+                "region": "東京都",
+                "municipality": "台東区",
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "location": "浅草橋駅東口",
+                "lat": 35.698,
+                "lng": 139.785,
+                "region": "東京都",
+                "municipality": "台東区",
+                "status": 0
+            }
+        ],
+        "id": "520667361"
+    },
+    {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "山田えり",
+        "prefecture": "神奈川県",
+        "constituency": "比例南関東",
+        "party": "チームみらい",
+        "image_path": "photos/260203_神奈川県_山田えり.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "横浜駅",
+                "lat": 35.465,
+                "lng": 139.622,
+                "region": "神奈川県",
+                "municipality": "横浜市西区",
+                "status": 0
+            },
+            {
+                "time": "09:30",
+                "location": "関内駅",
+                "lat": 35.443,
+                "lng": 139.637,
+                "region": "神奈川県",
+                "municipality": "横浜市中区",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "逗子駅",
+                "lat": 35.297,
+                "lng": 139.578,
+                "region": "神奈川県",
+                "municipality": "逗子市",
+                "status": 0
+            },
+            {
+                "time": "19:30",
+                "location": "鶴見駅",
+                "lat": 35.508,
+                "lng": 139.676,
+                "region": "神奈川県",
+                "municipality": "横浜市鶴見区",
+                "status": 0
+            }
+        ],
+        "id": "520667362"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "高山さとし",
+        "prefecture": "東京都",
+        "constituency": "比例東京",
+        "party": "チームみらい",
+        "image_path": "photos/260202_東京都_高山さとし.jpg",
+        "schedule": [
+            {
+                "time": "16:00",
+                "location": "町田駅 (北口・まほろデッキ)",
+                "lat": 35.542,
+                "lng": 139.445,
+                "region": "東京都",
+                "municipality": "町田市",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "初台駅 (南口)",
+                "lat": 35.681,
+                "lng": 139.686,
+                "region": "東京都",
+                "municipality": "渋谷区",
+                "status": 0
+            },
+            {
+                "time": "19:20",
+                "location": "中野駅 (北口駅前広場)",
+                "lat": 35.705,
+                "lng": 139.665,
+                "region": "東京都",
+                "municipality": "中野区",
+                "status": 0
+            }
+        ],
+        "id": "520667363"
+    },
+    {
         "date": "2026-02-03",
         "day_of_week": "火",
         "candidate": "須田えいたろう",
@@ -27,11 +768,20 @@ const GAITOU_DB = [
         "prefecture": "茨城県",
         "constituency": "比例北関東",
         "party": "チームみらい",
-        "image_path": "photos/260203_茨城県_武藤かず子.jpg",
+        "image_path": "photos/260203_茨城県_埼玉県_武藤かず子.jpg",
         "schedule": [
             {
+                "time": "09:30",
+                "location": "土浦駅西口",
+                "lat": 36.077,
+                "lng": 140.198,
+                "region": "茨城県",
+                "municipality": "土浦市",
+                "status": 0
+            },
+            {
                 "time": "12:00",
-                "location": "つくば駅",
+                "location": "つくば駅 A3出口",
                 "lat": 36.082,
                 "lng": 140.111,
                 "region": "茨城県",
@@ -40,11 +790,20 @@ const GAITOU_DB = [
             },
             {
                 "time": "13:15",
-                "location": "守谷駅",
+                "location": "守谷駅 西口駅前広場",
                 "lat": 35.95,
                 "lng": 139.991,
                 "region": "茨城県",
                 "municipality": "守谷市",
+                "status": 0
+            },
+            {
+                "time": "15:15",
+                "location": "南越谷駅・新越谷駅 ロータリー",
+                "lat": 35.875,
+                "lng": 139.791,
+                "region": "埼玉県",
+                "municipality": "越谷市",
                 "status": 0
             }
         ],
@@ -141,11 +900,29 @@ const GAITOU_DB = [
         "prefecture": "千葉県",
         "constituency": "千葉5区",
         "party": "自由民主党",
-        "image_path": "photos/260202_千葉県_えりアルフィヤ.jpg",
+        "image_path": "photos/260202_千葉県_えりアルフィヤ_schedule.jpg",
         "schedule": [
             {
+                "time": "07:00",
+                "location": "行徳駅前",
+                "lat": 35.682,
+                "lng": 139.915,
+                "region": "千葉県",
+                "municipality": "市川市",
+                "status": 0
+            },
+            {
                 "time": "12:00",
-                "location": "浦安駅 ロータリー前",
+                "location": "浦安駅 ロータリー",
+                "lat": 35.666,
+                "lng": 139.897,
+                "region": "千葉県",
+                "municipality": "浦安市",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "浦安駅 ロータリー",
                 "lat": 35.666,
                 "lng": 139.897,
                 "region": "千葉県",
@@ -1108,6 +1885,15 @@ const GAITOU_DB = [
                 "region": "長野県",
                 "municipality": "飯田市",
                 "status": 2
+            },
+            {
+                "time": "16:00",
+                "location": "伊那商工会館 (上伊那総決起集会)",
+                "lat": 35.845,
+                "lng": 137.959,
+                "region": "長野県",
+                "municipality": "伊那市",
+                "status": 0
             }
         ],
         "day_of_week": "火",
