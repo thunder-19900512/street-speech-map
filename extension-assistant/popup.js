@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // 直近のステップを完了にする（おおよその判定）
                 if (text.includes('update_db')) markDone(2);
-                if (text.includes('photosフォルダ')) markDone(5);
+                if (text.includes('/process-new-images')) markDone(5);
                 if (text.includes('git push')) markDone(6);
                 if (text.includes('街頭演説マップ')) markDone(7);
             });
