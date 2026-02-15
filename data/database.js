@@ -5033,7 +5033,7 @@ const GAITOU_DB = [
         "prefecture": "秋田県",
         "constituency": "秋田1区",
         "party": "日本維新の会",
-        "image_path": "photos/260131_秋田県_松浦たいご.jpg",
+        "image_path": "photos/260131_秋田県_松浦だいご.jpg",
         "schedule": [
             {
                 "time": "12:00",
@@ -5056,11 +5056,11 @@ const GAITOU_DB = [
             {
                 "time": "13:30",
                 "location": "秋田駅前",
-                "lat": 39.7169,
-                "lng": 140.1286,
+                "lat": 39.7170123485912,
+                "lng": 140.1279813051224,
                 "region": "秋田県",
                 "municipality": "秋田市",
-                "status": 0
+                "status": 2
             }
         ],
         "id": "17710689544456"
@@ -11974,16 +11974,16 @@ const GAITOU_DB = [
         "prefecture": "千葉県",
         "constituency": "千葉2区",
         "party": "自由民主党",
-        "image_path": "photos/260127_千葉県_小林鷹之.jpg",
+        "image_path": "photos/260127_千葉県_小林鷹之_2.jpg",
         "schedule": [
             {
                 "time": "10:30",
                 "location": "村上駅ロータリー",
-                "lat": 35.7275,
-                "lng": 140.1197,
+                "lat": 35.72361227937443,
+                "lng": 140.1190656423569,
                 "region": "千葉県",
                 "municipality": "八千代市",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "17:00",
@@ -12792,5 +12792,35 @@ const GAITOU_DB = [
             }
         ],
         "id": "520667214"
+    },
+    {
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "松浦だいご",
+        "prefecture": "秋田県",
+        "constituency": "秋田1区",
+        "party": "日本維新の会",
+        "image_path": "photos/260127_秋田県_松浦だいご.jpg",
+        "schedule": [
+            {
+                "time": "10:00",
+                "location": "山王十字路",
+                "lat": 39.7186,
+                "lng": 140.1025,
+                "region": "秋田県",
+                "municipality": "秋田市",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "秋田駅前",
+                "lat": 39.7169,
+                "lng": 140.1286,
+                "region": "秋田県",
+                "municipality": "秋田市",
+                "status": 0
+            }
+        ],
+        "id": "17711413608879"
     }
 ];
