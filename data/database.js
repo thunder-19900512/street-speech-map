@@ -510,6 +510,313 @@ const GAITOU_DB = [
         "id": "520667397"
     },
     {
+        "date": "2026-02-07",
+        "candidate": "中村ひろゆき",
+        "prefecture": "北海道",
+        "constituency": "北海道4区",
+        "party": "自由民主党",
+        "image_path": "photos/260207_北海道_中村ひろゆき.jpg",
+        "schedule": [
+            {
+                "time": "09:30",
+                "location": "石狩市 村上労働行政事務所前",
+                "lat": 43.1617,
+                "lng": 141.3033,
+                "region": "北海道",
+                "municipality": "石狩市",
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "location": "西区 発寒支部事務所前",
+                "lat": 43.085,
+                "lng": 141.275,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "西区 八軒支部事務所前",
+                "lat": 43.0883,
+                "lng": 141.3067,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "location": "小樽長崎屋前",
+                "lat": 43.1972,
+                "lng": 140.9939,
+                "region": "北海道",
+                "municipality": "小樽市",
+                "status": 0
+            },
+            {
+                "time": "19:30",
+                "location": "手稲区 手稲事務所前",
+                "lat": 43.1317,
+                "lng": 141.24,
+                "region": "北海道",
+                "municipality": "札幌市手稲区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937247"
+    },
+    {
+        "date": "2026-02-07",
+        "candidate": "加藤貴弘",
+        "prefecture": "北海道",
+        "constituency": "北海道1区",
+        "party": "自由民主党",
+        "image_path": "photos/260207_北海道_加藤貴弘.jpg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "マンボウ西野店",
+                "lat": 43.0767,
+                "lng": 141.2667,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "地下鉄琴似駅",
+                "lat": 43.0767,
+                "lng": 141.3017,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "徒歩遊説",
+                "lat": 43.055,
+                "lng": 141.35,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "16:45",
+                "location": "イオン札幌藻岩店",
+                "lat": 43.0117,
+                "lng": 141.3333,
+                "region": "北海道",
+                "municipality": "札幌市南区",
+                "status": 0
+            },
+            {
+                "time": "17:30",
+                "location": "地下鉄澄川駅",
+                "lat": 43.0167,
+                "lng": 141.3667,
+                "region": "北海道",
+                "municipality": "札幌市南区",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "三越前",
+                "lat": 43.0594,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937718"
+    },
+    {
+        "date": "2026-02-07",
+        "candidate": "和田よしあき",
+        "prefecture": "北海道",
+        "constituency": "北海道5区",
+        "party": "自由民主党",
+        "image_path": "photos/260207_北海道_和田よしあき.jpeg",
+        "schedule": [
+            {
+                "time": "07:00",
+                "location": "ホテルグランテラス千歳前",
+                "lat": 42.8278,
+                "lng": 141.6517,
+                "region": "北海道",
+                "municipality": "千歳市",
+                "status": 0
+            },
+            {
+                "time": "11:30",
+                "location": "恵庭 アクロスプラザ恵庭",
+                "lat": 42.89,
+                "lng": 141.59,
+                "region": "北海道",
+                "municipality": "恵庭市",
+                "status": 0
+            },
+            {
+                "time": "11:50",
+                "location": "恵庭 恵庭駅前商店街",
+                "lat": 42.8833,
+                "lng": 141.5833,
+                "region": "北海道",
+                "municipality": "恵庭市",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "恵庭 恵み野駅前商店街",
+                "lat": 42.9033,
+                "lng": 141.595,
+                "region": "北海道",
+                "municipality": "恵庭市",
+                "status": 0
+            },
+            {
+                "time": "13:20",
+                "location": "恵庭 コープさっぽろ恵み野店前",
+                "lat": 42.9056,
+                "lng": 141.595,
+                "region": "北海道",
+                "municipality": "恵庭市",
+                "status": 0
+            },
+            {
+                "time": "13:40",
+                "location": "恵庭 島松駅前商店街",
+                "lat": 42.9233,
+                "lng": 141.5833,
+                "region": "北海道",
+                "municipality": "恵庭市",
+                "status": 0
+            },
+            {
+                "time": "14:50",
+                "location": "すすきの周辺",
+                "lat": 43.0558,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "厚別 新札幌 カテプリ前",
+                "lat": 43.0391,
+                "lng": 141.4725,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            },
+            {
+                "time": "19:45",
+                "location": "厚別 和田よしあき事務所前",
+                "lat": 43.04,
+                "lng": 141.47,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937765"
+    },
+    {
+        "date": "2026-02-07",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260207_北海道_山崎泉.jpg",
+        "schedule": [
+            {
+                "time": "19:00",
+                "location": "北24条駅前",
+                "lat": 43.0894,
+                "lng": 141.3458,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937130"
+    },
+    {
+        "date": "2026-02-07",
+        "candidate": "荒井優",
+        "prefecture": "北海道",
+        "constituency": "北海道3区",
+        "party": "中道改革連合",
+        "image_path": "photos/260207_北海道_荒井優.jpeg",
+        "schedule": [
+            {
+                "time": "09:30",
+                "location": "イオン南平岸店",
+                "lat": 43.0286,
+                "lng": 141.3592,
+                "region": "北海道",
+                "municipality": "札幌市豊平区",
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "location": "東光ストア豊平店",
+                "lat": 43.0483,
+                "lng": 141.3683,
+                "region": "北海道",
+                "municipality": "札幌市豊平区",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "スーパーアークス北野店前",
+                "lat": 43.0133,
+                "lng": 141.4333,
+                "region": "北海道",
+                "municipality": "札幌市清田区",
+                "status": 0
+            },
+            {
+                "time": "14:30",
+                "location": "フードD生鮮市場美しが丘店",
+                "lat": 42.9833,
+                "lng": 141.4483,
+                "region": "北海道",
+                "municipality": "札幌市清田区",
+                "status": 0
+            },
+            {
+                "time": "16:50",
+                "location": "ダイイチ白石神社前店",
+                "lat": 43.0333,
+                "lng": 141.4117,
+                "region": "北海道",
+                "municipality": "札幌市白石区",
+                "status": 0
+            },
+            {
+                "time": "18:10",
+                "location": "ツルハ菊水元町8条店",
+                "lat": 43.0767,
+                "lng": 141.4,
+                "region": "北海道",
+                "municipality": "札幌市白石区",
+                "status": 0
+            },
+            {
+                "time": "19:30",
+                "location": "地下鉄東札幌駅",
+                "lat": 43.0556,
+                "lng": 141.385,
+                "region": "北海道",
+                "municipality": "札幌市白石区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937790"
+    },
+    {
         "date": "2026-02-06",
         "day_of_week": "金",
         "candidate": "藤田ひかる",
@@ -987,6 +1294,185 @@ const GAITOU_DB = [
         "id": "520667389"
     },
     {
+        "date": "2026-02-06",
+        "candidate": "加藤貴弘",
+        "prefecture": "北海道",
+        "constituency": "北海道1区",
+        "party": "自由民主党",
+        "image_path": "photos/260206_北海道_加藤貴弘.jpg",
+        "schedule": [
+            {
+                "time": "10:00",
+                "location": "ふくい会館",
+                "lat": 43.0533,
+                "lng": 141.2583,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "円山北町会館",
+                "lat": 43.0683,
+                "lng": 141.3083,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "桑園ふれあいセンター",
+                "lat": 43.065,
+                "lng": 141.33,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "西町会館",
+                "lat": 43.0767,
+                "lng": 141.275,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937186"
+    },
+    {
+        "date": "2026-02-06",
+        "candidate": "和田よしあき",
+        "prefecture": "北海道",
+        "constituency": "北海道5区",
+        "party": "自由民主党",
+        "image_path": "photos/260206_北海道_和田よしあき.jpeg",
+        "schedule": [
+            {
+                "time": "06:45",
+                "location": "当別駅",
+                "lat": 43.223,
+                "lng": 141.516,
+                "region": "北海道",
+                "municipality": "当別町",
+                "status": 0
+            },
+            {
+                "time": "16:20",
+                "location": "老健のっぽろ駐車場",
+                "lat": 43.085,
+                "lng": 141.545,
+                "region": "北海道",
+                "municipality": "江別市",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "江別市中央公民館",
+                "lat": 43.1056,
+                "lng": 141.56,
+                "region": "北海道",
+                "municipality": "江別市",
+                "status": 0
+            },
+            {
+                "time": "19:45",
+                "location": "株式会社マルマツ前",
+                "lat": 43.0683,
+                "lng": 141.5033,
+                "region": "北海道",
+                "municipality": "江別市",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937614"
+    },
+    {
+        "date": "2026-02-06",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260206_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "12:00",
+                "location": "札幌市内遊説",
+                "lat": 43.06,
+                "lng": 141.35,
+                "region": "北海道",
+                "municipality": "札幌市",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937583"
+    },
+    {
+        "date": "2026-02-06",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "比例北海道",
+        "party": "中道改革連合",
+        "image_path": "photos/260206_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "西11丁目駅",
+                "lat": 43.0594,
+                "lng": 141.3417,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "09:00",
+                "location": "西18丁目駅",
+                "lat": 43.0578,
+                "lng": 141.3317,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "大同生命札幌ビルmiredo前",
+                "lat": 43.0642,
+                "lng": 141.3508,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "13:00",
+                "location": "札幌三越・パルコ前交差点",
+                "lat": 43.0594,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "大通り公園付近",
+                "lat": 43.0601,
+                "lng": 141.3527,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "すすきの交差点",
+                "lat": 43.0558,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937627"
+    },
+    {
         "date": "2026-02-05",
         "day_of_week": "木",
         "candidate": "藤田ひかる",
@@ -1426,6 +1912,35 @@ const GAITOU_DB = [
             }
         ],
         "id": "520667390"
+    },
+    {
+        "date": "2026-02-05",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260205_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "10:30",
+                "location": "札幌三越前",
+                "lat": 43.0594,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "イオン札幌麻生店",
+                "lat": 43.1008,
+                "lng": 141.3364,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937162"
     },
     {
         "date": "2026-02-04",
@@ -2025,6 +2540,73 @@ const GAITOU_DB = [
         "id": "520667364"
     },
     {
+        "date": "2026-02-04",
+        "candidate": "加藤貴弘",
+        "prefecture": "北海道",
+        "constituency": "北海道1区",
+        "party": "自由民主党",
+        "image_path": "photos/260204_北海道_加藤貴弘.jpg",
+        "schedule": [
+            {
+                "time": "12:00",
+                "location": "自民党藤野支部",
+                "lat": 42.975,
+                "lng": 141.2833,
+                "region": "北海道",
+                "municipality": "札幌市南区",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "三越前",
+                "lat": 43.0594,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "15:10",
+                "location": "すすきのサツドラ前",
+                "lat": 43.055,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "琴似・山の手自民党支部",
+                "lat": 43.0783,
+                "lng": 141.3033,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937479"
+    },
+    {
+        "date": "2026-02-04",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260204_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "18:30",
+                "location": "イオン札幌麻生店",
+                "lat": 43.1008,
+                "lng": 141.3364,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937387"
+    },
+    {
         "date": "2026-02-03",
         "day_of_week": "火",
         "candidate": "うさみ登",
@@ -2578,6 +3160,44 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "constituency": "長野5区",
         "id": "520667327"
+    },
+    {
+        "date": "2026-02-03",
+        "candidate": "和田よしあき",
+        "prefecture": "北海道",
+        "constituency": "北海道5区",
+        "party": "自由民主党",
+        "image_path": "photos/260203_北海道_和田よしあき.jpeg",
+        "schedule": [
+            {
+                "time": "12:00",
+                "location": "ホクレンショップ東郊店",
+                "lat": 42.825,
+                "lng": 141.67,
+                "region": "北海道",
+                "municipality": "千歳市",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "JA道央 江別支店",
+                "lat": 43.11,
+                "lng": 141.56,
+                "region": "北海道",
+                "municipality": "江別市",
+                "status": 0
+            },
+            {
+                "time": "17:00",
+                "location": "野幌商店街付近",
+                "lat": 43.0925,
+                "lng": 141.5269,
+                "region": "北海道",
+                "municipality": "江別市",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937929"
     },
     {
         "date": "2026-02-02",
@@ -3475,6 +4095,138 @@ const GAITOU_DB = [
         "prefecture": "長野県",
         "constituency": "長野2区",
         "id": "520667228"
+    },
+    {
+        "date": "2026-02-02",
+        "candidate": "佐々木あけみ",
+        "prefecture": "北海道",
+        "constituency": "北海道4区",
+        "party": "日本共産党",
+        "image_path": "photos/260202_北海道_佐々木あけみ.jpeg",
+        "schedule": [
+            {
+                "time": "09:00",
+                "location": "ラルズマート余市西部店前",
+                "lat": 43.1817,
+                "lng": 140.79,
+                "region": "北海道",
+                "municipality": "余市町",
+                "status": 0
+            },
+            {
+                "time": "09:40",
+                "location": "北海道信用金庫古平支店前",
+                "lat": 43.2667,
+                "lng": 140.6333,
+                "region": "北海道",
+                "municipality": "古平町",
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "location": "余市中央公民館",
+                "lat": 43.1817,
+                "lng": 140.7917,
+                "region": "北海道",
+                "municipality": "余市町",
+                "status": 0
+            },
+            {
+                "time": "13:30",
+                "location": "小樽 梅広会館",
+                "lat": 43.19,
+                "lng": 141,
+                "region": "北海道",
+                "municipality": "小樽市",
+                "status": 0
+            },
+            {
+                "time": "14:20",
+                "location": "小樽 緑上部会館",
+                "lat": 43.195,
+                "lng": 140.99,
+                "region": "北海道",
+                "municipality": "小樽市",
+                "status": 0
+            },
+            {
+                "time": "15:20",
+                "location": "小樽 朝里町会事務所",
+                "lat": 43.175,
+                "lng": 141.0667,
+                "region": "北海道",
+                "municipality": "小樽市",
+                "status": 0
+            },
+            {
+                "time": "17:50",
+                "location": "小樽 銭函 豊足神社",
+                "lat": 43.1417,
+                "lng": 141.1583,
+                "region": "北海道",
+                "municipality": "小樽市",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937329"
+    },
+    {
+        "date": "2026-02-02",
+        "candidate": "加藤貴弘",
+        "prefecture": "北海道",
+        "constituency": "北海道1区",
+        "party": "自由民主党",
+        "image_path": "photos/260202_北海道_加藤貴弘.jpg",
+        "schedule": [
+            {
+                "time": "10:00",
+                "location": "藻岩北会館",
+                "lat": 43.0117,
+                "lng": 141.3333,
+                "region": "北海道",
+                "municipality": "札幌市南区",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "澄川地区会館",
+                "lat": 43.0167,
+                "lng": 141.3667,
+                "region": "北海道",
+                "municipality": "札幌市南区",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "鉄工団地組合ホール",
+                "lat": 43.0833,
+                "lng": 141.2667,
+                "region": "北海道",
+                "municipality": "札幌市西区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937435"
+    },
+    {
+        "date": "2026-02-02",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260202_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "10:30",
+                "location": "北24条駅前",
+                "lat": 43.0894,
+                "lng": 141.3458,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937377"
     },
     {
         "date": "2026-02-01",
@@ -5025,6 +5777,109 @@ const GAITOU_DB = [
             }
         ],
         "id": "520667207"
+    },
+    {
+        "date": "2026-02-01",
+        "candidate": "たかはし翔太",
+        "prefecture": "北海道",
+        "constituency": "北海道4区",
+        "party": "参政党",
+        "image_path": "photos/260201_北海道_たかはし翔太.jpg",
+        "schedule": [
+            {
+                "time": "10:00",
+                "location": "コープさっぽろ俱知安店",
+                "lat": 42.9011,
+                "lng": 140.7456,
+                "region": "北海道",
+                "municipality": "俱知安町",
+                "status": 0
+            },
+            {
+                "time": "11:00",
+                "location": "ラッキー俱知安店",
+                "lat": 42.9033,
+                "lng": 140.75,
+                "region": "北海道",
+                "municipality": "俱知安町",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "ニセコ道の駅ビュープラザ",
+                "lat": 42.825,
+                "lng": 140.6867,
+                "region": "北海道",
+                "municipality": "ニセコ町",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "余市中央公民館前",
+                "lat": 43.1817,
+                "lng": 140.7917,
+                "region": "北海道",
+                "municipality": "余市町",
+                "status": 0
+            },
+            {
+                "time": "16:30",
+                "location": "長崎屋小樽店前",
+                "lat": 43.1972,
+                "lng": 140.9939,
+                "region": "北海道",
+                "municipality": "小樽市",
+                "status": 0
+            },
+            {
+                "time": "18:30",
+                "location": "手稲駅あいくる",
+                "lat": 43.128,
+                "lng": 141.248,
+                "region": "北海道",
+                "municipality": "札幌市手稲区",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "手稲駅北口",
+                "lat": 43.128,
+                "lng": 141.248,
+                "region": "北海道",
+                "municipality": "札幌市手稲区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937216"
+    },
+    {
+        "date": "2026-02-01",
+        "candidate": "和田よしあき",
+        "prefecture": "北海道",
+        "constituency": "北海道5区",
+        "party": "自由民主党",
+        "image_path": "photos/260201_北海道_和田よしあき.jpeg",
+        "schedule": [
+            {
+                "time": "14:50",
+                "location": "白石区北都地区会館",
+                "lat": 43.0583,
+                "lng": 141.425,
+                "region": "北海道",
+                "municipality": "札幌市白石区",
+                "status": 0
+            },
+            {
+                "time": "17:50",
+                "location": "ランターンフェスティバル",
+                "lat": 43.0333,
+                "lng": 141.4667,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319937914"
     },
     {
         "date": "2026-01-31",
@@ -7969,6 +8824,64 @@ const GAITOU_DB = [
         "id": "520667208"
     },
     {
+        "date": "2026-01-31",
+        "candidate": "加藤貴弘",
+        "prefecture": "北海道",
+        "constituency": "北海道1区",
+        "party": "自由民主党",
+        "image_path": "photos/260131_北海道_加藤貴弘.jpg",
+        "schedule": [
+            {
+                "time": "15:40",
+                "location": "円山まちづくりセンター",
+                "lat": 43.055,
+                "lng": 141.3167,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "location": "光明寺",
+                "lat": 43.0783,
+                "lng": 141.325,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            }
+        ],
+        "id": "17711533199364"
+    },
+    {
+        "date": "2026-01-31",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260131_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "11:20",
+                "location": "栄町駅前",
+                "lat": 43.1114,
+                "lng": 141.3653,
+                "region": "北海道",
+                "municipality": "札幌市東区",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "イオン札幌麻生店",
+                "lat": 43.1008,
+                "lng": 141.3364,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319936420"
+    },
+    {
         "date": "2026-01-30",
         "candidate": "福田じゅんた",
         "party": "中道改革連合",
@@ -9747,6 +10660,44 @@ const GAITOU_DB = [
         "id": "520667209"
     },
     {
+        "date": "2026-01-30",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260130_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "13:45",
+                "location": "札幌三越",
+                "lat": 43.0594,
+                "lng": 141.3533,
+                "region": "北海道",
+                "municipality": "札幌市中央区",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "麻生イオン",
+                "lat": 43.1008,
+                "lng": 141.3364,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "location": "栄町駅前",
+                "lat": 43.1114,
+                "lng": 141.3653,
+                "region": "北海道",
+                "municipality": "札幌市東区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319936245"
+    },
+    {
         "date": "2026-01-29",
         "candidate": "門山ひろあき",
         "party": "自由民主党",
@@ -10765,6 +11716,82 @@ const GAITOU_DB = [
             }
         ],
         "id": "520667216"
+    },
+    {
+        "date": "2026-01-29",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の會",
+        "image_path": "photos/260129_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "北18条駅前",
+                "lat": 43.0794,
+                "lng": 141.3486,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "元町駅前",
+                "lat": 43.0906,
+                "lng": 141.3653,
+                "region": "北海道",
+                "municipality": "札幌市東区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319936433"
+    },
+    {
+        "date": "2026-01-29",
+        "candidate": "和田よしあき",
+        "prefecture": "北海道",
+        "constituency": "北海道5区",
+        "party": "自由民主党",
+        "image_path": "photos/260129_北海道_和田よしあき.jpeg",
+        "schedule": [
+            {
+                "time": "07:30",
+                "location": "新札幌駅前",
+                "lat": 43.0391,
+                "lng": 141.4725,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            },
+            {
+                "time": "10:10",
+                "location": "ホクノー中央店",
+                "lat": 43.0217,
+                "lng": 141.4886,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            },
+            {
+                "time": "11:45",
+                "location": "森林公園駅前 (西口)",
+                "lat": 43.0567,
+                "lng": 141.4817,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            },
+            {
+                "time": "18:40",
+                "location": "新札幌駅前",
+                "lat": 43.0391,
+                "lng": 141.4725,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319936857"
     },
     {
         "date": "2026-01-28",
@@ -11968,6 +12995,100 @@ const GAITOU_DB = [
         "id": "520667217"
     },
     {
+        "date": "2026-01-28",
+        "candidate": "和田よしあき",
+        "prefecture": "北海道",
+        "constituency": "北海道5区",
+        "party": "自由民主党",
+        "image_path": "photos/260128_北海道_和田よしあき.jpeg",
+        "schedule": [
+            {
+                "time": "08:00",
+                "location": "野幌駅前 (北口)",
+                "lat": 43.0925,
+                "lng": 141.5269,
+                "region": "北海道",
+                "municipality": "江別市",
+                "status": 0
+            },
+            {
+                "time": "09:00",
+                "location": "工業会館",
+                "lat": 43.1056,
+                "lng": 141.5417,
+                "region": "北海道",
+                "municipality": "江別市",
+                "status": 0
+            },
+            {
+                "time": "12:00",
+                "location": "ホテルエミシア札幌 個人演説会",
+                "lat": 43.0378,
+                "lng": 141.4744,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            },
+            {
+                "time": "15:00",
+                "location": "JA新しのつ大会議室",
+                "lat": 43.2417,
+                "lng": 141.625,
+                "region": "北海道",
+                "municipality": "新篠津村",
+                "status": 0
+            },
+            {
+                "time": "16:45",
+                "location": "ロイズタウン駅前",
+                "lat": 43.2081,
+                "lng": 141.5367,
+                "region": "北海道",
+                "municipality": "当別町",
+                "status": 0
+            },
+            {
+                "time": "18:00",
+                "location": "田西会館",
+                "lat": 43.2217,
+                "lng": 141.5161,
+                "region": "北海道",
+                "municipality": "当別町",
+                "status": 0
+            }
+        ],
+        "id": "1771153319936416"
+    },
+    {
+        "date": "2026-01-28",
+        "candidate": "山崎泉",
+        "prefecture": "北海道",
+        "constituency": "北海道2区",
+        "party": "日本維新の会",
+        "image_path": "photos/260128_北海道_山崎泉.jpeg",
+        "schedule": [
+            {
+                "time": "13:30",
+                "location": "麻生駅前",
+                "lat": 43.1017,
+                "lng": 141.3364,
+                "region": "北海道",
+                "municipality": "札幌市北区",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "環状通東駅前",
+                "lat": 43.0786,
+                "lng": 141.3833,
+                "region": "北海道",
+                "municipality": "札幌市東区",
+                "status": 0
+            }
+        ],
+        "id": "1771153319936704"
+    },
+    {
         "date": "2026-01-27",
         "day_of_week": "火",
         "candidate": "小林鷹之",
@@ -12822,5 +13943,117 @@ const GAITOU_DB = [
             }
         ],
         "id": "17711413608879"
+    },
+    {
+        "date": "2026-01-27",
+        "candidate": "おおつきくれは",
+        "prefecture": "北海道",
+        "constituency": "北海道4区",
+        "party": "中道改革連合",
+        "image_path": "photos/260127_北海道_おおつきくれは.jpeg",
+        "schedule": [
+            {
+                "time": "09:00",
+                "location": "北洋銀行前 (俱知安)",
+                "lat": 42.9011,
+                "lng": 140.7456,
+                "region": "北海道",
+                "municipality": "俱知安町",
+                "status": 0
+            },
+            {
+                "time": "13:45",
+                "location": "らぶちゃんホール前 (蘭越)",
+                "lat": 42.8028,
+                "lng": 140.5283,
+                "region": "北海道",
+                "municipality": "蘭越町",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "共和町勤労者会館",
+                "lat": 42.9867,
+                "lng": 140.6133,
+                "region": "北海道",
+                "municipality": "共和町",
+                "status": 0
+            }
+        ],
+        "id": "1771153319928879"
+    },
+    {
+        "date": "2026-01-27",
+        "candidate": "和田よしあき",
+        "prefecture": "北海道",
+        "constituency": "北海道5区",
+        "party": "自由民主党",
+        "image_path": "photos/260127_北海道_和田よしあき.jpeg",
+        "schedule": [
+            {
+                "time": "09:00",
+                "location": "ホテルエミシア札幌 出陣式",
+                "lat": 43.0378,
+                "lng": 141.4744,
+                "region": "北海道",
+                "municipality": "札幌市厚別区",
+                "status": 0
+            },
+            {
+                "time": "13:45",
+                "location": "和田よしあき北広島事務所前",
+                "lat": 42.9922,
+                "lng": 141.5583,
+                "region": "北海道",
+                "municipality": "北広島市",
+                "status": 0
+            },
+            {
+                "time": "14:15",
+                "location": "北広島市役所前",
+                "lat": 42.9892,
+                "lng": 141.5644,
+                "region": "北海道",
+                "municipality": "北広島市",
+                "status": 0
+            },
+            {
+                "time": "15:05",
+                "location": "ショッピング北広島前",
+                "lat": 42.9908,
+                "lng": 141.5647,
+                "region": "北海道",
+                "municipality": "北広島市",
+                "status": 0
+            },
+            {
+                "time": "16:10",
+                "location": "JA道央 本店前",
+                "lat": 42.8944,
+                "lng": 141.5833,
+                "region": "北海道",
+                "municipality": "恵庭市",
+                "status": 0
+            },
+            {
+                "time": "17:10",
+                "location": "うおはん前",
+                "lat": 42.8833,
+                "lng": 141.5833,
+                "region": "北海道",
+                "municipality": "恵庭市",
+                "status": 0
+            },
+            {
+                "time": "18:20",
+                "location": "和田よしあき千歳事務所前",
+                "lat": 42.825,
+                "lng": 141.6517,
+                "region": "北海道",
+                "municipality": "千歳市",
+                "status": 0
+            }
+        ],
+        "id": "1771153319936405"
     }
 ];
