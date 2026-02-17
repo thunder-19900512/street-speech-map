@@ -272,16 +272,20 @@
             height: 100%;
             background-color: rgba(0, 0, 0, 0.8);
             backdrop-filter: blur(5px);
+            align-items: center;
+            justify-content: center;
         }
 
         .modal-content {
             background-color: var(--card-bg);
-            margin: 10% auto;
             padding: 20px;
             border: 1px solid var(--border);
-            width: 90%;
-            max-width: 400px;
+            width: 95%;
+            max-width: 500px;
             border-radius: 12px;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
         }
 
         .btn-primary {
@@ -394,7 +398,7 @@
 
             <div>
                 <h1>街頭演説マップ</h1>
-                <p class="last-updated">Last updated: 2026-02-15 20:03:57 (JST)</p>
+                <p class="last-updated">Last updated: 2026-02-17 15:34:46 (JST)</p>
             </div>
             <div style="display:flex; gap:8px;">
                 <button class="help-toggle" onclick="openModal('helpModal')">❓ 使い方</button>
@@ -507,7 +511,7 @@
 
     <!-- Help Modal -->
     <div id="helpModal" class="modal">
-        <div class="modal-content" style="max-width: 500px;">
+        <div class="modal-content">
             <div
                 style="display:flex; justify-content:space-between; margin-bottom:15px; border-bottom: 2px solid var(--accent); padding-bottom: 10px;">
                 <h3 style="margin:0;">🗺 街頭演説マップの使い方</h3>
@@ -921,7 +925,7 @@
                 document.getElementById('newLng').value = lng;
                 document.getElementById('newCoords').value = `${lat.toFixed(6)}, ${lng.toFixed(6)}`;
                 stopPickingNewLocation();
-                document.getElementById('disputeModal').style.display = 'block';
+                document.getElementById('disputeModal').style.display = 'flex';
             });
         }
 
@@ -931,7 +935,7 @@
             map.getContainer().style.cursor = '';
         }
 
-        function openModal(id) { document.getElementById(id).style.display = 'block'; }
+        function openModal(id) { document.getElementById(id).style.display = 'flex'; }
 
         function closeModal(id) { document.getElementById(id).style.display = 'none'; }
 
