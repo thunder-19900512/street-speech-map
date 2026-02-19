@@ -434,56 +434,56 @@
             {
                 "time": "09:00",
                 "location": "仙台駅東口",
-                "lat": 38.2598,
-                "lng": 140.884,
+                "lat": 38.25960134301436,
+                "lng": 140.8835784334224,
                 "region": "宮城県",
                 "municipality": "仙台市宮城野区",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "11:00",
                 "location": "名掛丁ドンキ前",
-                "lat": 38.2617,
-                "lng": 140.8793,
+                "lat": 38.26174278421581,
+                "lng": 140.87899141595702,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "14:00",
                 "location": "仙台駅東口",
-                "lat": 38.2598,
-                "lng": 140.884,
+                "lat": 38.25960052068348,
+                "lng": 140.88363972608934,
                 "region": "宮城県",
                 "municipality": "仙台市宮城野区",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "16:00",
                 "location": "藤崎グッチ前",
-                "lat": 38.2603,
-                "lng": 140.8744,
+                "lat": 38.26077196411285,
+                "lng": 140.87442421121523,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "17:00",
                 "location": "フォーラス前",
-                "lat": 38.2622,
-                "lng": 140.872,
+                "lat": 38.26245617424585,
+                "lng": 140.871977575589,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "19:00",
                 "location": "三越前",
-                "lat": 38.2587,
-                "lng": 140.8722,
+                "lat": 38.26581540478599,
+                "lng": 140.8702607313171,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 2
             }
         ],
         "id": "520667396"
@@ -1200,11 +1200,11 @@
             {
                 "time": "10:30",
                 "location": "フォーラス前",
-                "lat": 38.2587,
-                "lng": 140.8722,
+                "lat": 38.26246882335981,
+                "lng": 140.87200208217837,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "14:00",
@@ -1213,16 +1213,16 @@
                 "lng": 140.8831,
                 "region": "宮城県",
                 "municipality": "仙台市泉区",
-                "status": 0
+                "status": 1
             },
             {
                 "time": "16:00",
                 "location": "イオンモール新利府前",
-                "lat": 38.323,
-                "lng": 140.9728,
+                "lat": 38.32466088194167,
+                "lng": 140.97182466066445,
                 "region": "宮城県",
                 "municipality": "利府町",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "18:00",
@@ -1572,7 +1572,7 @@
                 "lng": 140.8835,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 1
             }
         ],
         "id": "520667380"
@@ -2795,20 +2795,20 @@
             {
                 "time": "15:30",
                 "location": "名掛丁ドンキ前",
-                "lat": 38.2612,
-                "lng": 140.88,
+                "lat": 38.26175219821949,
+                "lng": 140.878983453149,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 2
             },
             {
                 "time": "18:00",
                 "location": "アエル前",
-                "lat": 38.263,
-                "lng": 140.881,
+                "lat": 38.262140603184285,
+                "lng": 140.8806957083289,
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "status": 0
+                "status": 2
             }
         ],
         "id": "520667353"
@@ -5600,36 +5600,36 @@
                 "location": "アエル前",
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "lat": 38.263,
-                "lng": 140.881,
-                "status": 0
+                "lat": 38.262152115413265,
+                "lng": 140.88071456761102,
+                "status": 2
             },
             {
                 "time": "10:30",
                 "location": "名掛丁ドンキ前",
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "lat": 38.261,
-                "lng": 140.88,
-                "status": 0
+                "lat": 38.261753228375326,
+                "lng": 140.8789994835388,
+                "status": 2
             },
             {
                 "time": "12:00",
                 "location": "藤崎グッチ前",
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "lat": 38.26,
-                "lng": 140.875,
-                "status": 0
+                "lat": 38.26078528207412,
+                "lng": 140.87444492499347,
+                "status": 2
             },
             {
                 "time": "14:00",
                 "location": "アエル前",
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "lat": 38.263,
-                "lng": 140.881,
-                "status": 0
+                "lat": 38.26214882620516,
+                "lng": 140.8807239972521,
+                "status": 2
             },
             {
                 "time": "16:00",
@@ -5645,9 +5645,9 @@
                 "location": "アエル前",
                 "region": "宮城県",
                 "municipality": "仙台市青葉区",
-                "lat": 38.263,
-                "lng": 140.881,
-                "status": 0
+                "lat": 38.26213484706906,
+                "lng": 140.8807249402162,
+                "status": 2
             }
         ],
         "id": "520667162"
@@ -14055,5 +14055,1170 @@
             }
         ],
         "id": "1771153319936405"
+    },
+    {
+        "date": "2025-07-04",
+        "day_of_week": "金",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250704_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "13192828375969"
+    },
+    {
+        "date": "2025-07-05",
+        "day_of_week": "土",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250705_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "33105239276266"
+    },
+    {
+        "date": "2025-07-06",
+        "day_of_week": "日",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250706_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "19473817175993"
+    },
+    {
+        "date": "2025-07-07",
+        "day_of_week": "月",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250707_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "54492660703863"
+    },
+    {
+        "date": "2025-07-08",
+        "day_of_week": "火",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250708_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "10757806036295"
+    },
+    {
+        "date": "2025-07-09",
+        "day_of_week": "水",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250709_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "16664571413105"
+    },
+    {
+        "date": "2025-07-10",
+        "day_of_week": "木",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250710_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "40134738865493"
+    },
+    {
+        "date": "2025-07-11",
+        "day_of_week": "金",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250711_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "25369874193629"
+    },
+    {
+        "date": "2025-07-12",
+        "day_of_week": "土",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250712_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "25824444035054"
+    },
+    {
+        "date": "2025-07-13",
+        "day_of_week": "日",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250713_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "23148315483375"
+    },
+    {
+        "date": "2025-07-14",
+        "day_of_week": "月",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250714_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "21812503633401"
+    },
+    {
+        "date": "2025-07-15",
+        "day_of_week": "火",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250715_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "13583335125086"
+    },
+    {
+        "date": "2025-07-17",
+        "day_of_week": "木",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250717_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "27328685401237"
+    },
+    {
+        "date": "2025-07-18",
+        "day_of_week": "金",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250718_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "25164206384976"
+    },
+    {
+        "date": "2025-07-19",
+        "day_of_week": "土",
+        "candidate": "はが道也",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "無所属",
+        "image_path": "photos/250719_山形県_はが道也.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "山形県内各地",
+                "status": 0
+            }
+        ],
+        "id": "90988892606730"
+    },
+    {
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "北海道",
+        "party": "不明",
+        "image_path": "photos/260127_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "29991210448820"
+    },
+    {
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "岡野純子",
+        "prefecture": "千葉県",
+        "constituency": "千葉県",
+        "party": "不明",
+        "image_path": "photos/260127_千葉県_岡野純子_2.png",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "12542227284488"
+    },
+    {
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "林たくみ",
+        "prefecture": "宮城県",
+        "constituency": "比例東北",
+        "party": "チームみらい",
+        "image_path": "photos/260127_宮城県_林たくみ.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "93254357569739"
+    },
+    {
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "須田えいたろう ギア+",
+        "prefecture": "愛知県",
+        "constituency": "愛知県",
+        "party": "不明",
+        "image_path": "photos/260127_愛知県_須田えいたろう ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "29027017126400"
+    },
+    {
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "黒岩たかひろ",
+        "prefecture": "新潟県",
+        "constituency": "新潟県",
+        "party": "立憲民主党",
+        "image_path": "photos/260127_新潟県_黒岩たかひろ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "29374884420161"
+    },
+    {
+        "date": "2026-01-27",
+        "day_of_week": "火",
+        "candidate": "古川あおい ギア+",
+        "prefecture": "福岡県",
+        "constituency": "福岡県",
+        "party": "不明",
+        "image_path": "photos/260127_福岡県_古川あおい ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "11603102867244"
+    },
+    {
+        "date": "2026-01-28",
+        "day_of_week": "水",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "北海道",
+        "party": "不明",
+        "image_path": "photos/260128_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "21430259107657"
+    },
+    {
+        "date": "2026-01-28",
+        "day_of_week": "水",
+        "candidate": "須田えいたろう ギア+",
+        "prefecture": "岐阜県",
+        "constituency": "岐阜県",
+        "party": "不明",
+        "image_path": "photos/260128_岐阜県_須田えいたろう ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "15908341448446"
+    },
+    {
+        "date": "2026-01-28",
+        "day_of_week": "水",
+        "candidate": "内山航 ギア+",
+        "prefecture": "新潟県",
+        "constituency": "新潟県",
+        "party": "不明",
+        "image_path": "photos/260128_新潟県_内山航 ギア+.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "21645880996316"
+    },
+    {
+        "date": "2026-01-28",
+        "day_of_week": "水",
+        "candidate": "古川あおい ギア+",
+        "prefecture": "福岡県",
+        "constituency": "福岡県",
+        "party": "不明",
+        "image_path": "photos/260128_福岡県_古川あおい ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "21893721445364"
+    },
+    {
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "須田えいたろう ギア+",
+        "prefecture": "三重県",
+        "constituency": "三重県",
+        "party": "不明",
+        "image_path": "photos/260129_三重県_須田えいたろう ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "20755237953074"
+    },
+    {
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "北海道",
+        "party": "不明",
+        "image_path": "photos/260129_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "42424637319317"
+    },
+    {
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "林たくみ",
+        "prefecture": "宮城県",
+        "constituency": "比例東北",
+        "party": "チームみらい",
+        "image_path": "photos/260129_宮城県_林たくみ.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "24643122259441"
+    },
+    {
+        "date": "2026-01-29",
+        "day_of_week": "木",
+        "candidate": "古川あおい ギア+",
+        "prefecture": "鹿児島県",
+        "constituency": "鹿児島県",
+        "party": "不明",
+        "image_path": "photos/260129_鹿児島県_古川あおい ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "25341108780892"
+    },
+    {
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "林たくみ",
+        "prefecture": "宮城県",
+        "constituency": "比例東北",
+        "party": "チームみらい",
+        "image_path": "photos/260130_宮城県_林たくみ.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "11597544085786"
+    },
+    {
+        "date": "2026-01-30",
+        "day_of_week": "金",
+        "candidate": "須田えいたろう ギア+",
+        "prefecture": "静岡県",
+        "constituency": "静岡県",
+        "party": "不明",
+        "image_path": "photos/260130_静岡県_須田えいたろう ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "34451047751007"
+    },
+    {
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "北海道",
+        "party": "不明",
+        "image_path": "photos/260131_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "90256639599536"
+    },
+    {
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "林たくみ",
+        "prefecture": "宮城県",
+        "constituency": "比例東北",
+        "party": "チームみらい",
+        "image_path": "photos/260131_宮城県_林たくみ.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "26195657789470"
+    },
+    {
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "寺田たかふみ",
+        "prefecture": "栃木県",
+        "constituency": "栃木県",
+        "party": "不明",
+        "image_path": "photos/260131_栃木県_寺田たかふみ_2.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "25034550792891"
+    },
+    {
+        "date": "2026-01-31",
+        "day_of_week": "土",
+        "candidate": "宮下一郎",
+        "prefecture": "長野県",
+        "constituency": "長野県",
+        "party": "不明",
+        "image_path": "photos/260131_長野県_宮下一郎_2.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "25106134024861"
+    },
+    {
+        "date": "2026-02-01",
+        "day_of_week": "日",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "北海道",
+        "party": "不明",
+        "image_path": "photos/260201_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "20750624935412"
+    },
+    {
+        "date": "2026-02-01",
+        "day_of_week": "日",
+        "candidate": "玉ほりりえ",
+        "prefecture": "千葉県",
+        "constituency": "千葉県",
+        "party": "不明",
+        "image_path": "photos/260201_千葉県_玉ほりりえ_2.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "21340659666095"
+    },
+    {
+        "date": "2026-02-01",
+        "day_of_week": "日",
+        "candidate": "福田じゅんた",
+        "prefecture": "長野県",
+        "constituency": "長野県",
+        "party": "不明",
+        "image_path": "photos/260201_長野県_福田じゅんた_2.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "33958431661437"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "北海道",
+        "party": "不明",
+        "image_path": "photos/260202_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "32559138295322"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "えりアルフィヤ",
+        "prefecture": "千葉県",
+        "constituency": "千葉県",
+        "party": "不明",
+        "image_path": "photos/260202_千葉県_えりアルフィヤ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "38954966664873"
+    },
+    {
+        "date": "2026-02-02",
+        "day_of_week": "月",
+        "candidate": "古川あおい ギア+",
+        "prefecture": "沖縄県",
+        "constituency": "沖縄県",
+        "party": "不明",
+        "image_path": "photos/260202_沖縄県_古川あおい ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "54438019667926"
+    },
+    {
+        "date": "2026-02-03",
+        "day_of_week": "火",
+        "candidate": "武藤かず子",
+        "prefecture": "茨城県",
+        "constituency": "茨城県",
+        "party": "不明",
+        "image_path": "photos/260203_茨城県_武藤かず子.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "27229424011991"
+    },
+    {
+        "date": "2026-02-04",
+        "day_of_week": "水",
+        "candidate": "古川あおい ギア+",
+        "prefecture": "長崎県・宮崎県",
+        "constituency": "長崎県・宮崎県",
+        "party": "不明",
+        "image_path": "photos/260204_長崎県・宮崎県_古川あおい ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "23108219676761"
+    },
+    {
+        "date": "2026-02-05",
+        "day_of_week": "木",
+        "candidate": "稲原むねよし",
+        "prefecture": "北海道",
+        "constituency": "北海道",
+        "party": "不明",
+        "image_path": "photos/260205_北海道_稲原むねよし.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "27769037030001"
+    },
+    {
+        "date": "2026-02-05",
+        "day_of_week": "木",
+        "candidate": "さくらだきょうこ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260205_山形県_さくらだきょうこ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "18735899178497"
+    },
+    {
+        "date": "2026-02-05",
+        "day_of_week": "木",
+        "candidate": "喜多こうすけ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260205_山形県_喜多こうすけ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "20574704445038"
+    },
+    {
+        "date": "2026-02-05",
+        "day_of_week": "木",
+        "candidate": "落合たくま",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "中道改革連合",
+        "image_path": "photos/260205_山形県_落合たくま.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "17099124531426"
+    },
+    {
+        "date": "2026-02-05",
+        "day_of_week": "木",
+        "candidate": "古川あおい ギア+",
+        "prefecture": "鹿児島県・福岡県",
+        "constituency": "鹿児島県・福岡県",
+        "party": "不明",
+        "image_path": "photos/260205_鹿児島県・福岡県_古川あおい ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "79255593173850"
+    },
+    {
+        "date": "2026-02-06",
+        "day_of_week": "金",
+        "candidate": "きくち大二郎",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260206_山形県_きくち大二郎.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "96865271062991"
+    },
+    {
+        "date": "2026-02-06",
+        "day_of_week": "金",
+        "candidate": "さくらだきょうこ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260206_山形県_さくらだきょうこ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "50705057623407"
+    },
+    {
+        "date": "2026-02-06",
+        "day_of_week": "金",
+        "candidate": "原田まさひろ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260206_山形県_原田まさひろ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "25420650912494"
+    },
+    {
+        "date": "2026-02-06",
+        "day_of_week": "金",
+        "candidate": "喜多こうすけ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260206_山形県_喜多こうすけ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "27010285004803"
+    },
+    {
+        "date": "2026-02-06",
+        "day_of_week": "金",
+        "candidate": "落合たくま",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "中道改革連合",
+        "image_path": "photos/260206_山形県_落合たくま.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "17273130194716"
+    },
+    {
+        "date": "2026-02-06",
+        "day_of_week": "金",
+        "candidate": "須田えいたろう ギア+",
+        "prefecture": "愛知県",
+        "constituency": "愛知県",
+        "party": "不明",
+        "image_path": "photos/260206_愛知県_須田えいたろう ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "14943879391221"
+    },
+    {
+        "date": "2026-02-06",
+        "day_of_week": "金",
+        "candidate": "古川あおい ギア+",
+        "prefecture": "福岡県",
+        "constituency": "福岡県",
+        "party": "不明",
+        "image_path": "photos/260206_福岡県_古川あおい ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "19149891740043"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "にとうべとうま",
+        "prefecture": "宮城県",
+        "constituency": "比例東北",
+        "party": "チームみらい",
+        "image_path": "photos/260207_宮城県_にとうべとうま.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "22766662897598"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "えんどうかずし",
+        "prefecture": "山形県",
+        "constituency": "山形3区",
+        "party": "参政党",
+        "image_path": "photos/260207_山形県_えんどうかずし.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "26831099541292"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "きくち大二郎",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260207_山形県_きくち大二郎.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "28548791931076"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "さくらだきょうこ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260207_山形県_さくらだきょうこ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "27581694679806"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "原田まさひろ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260207_山形県_原田まさひろ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "10939905025483"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "喜多こうすけ",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260207_山形県_喜多こうすけ.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "16425625264565"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "落合たくま",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "中道改革連合",
+        "image_path": "photos/260207_山形県_落合たくま_1.jpg",
+        "schedule": [
+            {
+                "time": "09:30",
+                "location": "主婦の店鶴岡店パル様前",
+                "status": 0
+            },
+            {
+                "time": "10:30",
+                "location": "荘銀タクト鶴岡様前",
+                "status": 0
+            },
+            {
+                "time": "11:45",
+                "location": "酒田市肴町地内",
+                "status": 0
+            },
+            {
+                "time": "13:05",
+                "location": "めんたま畑様前",
+                "status": 0
+            },
+            {
+                "time": "14:00",
+                "location": "八幡タウンセンター様前",
+                "status": 0
+            },
+            {
+                "time": "14:45",
+                "location": "遊佐エルパ様前",
+                "status": 0
+            },
+            {
+                "time": "15:15",
+                "location": "こぴあ コープ酒田様前",
+                "status": 0
+            },
+            {
+                "time": "15:40",
+                "location": "酒田海鮮市場様前",
+                "status": 0
+            },
+            {
+                "time": "16:00",
+                "location": "酒田市東中の口町地内",
+                "status": 0
+            },
+            {
+                "time": "16:30",
+                "location": "ト一屋みずほ通り店様前",
+                "status": 0
+            },
+            {
+                "time": "17:50",
+                "location": "旧清水屋様前",
+                "status": 0
+            },
+            {
+                "time": "19:00",
+                "location": "いろは蔵パーク様前",
+                "status": 0
+            },
+            {
+                "time": "19:50",
+                "location": "酒田市富士見町1丁目地内",
+                "status": 0
+            }
+        ],
+        "id": "68352587934515"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "遠藤ひろあき",
+        "prefecture": "山形県",
+        "constituency": "山形県",
+        "party": "国民民主党",
+        "image_path": "photos/260207_山形県_遠藤ひろあき_1.jpg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "11473282667481"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "須田えいたろう ギア+",
+        "prefecture": "愛知県",
+        "constituency": "愛知県",
+        "party": "不明",
+        "image_path": "photos/260207_愛知県_須田えいたろう ギア+.jpeg",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "16437532487666"
+    },
+    {
+        "date": "2026-02-07",
+        "day_of_week": "土",
+        "candidate": "黒岩たかひろ",
+        "prefecture": "新潟県",
+        "constituency": "新潟県",
+        "party": "立憲民主党",
+        "image_path": "photos/260207_新潟県_黒岩たかひろ.png",
+        "schedule": [
+            {
+                "time": "--:--",
+                "location": "街頭演説予定",
+                "status": 0
+            }
+        ],
+        "id": "19220104430707"
     }
 ]
