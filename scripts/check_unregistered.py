@@ -1,6 +1,10 @@
 
 import os
 import json
+import unicodedata
+
+def normalize(text):
+    return unicodedata.normalize('NFC', text)
 
 def get_registered_files(db_path):
     with open(db_path, 'r', encoding='utf-8') as f:
@@ -8,14 +12,14 @@ def get_registered_files(db_path):
     paths = set()
     for entry in data:
         if 'image_path' in entry:
-            paths.add(os.path.basename(entry['image_path']))
+            paths.add(normalize(os.path.basename(entry['image_path'])))
     return paths
 
 def get_all_files(photos_dir):
     files = set()
     for f in os.listdir(photos_dir):
         if os.path.isfile(os.path.join(photos_dir, f)) and not f.startswith('.'):
-            files.add(f)
+            files.add(normalize(f))
     return files
 
 photos_dir = 'photos'
