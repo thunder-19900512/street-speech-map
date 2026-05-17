@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "小林鷹之",
+    "prefecture": "千葉県",
+    "constituency": "千葉2区",
+    "party": "自由民主党",
+    "image_path": "photos/260128_千葉県_小林鷹之.jpg",
+    "schedule": [
+      {
+        "time": "11:30",
+        "location": "大和田新田コープ前",
+        "lat": 35.7275,
+        "lng": 140.0933,
+        "region": "千葉県",
+        "municipality": "八千代市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "八千代中央駅",
+        "lat": 35.7244,
+        "lng": 140.1044,
+        "region": "千葉県",
+        "municipality": "八千代市",
+        "status": 0
+      }
+    ],
+    "id": "17710689544453"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "小林鷹之",
+    "prefecture": "千葉県",
+    "constituency": "千葉2区",
+    "party": "自由民主党",
+    "image_path": "photos/260127_千葉県_小林鷹之_2.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "村上駅ロータリー",
+        "lat": 35.72361227937443,
+        "lng": 140.1190656423569,
+        "region": "千葉県",
+        "municipality": "八千代市",
+        "status": 2
+      },
+      {
+        "time": "17:00",
+        "location": "新検見川駅南口ロータリー",
+        "lat": 35.6514,
+        "lng": 140.0734,
+        "region": "千葉県",
+        "municipality": "千葉市花見川区",
+        "status": 0
+      }
+    ],
+    "id": "17710689544451"
+  }
+]

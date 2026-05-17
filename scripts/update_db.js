@@ -63,6 +63,17 @@ rl.on('close', () => {
         fs.writeFileSync(DATABASE_JS, jsContent);
         console.log(`✅ ${path.relative(process.cwd(), DATABASE_JS)} を更新しました。`);
 
+        // --- API自動更新 ---
+        console.log("\n📦 関連APIを自動更新しています...");
+        try {
+            const { execSync } = require('child_process');
+            execSync('node scripts/generate_api.js');
+            console.log("✅ APIファイルを最新の状態に更新しました。");
+        } catch (apiErr) {
+            console.error("⚠️ APIの更新に失敗しました:", apiErr.message);
+        }
+        // -----------------
+
         console.log("\n✨ すべての更新が完了しました！");
 
     } catch (e) {

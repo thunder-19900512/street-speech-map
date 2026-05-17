@@ -1,0 +1,254 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "みやじ純一",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "参政党",
+    "image_path": "photos/260202_千葉県_みやじ純一.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "市川駅",
+        "lat": 35.728,
+        "lng": 139.907,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "本八幡駅",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "本八幡駅",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "市川駅",
+        "lat": 35.728,
+        "lng": 139.907,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "id": "520667354"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "みやじ純一",
+    "party": "参政党",
+    "image_path": "photos/260201_千葉県_みやじ純一.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "浦安駅",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "新浦安駅",
+        "lat": 35.65,
+        "lng": 139.912,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "浦安駅",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "id": "520667310"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "みやじ純一",
+    "party": "参政党",
+    "image_path": "photos/260131_千葉県_みやじ純一.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "市川駅",
+        "lat": 35.7289,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "ニッケコルトンプラザ",
+        "lat": 35.7168,
+        "lng": 139.9341,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "市川駅",
+        "lat": 35.7289,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "本八幡駅",
+        "lat": 35.7208,
+        "lng": 139.9274,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "妙典駅",
+        "lat": 35.6909,
+        "lng": 139.9242,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "土",
+    "prefecture": "千葉県",
+    "constituency": "千葉県第5区",
+    "id": "520667189"
+  },
+  {
+    "date": "2026-01-30",
+    "candidate": "みやじ純一",
+    "party": "参政党",
+    "image_path": "photos/260130_千葉県_みやじ純一.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "市川駅",
+        "lat": 35.7289,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "本八幡駅",
+        "lat": 35.7208,
+        "lng": 139.9274,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "南行徳駅",
+        "lat": 35.6728,
+        "lng": 139.9023,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "金",
+    "prefecture": "千葉県",
+    "constituency": "千葉県第5区",
+    "id": "520667188"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "みやじ純一",
+    "party": "参政党",
+    "image_path": "photos/260129_千葉県_みやじ純一.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "本八幡",
+        "lat": 35.7208,
+        "lng": 139.9274,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "市川",
+        "lat": 35.7289,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "新浦安駅",
+        "lat": 35.6494,
+        "lng": 139.9124,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "行徳",
+        "lat": 35.6826,
+        "lng": 139.9142,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "木",
+    "prefecture": "千葉県",
+    "constituency": "千葉県第5区",
+    "id": "520667195"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "みやじ純一",
+    "party": "参政党",
+    "image_path": "photos/260127_千葉県_みやじ純一.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "JR本八幡北口",
+        "lat": 35.7208,
+        "lng": 139.9274,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "火",
+    "prefecture": "千葉県",
+    "constituency": "千葉県第5区",
+    "id": "520667193"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "そうの創",
+    "prefecture": "神奈川県",
+    "constituency": "神奈川18区",
+    "party": "中道改革連合",
+    "image_path": "photos/260128_神奈川県_そうの創.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "溝の口駅 キラリデッキ",
+        "lat": 35.5997,
+        "lng": 139.6105,
+        "region": "神奈川県",
+        "municipality": "川崎市高津区",
+        "status": 0
+      }
+    ],
+    "id": "17710689544455"
+  }
+]

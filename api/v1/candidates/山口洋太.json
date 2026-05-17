@@ -1,0 +1,122 @@
+[
+  {
+    "id": "17448",
+    "image_path": "photos/260200_福島県_山口洋太_Summary.jpg",
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "山口洋太",
+    "constituency": "福島4区",
+    "prefecture": "福島県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "11:00",
+        "region": "いわき市",
+        "municipality": "いわき市",
+        "location": "スーパーマルト 高坂店",
+        "lat": 37.045,
+        "lng": 140.855,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "いわき市",
+        "municipality": "いわき市",
+        "location": "スーパーマルト 湯本SC店",
+        "lat": 37.008,
+        "lng": 140.852,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17449",
+    "image_path": "photos/260131_福島県_山口洋太_1.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "山口洋太",
+    "constituency": "福島4区",
+    "prefecture": "福島県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "11:00",
+        "region": "いわき市",
+        "municipality": "いわき市",
+        "location": "スーパーマルト 岡小名店",
+        "lat": 36.945,
+        "lng": 140.898,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "region": "いわき市",
+        "municipality": "いわ市",
+        "location": "スーパーマルト 泉店",
+        "lat": 36.949,
+        "lng": 140.852,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17435",
+    "image_path": "photos/260131_福島県_山口洋太.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "山口洋太",
+    "constituency": "福島4区",
+    "prefecture": "福島県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "14:00",
+        "region": "いわき市",
+        "municipality": "いわき市",
+        "location": "道の駅 いわき・ら・ら・ミュウ前",
+        "lat": 36.936,
+        "lng": 140.865,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17447",
+    "image_path": "photos/260200_福島県_山口洋太_Summary.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "山口洋太",
+    "constituency": "福島4区",
+    "prefecture": "福島県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "11:00",
+        "region": "いわき市",
+        "municipality": "いわき市",
+        "location": "スーパーマルト 平窪店",
+        "lat": 37.078,
+        "lng": 140.885,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "いわき市",
+        "municipality": "いわき市",
+        "location": "スーパーマルト 城東店",
+        "lat": 37.049,
+        "lng": 140.902,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "region": "いわき市",
+        "municipality": "いわき市",
+        "location": "スーパーマルト 平尼子店",
+        "lat": 37.054,
+        "lng": 140.882,
+        "status": 0
+      }
+    ]
+  }
+]

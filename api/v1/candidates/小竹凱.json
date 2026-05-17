@@ -1,0 +1,77 @@
+[
+  {
+    "id": "17438",
+    "image_path": "photos/260130_石川県_小竹凱.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "小竹凱",
+    "constituency": "石川1区",
+    "prefecture": "石川県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "08:50",
+        "region": "金沢市",
+        "municipality": "金沢市",
+        "location": "泉本町交差点",
+        "lat": 36.551,
+        "lng": 136.638,
+        "status": 0
+      },
+      {
+        "time": "10:45",
+        "region": "金沢市",
+        "municipality": "金沢市",
+        "location": "横川交差点",
+        "lat": 36.535,
+        "lng": 136.645,
+        "status": 0
+      },
+      {
+        "time": "11:15",
+        "region": "金沢市",
+        "municipality": "金沢市",
+        "location": "西南部交差点",
+        "lat": 36.545,
+        "lng": 136.615,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "金沢市",
+        "municipality": "金沢市",
+        "location": "入江3丁目交差点",
+        "lat": 36.556,
+        "lng": 136.625,
+        "status": 0
+      },
+      {
+        "time": "14:45",
+        "region": "金沢市",
+        "municipality": "金沢市",
+        "location": "新神田交差点",
+        "lat": 36.562,
+        "lng": 136.635,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "region": "金沢市",
+        "municipality": "金沢市",
+        "location": "示野中町交差点",
+        "lat": 36.582,
+        "lng": 136.625,
+        "status": 0
+      },
+      {
+        "time": "16:15",
+        "region": "金沢市",
+        "municipality": "金沢市",
+        "location": "松村町交差点",
+        "lat": 36.595,
+        "lng": 136.615,
+        "status": 0
+      }
+    ]
+  }
+]

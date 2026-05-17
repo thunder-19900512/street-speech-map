@@ -1,0 +1,269 @@
+[
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "竹下ひろよし",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "party": "参政党",
+    "image_path": "photos/260206_長野県_竹下ひろよし.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "ツルヤ並柳店交差点前",
+        "lat": 36.216,
+        "lng": 137.981,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "南松本交差点",
+        "lat": 36.2111,
+        "lng": 137.9606,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "出川一丁目交差点",
+        "lat": 36.2192,
+        "lng": 137.9762,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      }
+    ],
+    "id": "520667399"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "竹下ひろよし",
+    "party": "参政党",
+    "image_path": "photos/260201_長野県_竹下ひろよし.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "イオンモール松本",
+        "lat": 36.235,
+        "lng": 137.978,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "松本市勤労者福祉センター",
+        "lat": 36.23,
+        "lng": 137.96,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 2
+      },
+      {
+        "time": "17:30",
+        "location": "松本駅前お城口",
+        "lat": 36.2307,
+        "lng": 137.9644,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "id": "520667229"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "竹下ひろよし",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "party": "参政党",
+    "image_path": "photos/260131_長野県_竹下ひろよし.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "千歳橋 上",
+        "lat": 36.234,
+        "lng": 137.967,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "アイシティ21駐車場",
+        "lat": 36.172,
+        "lng": 137.902,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "平田 交差点",
+        "lat": 36.195,
+        "lng": 137.962,
+        "status": 0
+      }
+    ],
+    "id": "520667205"
+  },
+  {
+    "id": "17442",
+    "image_path": "photos/260130_長野県_竹下ひろよし.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "竹下ひろよし",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "エーコープしんまち店 付近",
+        "lat": 36.562,
+        "lng": 138.005,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "白馬村",
+        "municipality": "白馬村",
+        "location": "JR白馬駅 前",
+        "lat": 36.696,
+        "lng": 137.864,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "大町市",
+        "municipality": "大町市",
+        "location": "フレスポ大町 入口付近",
+        "lat": 36.492,
+        "lng": 137.865,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "S__64880649",
+    "image_path": "photos/260129_長野県_竹下ひろよし.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "竹下ひろよし",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "堀金交差点",
+        "lat": 36.2913,
+        "lng": 137.8931,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "柏矢町交差点",
+        "lat": 36.319,
+        "lng": 137.904,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "カインズ豊科店 南T字路",
+        "lat": 36.2952,
+        "lng": 137.9251,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "S__64880648",
+    "image_path": "photos/260128_長野県_竹下ひろよし.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "竹下ひろよし",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "白板交差点",
+        "lat": 36.239,
+        "lng": 137.961,
+        "status": 1
+      },
+      {
+        "time": "14:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "平田駅東交差点",
+        "lat": 36.1910305499097,
+        "lng": 137.96468853950503,
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "筑摩南交差点",
+        "lat": 36.2235,
+        "lng": 137.9791,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "S__64880647",
+    "image_path": "photos/260127_長野県_竹下ひろよし.jpg",
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "竹下ひろよし",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "松本駅前お城口",
+        "lat": 36.2312,
+        "lng": 137.9652,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "千歳橋",
+        "lat": 36.23445362215017,
+        "lng": 137.9694601893425,
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "渚一丁目交差点",
+        "lat": 36.2316,
+        "lng": 137.9576,
+        "status": 0
+      }
+    ]
+  }
+]

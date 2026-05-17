@@ -1,0 +1,76 @@
+[
+  {
+    "date": "2026-02-01",
+    "candidate": "たかはし翔太",
+    "prefecture": "北海道",
+    "constituency": "北海道4区",
+    "party": "参政党",
+    "image_path": "photos/260201_北海道_たかはし翔太.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "コープさっぽろ俱知安店",
+        "lat": 42.9011,
+        "lng": 140.7456,
+        "region": "北海道",
+        "municipality": "俱知安町",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "ラッキー俱知安店",
+        "lat": 42.9033,
+        "lng": 140.75,
+        "region": "北海道",
+        "municipality": "俱知安町",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "ニセコ道の駅ビュープラザ",
+        "lat": 42.825,
+        "lng": 140.6867,
+        "region": "北海道",
+        "municipality": "ニセコ町",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "余市中央公民館前",
+        "lat": 43.1817,
+        "lng": 140.7917,
+        "region": "北海道",
+        "municipality": "余市町",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "長崎屋小樽店前",
+        "lat": 43.1972,
+        "lng": 140.9939,
+        "region": "北海道",
+        "municipality": "小樽市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "手稲駅あいくる",
+        "lat": 43.128,
+        "lng": 141.248,
+        "region": "北海道",
+        "municipality": "札幌市手稲区",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "手稲駅北口",
+        "lat": 43.128,
+        "lng": 141.248,
+        "region": "北海道",
+        "municipality": "札幌市手稲区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937216"
+  }
+]

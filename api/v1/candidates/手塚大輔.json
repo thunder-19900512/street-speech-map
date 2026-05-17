@@ -1,0 +1,338 @@
+[
+  {
+    "date": "2026-02-02",
+    "candidate": "手塚大輔",
+    "party": "日本維新の会",
+    "image_path": "photos/260202_長野県_手塚大輔.jpg",
+    "schedule": [
+      {
+        "time": "15:00",
+        "location": "松本駅前",
+        "lat": 36.2307,
+        "lng": 137.9644,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "月",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "id": "520667228"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "手塚大輔",
+    "party": "日本維新の会",
+    "image_path": "photos/260201_長野県_手塚大輔.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "柏矢町交差点",
+        "lat": 36.315,
+        "lng": 137.905,
+        "region": "長野県",
+        "municipality": "安曇野市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "下堀西交差点",
+        "lat": 36.285,
+        "lng": 137.885,
+        "region": "長野県",
+        "municipality": "安曇野市",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "高宮交差点",
+        "lat": 36.215,
+        "lng": 137.955,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "松本駅",
+        "lat": 36.2307,
+        "lng": 137.9644,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "並柳交差点",
+        "lat": 36.213,
+        "lng": 137.978,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "id": "520667227"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "手塚大輔",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260131_長野県_手塚大輔.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "並柳交差点",
+        "region": "長野県",
+        "municipality": "松本市",
+        "lat": 36.213,
+        "lng": 137.98,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "イオンモール前",
+        "region": "長野県",
+        "municipality": "松本市",
+        "lat": 36.235,
+        "lng": 137.975,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "柏矢町交差点",
+        "region": "長野県",
+        "municipality": "安曇野市",
+        "lat": 36.319,
+        "lng": 137.904,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "白板交差点",
+        "region": "長野県",
+        "municipality": "松本市",
+        "lat": 36.239,
+        "lng": 137.961,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "高宮交差点",
+        "region": "長野県",
+        "municipality": "松本市",
+        "lat": 36.215,
+        "lng": 137.962,
+        "status": 0
+      }
+    ],
+    "id": "520667169"
+  },
+  {
+    "id": "17443",
+    "image_path": "photos/260130_長野県_手塚大輔.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "手塚大輔",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "日本維新の会",
+    "schedule": [
+      {
+        "time": "07:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "白板交差点",
+        "lat": 36.239,
+        "lng": 137.961,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "下堀西交差点",
+        "lat": 36.248,
+        "lng": 137.94,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "柏矢町交差点",
+        "lat": 36.319,
+        "lng": 137.904,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "桜橋東交差点",
+        "lat": 36.241,
+        "lng": 137.975,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "並柳",
+        "lat": 36.213,
+        "lng": 137.98,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "S__64880652",
+    "image_path": "photos/260129_長野県_手塚大輔.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "手塚大輔",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "日本維新の会",
+    "schedule": [
+      {
+        "time": "07:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "高宮交差点",
+        "lat": 36.215,
+        "lng": 137.962,
+        "status": 2
+      },
+      {
+        "time": "10:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "松本駅",
+        "lat": 36.2312,
+        "lng": 137.9652,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "エルサ安曇野",
+        "lat": 36.2916,
+        "lng": 137.9221,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "並柳交差点",
+        "lat": 36.213,
+        "lng": 137.98,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "高宮交差点",
+        "lat": 36.215,
+        "lng": 137.962,
+        "status": 2
+      }
+    ]
+  },
+  {
+    "id": "S__64880651",
+    "image_path": "photos/260128_長野県_手塚大輔.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "手塚大輔",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "日本維新の会",
+    "schedule": [
+      {
+        "time": "07:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "桜橋東交差点",
+        "lat": 36.2413,
+        "lng": 137.9752,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "新村交差点",
+        "lat": 36.2255,
+        "lng": 137.8996,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "平瀬口交差点",
+        "lat": 36.2745,
+        "lng": 137.9461,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "高宮交差点",
+        "lat": 36.215,
+        "lng": 137.962,
+        "status": 2
+      }
+    ]
+  },
+  {
+    "id": "S__64880650",
+    "image_path": "photos/260127_長野県_手塚大輔.jpg",
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "手塚大輔",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "日本維新の会",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "渚交差点",
+        "lat": 36.2316,
+        "lng": 137.9576,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "安曇野市インターパーク",
+        "lat": 36.295,
+        "lng": 137.922,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "松本駅",
+        "lat": 36.2312,
+        "lng": 137.9652,
+        "status": 0
+      }
+    ]
+  }
+]

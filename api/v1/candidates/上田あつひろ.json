@@ -1,0 +1,356 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "上田あつひろ",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "party": "参政党",
+    "image_path": "photos/260202_千葉県_上田あつひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "蘇我駅 西口",
+        "lat": 35.5815,
+        "lng": 140.131,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "西千葉駅",
+        "lat": 35.622,
+        "lng": 140.103,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667350"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "上田あつひろ",
+    "party": "参政党",
+    "image_path": "photos/260201_千葉県_上田あつひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "京成千葉駅",
+        "lat": 35.612,
+        "lng": 140.114,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "千葉駅スクランブル交差点",
+        "lat": 35.613,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "千葉中央駅",
+        "lat": 35.607,
+        "lng": 140.115,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "location": "蘇我駅",
+        "lat": 35.582,
+        "lng": 140.131,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "稲毛駅東口",
+        "lat": 35.637,
+        "lng": 140.092,
+        "region": "千葉県",
+        "municipality": "千葉市稲毛区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "千葉市民会館小ホール",
+        "lat": 35.614,
+        "lng": 140.125,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 2
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667306"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "上田あつひろ",
+    "party": "参政党",
+    "image_path": "photos/260131_千葉県_上田あつひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "稲毛駅",
+        "lat": 35.637,
+        "lng": 140.092,
+        "region": "千葉県",
+        "municipality": "千葉市稲毛区",
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "稲毛海岸駅",
+        "lat": 35.628,
+        "lng": 140.073,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "稲毛海岸 マリンピアスクランブル交差点",
+        "lat": 35.628,
+        "lng": 140.072,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "蘇我駅 東口・西口",
+        "lat": 35.582,
+        "lng": 140.131,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "千葉中央駅",
+        "lat": 35.607,
+        "lng": 140.115,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "16:15",
+        "location": "千葉駅スクランブル交差点",
+        "lat": 35.613,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "稲毛駅",
+        "lat": 35.637,
+        "lng": 140.092,
+        "region": "千葉県",
+        "municipality": "千葉市稲毛区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "土",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667307"
+  },
+  {
+    "date": "2026-01-30",
+    "candidate": "上田あつひろ",
+    "party": "参政党",
+    "image_path": "photos/260130_千葉県_上田あつひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "京成千葉駅",
+        "lat": 35.612,
+        "lng": 140.114,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "千葉駅東口 ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "蘇我駅",
+        "lat": 35.582,
+        "lng": 140.131,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "金",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667319"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "上田あつひろ",
+    "party": "参政党",
+    "image_path": "photos/260129_千葉県_上田あつひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "稲毛海岸駅",
+        "lat": 35.628,
+        "lng": 140.073,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "海浜幕張駅",
+        "lat": 35.648,
+        "lng": 140.041,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "検見川浜駅",
+        "lat": 35.638,
+        "lng": 140.06,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "木",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667320"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "上田あつひろ",
+    "party": "参政党",
+    "image_path": "photos/260128_千葉県_上田あつひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "稲毛駅東口",
+        "lat": 35.637,
+        "lng": 140.092,
+        "region": "千葉県",
+        "municipality": "千葉市稲毛区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "京成千葉駅 そごう前横断歩道",
+        "lat": 35.612,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "稲毛海岸駅",
+        "lat": 35.628,
+        "lng": 140.073,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "水",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667321"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "上田あつひろ",
+    "party": "参政党",
+    "image_path": "photos/260127_千葉県_上田あつひろ.jpg",
+    "schedule": [
+      {
+        "time": "11:45",
+        "location": "京成千葉駅 そごう前横断歩道",
+        "lat": 35.612,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "稲毛駅東口",
+        "lat": 35.637,
+        "lng": 140.092,
+        "region": "千葉県",
+        "municipality": "千葉市稲毛区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "火",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667322"
+  }
+]

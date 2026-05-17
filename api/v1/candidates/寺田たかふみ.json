@@ -1,0 +1,158 @@
+[
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "寺田たかふみ",
+    "prefecture": "栃木県",
+    "constituency": "栃木5区",
+    "party": "国民民主党",
+    "image_path": "photos/260201_栃木県_寺田たかふみ.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "平柳町交差点",
+        "lat": 36.387,
+        "lng": 139.742,
+        "status": 0
+      }
+    ],
+    "id": "520667198"
+  },
+  {
+    "id": "17450",
+    "image_path": "photos/260131_栃木県_寺田たかふみ_1.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "寺田たかふみ",
+    "constituency": "栃木5区",
+    "prefecture": "栃木県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "08:30",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "上渋垂町交差点",
+        "lat": 36.315,
+        "lng": 139.465,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "スーパービバホーム堀込店",
+        "lat": 36.311,
+        "lng": 139.465,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "文真堂書店葉鹿店",
+        "lat": 36.353,
+        "lng": 139.385,
+        "status": 0
+      },
+      {
+        "time": "14:40",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "東武足利市駅",
+        "lat": 36.332,
+        "lng": 139.452,
+        "status": 0
+      },
+      {
+        "time": "15:10",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "ヨークベニマル足利店",
+        "lat": 36.325,
+        "lng": 139.455,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "アピタ足利店",
+        "lat": 36.335,
+        "lng": 139.458,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "JR足利駅西口",
+        "lat": 36.336,
+        "lng": 139.455,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "足利市総合運動場",
+        "lat": 36.352,
+        "lng": 139.465,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "赤松台公園",
+        "lat": 36.365,
+        "lng": 139.485,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "アシコタウンあしかが",
+        "lat": 36.362,
+        "lng": 139.465,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "毛野第一団地",
+        "lat": 36.355,
+        "lng": 139.495,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "region": "足利市",
+        "municipality": "足利市",
+        "location": "あしかがフラワーパーク",
+        "lat": 36.314,
+        "lng": 139.521,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "寺田たかふみ",
+    "prefecture": "栃木県",
+    "constituency": "栃木県",
+    "party": "不明",
+    "image_path": "photos/260131_栃木県_寺田たかふみ_2.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "25034550792891"
+  }
+]

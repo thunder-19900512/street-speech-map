@@ -1,0 +1,41 @@
+[
+  {
+    "id": "17460",
+    "image_path": "photos/260131_福岡県_奥田ふみよ.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "奥田ふみよ",
+    "constituency": "福岡9区",
+    "prefecture": "福岡県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "09:30",
+        "region": "北九州市",
+        "municipality": "戸畑区",
+        "location": "戸畑駅ロータリー",
+        "lat": 33.905,
+        "lng": 130.825,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "region": "北九州市",
+        "municipality": "八幡東区",
+        "location": "八幡イオン前",
+        "lat": 33.868,
+        "lng": 130.795,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "黒崎駅付近",
+        "lat": 33.865,
+        "lng": 130.765,
+        "status": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "17458",
+    "image_path": "photos/260131_福岡県_おかべよしたか.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "おかべよしたか",
+    "constituency": "福岡5区",
+    "prefecture": "福岡県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "07:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "筑紫野インターチェンジ",
+        "lat": 33.475,
+        "lng": 130.525,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "シュロアモール筑紫野",
+        "lat": 33.468,
+        "lng": 130.542,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "ゆめタウン筑紫野",
+        "lat": 33.481,
+        "lng": 130.548,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "イオンモール筑紫野",
+        "lat": 33.475,
+        "lng": 130.542,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "太宰府市",
+        "municipality": "太宰府市",
+        "location": "ルミエール太宰府",
+        "lat": 33.498,
+        "lng": 130.528,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "大野城市",
+        "municipality": "大野城市",
+        "location": "ハンズマン大野城",
+        "lat": 33.528,
+        "lng": 130.475,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "ルミエール春日店",
+        "lat": 33.525,
+        "lng": 130.435,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "白水大池公園西交差点",
+        "lat": 33.518,
+        "lng": 130.455,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "ロピア春日ナフコ店",
+        "lat": 33.515,
+        "lng": 130.445,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "アクロスモール春日",
+        "lat": 33.522,
+        "lng": 130.438,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17440",
+    "image_path": "photos/260130_福岡県_おかべよしたか.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "おかべよしたか",
+    "constituency": "福岡5区",
+    "prefecture": "福岡県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "07:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "西鉄春日原駅",
+        "lat": 33.536,
+        "lng": 130.473,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "白水大池公園西交差点",
+        "lat": 33.518,
+        "lng": 130.455,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "ルミエール春日店",
+        "lat": 33.525,
+        "lng": 130.435,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "ロピア春日ナフコ店",
+        "lat": 33.515,
+        "lng": 130.445,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "アクロスモール春日",
+        "lat": 33.522,
+        "lng": 130.438,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "大土居交差点",
+        "lat": 33.515,
+        "lng": 130.465,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "光町交差点",
+        "lat": 33.532,
+        "lng": 130.475,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "春日航空自衛隊前",
+        "lat": 33.535,
+        "lng": 130.485,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "region": "春日市",
+        "municipality": "春日市",
+        "location": "JR春日駅",
+        "lat": 33.53,
+        "lng": 130.468,
+        "status": 0
+      }
+    ]
+  }
+]

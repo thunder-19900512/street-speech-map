@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2026-01-28",
+    "candidate": "中川宏昌",
+    "party": "中道改革連合",
+    "image_path": "photos/260128_長野県_中川宏昌.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "飯田駅広場アイパーク",
+        "lat": 35.52,
+        "lng": 137.822,
+        "region": "長野県",
+        "municipality": "飯田市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "伊那市セントラルパーク",
+        "lat": 35.839,
+        "lng": 137.957,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      },
+      {
+        "time": "13:25",
+        "location": "岡谷市蚕糸公園前",
+        "lat": 36.059,
+        "lng": 138.043,
+        "region": "長野県",
+        "municipality": "岡谷市",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "長和町 道の駅マルメロの駅ながと",
+        "lat": 36.23,
+        "lng": 138.258,
+        "region": "長野県",
+        "municipality": "長和町",
+        "status": 0
+      }
+    ],
+    "day_of_week": "水",
+    "prefecture": "長野県",
+    "constituency": "比例北陸信越ブロック",
+    "id": "520667335"
+  },
+  {
+    "id": "S__64774150",
+    "image_path": "photos/260128_長野県_中川宏昌.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "中川宏昌",
+    "constituency": "比例北陸信越ブロック",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "09:30",
+        "region": "飯田市",
+        "municipality": "飯田市",
+        "location": "飯田駅広場アイパーク",
+        "lat": 35.5192,
+        "lng": 137.8214,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "伊那市",
+        "municipality": "伊那市",
+        "location": "伊那市セントラルパーク",
+        "lat": 35.840459939467046,
+        "lng": 137.96002686023715,
+        "status": 2
+      },
+      {
+        "time": "13:25",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "岡谷市蚕糸公園前",
+        "lat": 36.06593090600342,
+        "lng": 138.0507516254581,
+        "status": 2
+      },
+      {
+        "time": "15:30",
+        "region": "長和町",
+        "municipality": "長和町",
+        "location": "道の駅マルメロの駅ながと",
+        "lat": 36.2736,
+        "lng": 138.2581,
+        "status": 0
+      }
+    ],
+    "early_voting": "",
+    "election_day": ""
+  }
+]

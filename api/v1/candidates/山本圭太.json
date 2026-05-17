@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "山本圭太",
+    "prefecture": "富山県",
+    "constituency": "富山県",
+    "party": "国民民主党",
+    "image_path": "photos/260131_富山県_山本圭太.jpg",
+    "schedule": [
+      {
+        "time": "11:00",
+        "location": "コストコ射水倉庫店",
+        "lat": 36.721,
+        "lng": 137.078,
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "location": "アル・プラザ小杉",
+        "lat": 36.726,
+        "lng": 137.068,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "グリーンモール中曽根",
+        "lat": 36.735,
+        "lng": 137.055,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "アイタウン射水",
+        "lat": 36.712,
+        "lng": 137.075,
+        "status": 0
+      }
+    ],
+    "id": "520667197"
+  },
+  {
+    "id": "17437",
+    "image_path": "photos/260130_富山県_山本圭太.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "山本圭太",
+    "constituency": "富山県",
+    "prefecture": "富山県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "高岡市",
+        "municipality": "高岡市",
+        "location": "イオン高岡江尻",
+        "lat": 36.756,
+        "lng": 137.025,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "高岡市",
+        "municipality": "高岡市",
+        "location": "大阪屋ショップ上北島",
+        "lat": 36.755,
+        "lng": 136.995,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "高岡市",
+        "municipality": "高岡市",
+        "location": "ラ・ムー高岡",
+        "lat": 36.735,
+        "lng": 137.015,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "高岡市",
+        "municipality": "高岡市",
+        "location": "イオンモール高岡",
+        "lat": 36.726,
+        "lng": 137.012,
+        "status": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "date": "2026-02-03",
+    "candidate": "宮下一郎",
+    "party": "自由民主党",
+    "image_path": "photos/260203_長野県_宮下一郎.jpg",
+    "schedule": [
+      {
+        "time": "17:30",
+        "location": "駒ヶ根商工会館 (決起集会)",
+        "lat": 35.736,
+        "lng": 137.937,
+        "region": "長野県",
+        "municipality": "駒ヶ根市",
+        "status": 2
+      },
+      {
+        "time": "18:30",
+        "location": "飯島公民館 (決起大会)",
+        "lat": 35.679,
+        "lng": 137.925,
+        "region": "長野県",
+        "municipality": "飯島町",
+        "status": 2
+      }
+    ],
+    "day_of_week": "火",
+    "prefecture": "長野県",
+    "constituency": "長野5区",
+    "id": "520667327"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "宮下一郎",
+    "party": "自由民主党",
+    "image_path": "photos/260201_長野県_宮下一郎.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "伊那市高遠町 遊説",
+        "lat": 35.836,
+        "lng": 138.058,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "伊那市長谷 遊説",
+        "lat": 35.812,
+        "lng": 138.14,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "伊那市長谷 演説会 (南アルプス村)",
+        "lat": 35.812,
+        "lng": 138.14,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "13:00",
+        "location": "伊那市内 遊説",
+        "lat": 35.838,
+        "lng": 137.962,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      },
+      {
+        "time": "13:10",
+        "location": "日影公民館 演説会",
+        "lat": 35.856,
+        "lng": 137.971,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "13:35",
+        "location": "JA美篶手良支所 演説会",
+        "lat": 35.845,
+        "lng": 138.012,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "14:10",
+        "location": "JA富県支所 演説会",
+        "lat": 35.823,
+        "lng": 137.994,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "14:45",
+        "location": "春富ホール 演説会",
+        "lat": 35.819,
+        "lng": 137.986,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "15:30",
+        "location": "小沢公民館 演説会",
+        "lat": 35.864,
+        "lng": 137.93,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "location": "JA西箕輪支所 演説会",
+        "lat": 35.885,
+        "lng": 137.915,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "18:00",
+        "location": "箕輪町支部決起集会 (みのわパレス)",
+        "lat": 35.914,
+        "lng": 137.983,
+        "region": "長野県",
+        "municipality": "箕輪町",
+        "status": 2
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "長野県",
+    "constituency": "長野5区",
+    "id": "520667328"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "宮下一郎",
+    "party": "自由民主党",
+    "image_path": "photos/260131_長野県_宮下一郎_3.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "大鹿村 演説会 (大鹿村交流センター)",
+        "lat": 35.549,
+        "lng": 138.037,
+        "region": "長野県",
+        "municipality": "大鹿村",
+        "status": 2
+      },
+      {
+        "time": "10:00",
+        "location": "豊丘村総決起大会 (営農支援センターだいち)",
+        "lat": 35.536,
+        "lng": 137.886,
+        "region": "長野県",
+        "municipality": "豊丘村",
+        "status": 2
+      },
+      {
+        "time": "11:05",
+        "location": "喬木村 演説会 (みんなの広場)",
+        "lat": 35.518,
+        "lng": 137.882,
+        "region": "長野県",
+        "municipality": "喬木村",
+        "status": 2
+      },
+      {
+        "time": "14:00",
+        "location": "飯伊総決起大会 (飯田市エスバード)",
+        "lat": 35.529,
+        "lng": 137.857,
+        "region": "長野県",
+        "municipality": "飯田市",
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "location": "上伊那総決起集会 (伊那商工会館)",
+        "lat": 35.842,
+        "lng": 137.961,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "土",
+    "prefecture": "長野県",
+    "constituency": "長野5区",
+    "id": "520667329"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "宮下一郎",
+    "party": "自由民主党",
+    "image_path": "photos/260128_長野県_宮下一郎.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "辰野町 お手振り (羽場交差点)",
+        "lat": 35.957,
+        "lng": 137.99,
+        "region": "長野県",
+        "municipality": "辰野町",
+        "status": 0
+      },
+      {
+        "time": "08:00",
+        "location": "辰野町 遊説",
+        "lat": 35.984,
+        "lng": 137.997,
+        "region": "長野県",
+        "municipality": "辰野町",
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "辰野決起集会 (パレスたつの)",
+        "lat": 35.987,
+        "lng": 137.995,
+        "region": "長野県",
+        "municipality": "辰野町",
+        "status": 2
+      },
+      {
+        "time": "10:00",
+        "location": "箕輪町 遊説",
+        "lat": 35.914,
+        "lng": 137.983,
+        "region": "長野県",
+        "municipality": "箕輪町",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "南箕輪村 遊説",
+        "lat": 35.864,
+        "lng": 137.94,
+        "region": "長野県",
+        "municipality": "南箕輪村",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "伊那市 遊説",
+        "lat": 35.838,
+        "lng": 137.962,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "伊那市3団体合同決起大会 (伊那商工会館)",
+        "lat": 35.842,
+        "lng": 137.961,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "水",
+    "prefecture": "長野県",
+    "constituency": "長野5区",
+    "id": "520667330"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "宮下一郎",
+    "party": "自由民主党",
+    "image_path": "photos/260127_長野県_宮下一郎.jpg",
+    "schedule": [
+      {
+        "time": "08:30",
+        "location": "上伊那出陣式 (伊那商工会議所)",
+        "lat": 35.842,
+        "lng": 137.961,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 2
+      },
+      {
+        "time": "09:15",
+        "location": "伊那市・宮田村・駒ヶ根市 遊説",
+        "lat": 35.838,
+        "lng": 137.962,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "駒ヶ根出陣式 (駒ヶ根事務所)",
+        "lat": 35.736,
+        "lng": 137.937,
+        "region": "長野県",
+        "municipality": "駒ヶ根市",
+        "status": 2
+      },
+      {
+        "time": "13:00",
+        "location": "飯島町・中川村 遊説",
+        "lat": 35.679,
+        "lng": 137.925,
+        "region": "長野県",
+        "municipality": "飯島町",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "松川町・高森町・飯田市 遊説",
+        "lat": 35.597,
+        "lng": 137.892,
+        "region": "長野県",
+        "municipality": "松川町",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "飯伊出陣式 (シルクホテル)",
+        "lat": 35.518,
+        "lng": 137.828,
+        "region": "長野県",
+        "municipality": "飯田市",
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "location": "伊那商工会館 (上伊那総決起集会)",
+        "lat": 35.845,
+        "lng": 137.959,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "火",
+    "prefecture": "長野県",
+    "constituency": "長野5区",
+    "id": "520667331"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "宮下一郎",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "party": "不明",
+    "image_path": "photos/260131_長野県_宮下一郎_2.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "25106134024861"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "宮下一郎",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "image_path": "photos/260131_長野県_宮下一郎_meeting.jpg",
+    "schedule": [
+      {
+        "time": "16:00",
+        "location": "伊那商工会館",
+        "lat": 35.839,
+        "lng": 137.962,
+        "status": 0,
+        "region": "長野県"
+      }
+    ],
+    "day_of_week": "土",
+    "id": "25106134024861",
+    "constituency": "長野県"
+  }
+]

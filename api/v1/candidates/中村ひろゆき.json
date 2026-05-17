@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-02-07",
+    "candidate": "中村ひろゆき",
+    "prefecture": "北海道",
+    "constituency": "北海道4区",
+    "party": "自由民主党",
+    "image_path": "photos/260207_北海道_中村ひろゆき.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "石狩市 村上労働行政事務所前",
+        "lat": 43.1617,
+        "lng": 141.3033,
+        "region": "北海道",
+        "municipality": "石狩市",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "西区 発寒支部事務所前",
+        "lat": 43.085,
+        "lng": 141.275,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "西区 八軒支部事務所前",
+        "lat": 43.0883,
+        "lng": 141.3067,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "小樽長崎屋前",
+        "lat": 43.1972,
+        "lng": 140.9939,
+        "region": "北海道",
+        "municipality": "小樽市",
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "location": "手稲区 手稲事務所前",
+        "lat": 43.1317,
+        "lng": 141.24,
+        "region": "北海道",
+        "municipality": "札幌市手稲区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937247"
+  }
+]

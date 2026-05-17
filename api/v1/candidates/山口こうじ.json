@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "山口こうじ",
+    "prefecture": "長野県",
+    "constituency": "長野県第3区",
+    "party": "れいわ新選組",
+    "image_path": "photos/260131_長野県_山口こうじ.jpg",
+    "schedule": [
+      {
+        "time": "15:30",
+        "location": "ユニクロ上田店 周辺",
+        "region": "長野県",
+        "municipality": "上田市",
+        "lat": 36.391,
+        "lng": 138.255,
+        "status": 0
+      }
+    ],
+    "id": "520667172"
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "山口こうじ",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "れいわ新選組",
+    "image_path": "photos/260131_長野県_山口こうじ.jpg",
+    "schedule": [
+      {
+        "time": "15:30",
+        "location": "ユニクロ上田店 周辺",
+        "lat": 36.382,
+        "lng": 138.282,
+        "status": 0
+      }
+    ],
+    "id": "520667207"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "山口こうじ",
+    "prefecture": "長野県",
+    "constituency": "長野県第3区",
+    "party": "れいわ新選組",
+    "image_path": "photos/260131_長野県_山口こうじ.jpg",
+    "schedule": [
+      {
+        "time": "15:30",
+        "location": "アリオ上田 周辺",
+        "region": "長野県",
+        "municipality": "上田市",
+        "lat": 36.398,
+        "lng": 138.245,
+        "status": 0
+      }
+    ],
+    "id": "520667153"
+  },
+  {
+    "id": "17427",
+    "image_path": "photos/260129_長野県_山口こうじ.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "山口こうじ",
+    "constituency": "長野県",
+    "prefecture": "長野県",
+    "party": "れいわ新選組",
+    "schedule": [
+      {
+        "time": "11:00",
+        "region": "上田市",
+        "municipality": "上田市",
+        "location": "アリオ上田横",
+        "lat": 36.397,
+        "lng": 138.243,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17334",
+    "image_path": "photos/260128_長野県_山口こうじ.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "山口こうじ",
+    "constituency": "長野県",
+    "prefecture": "長野県",
+    "party": "れいわ新選組",
+    "schedule": [
+      {
+        "time": "12:00",
+        "region": "上田市別所温泉",
+        "municipality": "上田市",
+        "location": "あいそめの湯",
+        "lat": 36.35362584490823,
+        "lng": 138.16287774544708,
+        "status": 2
+      }
+    ],
+    "early_voting": "",
+    "election_day": ""
+  }
+]

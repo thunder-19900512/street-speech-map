@@ -1,0 +1,23 @@
+[
+  {
+    "id": "17431",
+    "image_path": "photos/260129_長野県_わかさ清史.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "わかさ清史",
+    "constituency": "長野1区",
+    "prefecture": "長野県",
+    "party": "日本維新の会",
+    "schedule": [
+      {
+        "time": "18:00",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "長野駅前",
+        "lat": 36.643033,
+        "lng": 138.188643,
+        "status": 0
+      }
+    ]
+  }
+]

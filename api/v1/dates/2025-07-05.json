@@ -1,0 +1,73 @@
+[
+  {
+    "date": "2025-07-05",
+    "day_of_week": "土",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250705_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "33105239276266"
+  },
+  {
+    "id": "1779016772508",
+    "date": "2025-07-05",
+    "day_of_week": "土",
+    "candidate": "なかいずみ松司",
+    "prefecture": "秋田県",
+    "constituency": "秋田選挙区",
+    "party": "自民党",
+    "image_path": "photos/250705_秋田県_なかいずみ松司.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "比内町扇田 いとく比内店",
+        "lat": 40.2278448,
+        "lng": 140.5822722,
+        "status": 0
+      },
+      {
+        "time": "09:25",
+        "location": "比内町独鈷 中田商店前",
+        "lat": 40.2716953,
+        "lng": 140.5652404,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "比内町大葛 旧保育所前",
+        "lat": 40.1305451,
+        "lng": 140.6679489,
+        "status": 0
+      },
+      {
+        "time": "13:35",
+        "location": "藤里役場前",
+        "lat": 40.2783796,
+        "lng": 140.2617194,
+        "status": 0
+      },
+      {
+        "time": "14:45",
+        "location": "二ツ井町荷上場 伊藤謙商店向い",
+        "lat": 40.2118417,
+        "lng": 140.0271517,
+        "status": 0
+      },
+      {
+        "time": "16:05",
+        "location": "柳町 プラザ都前",
+        "lat": 40.209739,
+        "lng": 140.026084,
+        "status": 0
+      }
+    ]
+  }
+]

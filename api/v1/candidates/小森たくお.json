@@ -1,0 +1,181 @@
+[
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "小森たくお",
+    "prefecture": "石川県",
+    "constituency": "石川1区",
+    "party": "自民党",
+    "image_path": "photos/260131_石川県_小森たくお.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "四十万校下",
+        "lat": 36.505,
+        "lng": 136.618,
+        "status": 0
+      },
+      {
+        "time": "11:50",
+        "location": "三馬・米泉校下",
+        "lat": 36.546,
+        "lng": 136.632,
+        "status": 0
+      },
+      {
+        "time": "14:10",
+        "location": "泉校下 (野町・弥生)",
+        "lat": 36.551,
+        "lng": 136.645,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "JA崎浦支店",
+        "lat": 36.548,
+        "lng": 136.672,
+        "status": 0
+      }
+    ],
+    "id": "520667203"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "小森たくお",
+    "prefecture": "石川県",
+    "constituency": "石川1区",
+    "party": "自民党",
+    "image_path": "photos/260130_石川県_小森たくお.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "二俣駐在所 (街頭演説)",
+        "lat": 36.602,
+        "lng": 136.741,
+        "status": 0
+      },
+      {
+        "time": "08:20",
+        "location": "田島町",
+        "lat": 36.598,
+        "lng": 136.725,
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "森本地区各所",
+        "lat": 36.606,
+        "lng": 136.691,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "森本駅 (街頭演説)",
+        "lat": 36.606,
+        "lng": 136.691,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "金沢駅東口 (街頭演説)",
+        "lat": 36.578,
+        "lng": 136.649,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "金沢港クルーズターミナル",
+        "lat": 36.601,
+        "lng": 136.611,
+        "status": 0
+      }
+    ],
+    "id": "520667201"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "小森たくお",
+    "prefecture": "石川県",
+    "constituency": "石川1区",
+    "party": "自民党",
+    "image_path": "photos/260129_石川県_小森たくお.jpg",
+    "schedule": [
+      {
+        "time": "07:45",
+        "location": "内川校下",
+        "lat": 36.488,
+        "lng": 136.642,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "小立野校下 (たまり)",
+        "lat": 36.556,
+        "lng": 136.675,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "三馬公民館",
+        "lat": 36.541,
+        "lng": 136.632,
+        "status": 0
+      }
+    ],
+    "id": "520667213"
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "小森たくお",
+    "prefecture": "石川県",
+    "constituency": "石川1区",
+    "party": "自民党",
+    "image_path": "photos/260128_石川県_小森たくお.jpg",
+    "schedule": [
+      {
+        "time": "18:30",
+        "location": "ホテル日航金沢",
+        "lat": 36.579,
+        "lng": 136.649,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "JA金沢市 弓取支店",
+        "lat": 36.592,
+        "lng": 136.634,
+        "status": 0
+      }
+    ],
+    "id": "520667199"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "小森たくお",
+    "prefecture": "石川県",
+    "constituency": "石川1区",
+    "party": "自民党",
+    "image_path": "photos/260127_石川県_小森たくお.jpg",
+    "schedule": [
+      {
+        "time": "13:00",
+        "location": "問屋町周辺遊説",
+        "lat": 36.602,
+        "lng": 136.666,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "城西地区遊説",
+        "lat": 36.572,
+        "lng": 136.632,
+        "status": 0
+      }
+    ],
+    "id": "520667200"
+  }
+]

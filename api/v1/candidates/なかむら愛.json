@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "なかむら愛",
+    "prefecture": "千葉県",
+    "constituency": "千葉14区",
+    "party": "参政党",
+    "image_path": "photos/260202_千葉県_なかむら愛.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "新津田沼駅",
+        "lat": 35.691,
+        "lng": 140.024,
+        "region": "千葉県",
+        "municipality": "習志野市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "習志野駐屯地",
+        "lat": 35.708,
+        "lng": 140.051,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "高根公団",
+        "lat": 35.731,
+        "lng": 140.031,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "北習志野駅",
+        "lat": 35.716,
+        "lng": 140.041,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "谷津駅",
+        "lat": 35.684,
+        "lng": 140.007,
+        "region": "千葉県",
+        "municipality": "習志野市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "新津田沼駅",
+        "lat": 35.691,
+        "lng": 140.024,
+        "region": "千葉県",
+        "municipality": "習志野市",
+        "status": 0
+      }
+    ],
+    "id": "520667352"
+  }
+]

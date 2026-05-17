@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "喜多こうすけ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260205_山形県_喜多こうすけ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "20574704445038"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "喜多こうすけ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260206_山形県_喜多こうすけ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "27010285004803"
+  },
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "喜多こうすけ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260207_山形県_喜多こうすけ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "16425625264565"
+  }
+]

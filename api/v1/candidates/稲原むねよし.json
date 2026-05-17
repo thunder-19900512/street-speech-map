@@ -1,0 +1,507 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "比例北海道",
+    "party": "チームみらい",
+    "image_path": "photos/260207_北海道_稲原むねよし.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "紀伊國屋書店札幌本店前",
+        "lat": 43.0673,
+        "lng": 141.3482,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "赤れんがテラス前",
+        "lat": 43.064,
+        "lng": 141.3509,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "すすきの交差点",
+        "lat": 43.055,
+        "lng": 141.3528,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "札幌三越・パルコ前交差点",
+        "lat": 43.0594,
+        "lng": 141.353,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "大通り公園付近",
+        "lat": 43.06,
+        "lng": 141.3527,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "JR札幌駅南口",
+        "lat": 43.068,
+        "lng": 141.3505,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667394"
+  },
+  {
+    "date": "2026-02-06",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "比例北海道",
+    "party": "中道改革連合",
+    "image_path": "photos/260206_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "西11丁目駅",
+        "lat": 43.0594,
+        "lng": 141.3417,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "西18丁目駅",
+        "lat": 43.0578,
+        "lng": 141.3317,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "大同生命札幌ビルmiredo前",
+        "lat": 43.0642,
+        "lng": 141.3508,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "札幌三越・パルコ前交差点",
+        "lat": 43.0594,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "大通り公園付近",
+        "lat": 43.0601,
+        "lng": 141.3527,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "すすきの交差点",
+        "lat": 43.0558,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937627"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "比例北海道",
+    "party": "チームみらい",
+    "image_path": "photos/260204_北海道_稲原むねよし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "JR岩見沢駅前",
+        "lat": 43.203,
+        "lng": 141.76,
+        "region": "北海道",
+        "municipality": "岩見沢市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "苫小牧市役所前",
+        "lat": 42.635,
+        "lng": 141.605,
+        "region": "北海道",
+        "municipality": "苫小牧市",
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "location": "イオンモール苫小牧",
+        "lat": 42.664,
+        "lng": 141.657,
+        "region": "北海道",
+        "municipality": "苫小牧市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "地下鉄東西線白石駅(7番出口付近)",
+        "lat": 43.048,
+        "lng": 141.413,
+        "region": "北海道",
+        "municipality": "札幌市白石区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "札幌三越・パルコ前交差点",
+        "lat": 43.059,
+        "lng": 141.353,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "すすきの交差点(COCONO SUSUKINO前)",
+        "lat": 43.055,
+        "lng": 141.353,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667371"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "比例北海道",
+    "party": "チームみらい",
+    "image_path": "photos/260203_北海道_稲原むねよし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "JR手稲駅(北口)",
+        "lat": 43.129,
+        "lng": 141.244,
+        "region": "北海道",
+        "municipality": "札幌市手稲区",
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "JR小樽駅前",
+        "lat": 43.197,
+        "lng": 141,
+        "region": "北海道",
+        "municipality": "小樽市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "地下鉄東西線琴似駅前(イオン交差点)",
+        "lat": 43.078,
+        "lng": 141.307,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "地下鉄東西線西28丁目駅(3番出口付近)",
+        "lat": 43.058,
+        "lng": 141.321,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "大通り公園付近(明治安田生命札幌大通ビル前)",
+        "lat": 43.0601335906069,
+        "lng": 141.3527208566666,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "JR札幌駅南口",
+        "lat": 43.068,
+        "lng": 141.35,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667360"
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "比例北海道",
+    "party": "チームみらい",
+    "image_path": "photos/260202_北海道_稲原むねよし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "JR琴似駅前 (東口)",
+        "lat": 43.082,
+        "lng": 141.307,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "JR桑園駅前 (東口)",
+        "lat": 43.071,
+        "lng": 141.332,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "大同生命札幌ビル miredo前",
+        "lat": 43.064,
+        "lng": 141.351,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "JR札幌駅南口",
+        "lat": 43.067,
+        "lng": 141.351,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "札幌三越・パルコ前交差点",
+        "lat": 43.059,
+        "lng": 141.353,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "JR札幌駅南口",
+        "lat": 43.067,
+        "lng": 141.351,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667338"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "チームみらい",
+    "image_path": "photos/260130_北海道_稲原むねよし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "JR新札幌駅 (8番出口付近)",
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "lat": 43.0392,
+        "lng": 141.4744,
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "JR北広島駅",
+        "region": "北海道",
+        "municipality": "北広島市",
+        "lat": 42.9901,
+        "lng": 141.5501,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "イオンモール釧路昭和",
+        "region": "北海道",
+        "municipality": "釧路市",
+        "lat": 43.0267,
+        "lng": 144.36,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "コーチャンフォー釧路店",
+        "region": "北海道",
+        "municipality": "釧路市",
+        "lat": 42.9774,
+        "lng": 144.4137,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "帯広駅前 (南口)",
+        "region": "北海道",
+        "municipality": "帯広市",
+        "lat": 42.918,
+        "lng": 143.2023,
+        "status": 0
+      }
+    ],
+    "id": "520667141"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "不明",
+    "image_path": "photos/260127_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "29991210448820"
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "不明",
+    "image_path": "photos/260128_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "21430259107657"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "不明",
+    "image_path": "photos/260129_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "42424637319317"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "不明",
+    "image_path": "photos/260131_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "90256639599536"
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "不明",
+    "image_path": "photos/260201_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "20750624935412"
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "不明",
+    "image_path": "photos/260202_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "32559138295322"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "稲原むねよし",
+    "prefecture": "北海道",
+    "constituency": "北海道",
+    "party": "不明",
+    "image_path": "photos/260205_北海道_稲原むねよし.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "27769037030001"
+  }
+]

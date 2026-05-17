@@ -1,0 +1,326 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "水沼ひでゆき",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "中道改革連合",
+    "image_path": "photos/260202_千葉県_水沼ひでゆき.jpg",
+    "schedule": [
+      {
+        "time": "06:30",
+        "location": "北国分駅",
+        "lat": 35.759,
+        "lng": 139.915,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "船橋駅南口",
+        "lat": 35.701,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667351"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "水沼ひでゆき",
+    "party": "中道改革連合",
+    "image_path": "photos/260201_千葉県_水沼ひでゆき.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "西船橋駅北口",
+        "lat": 35.707,
+        "lng": 139.959,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "ふなっこ畑(行田公園)付近",
+        "lat": 35.718,
+        "lng": 139.969,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "ベルクス市川堀之内店前",
+        "lat": 35.761,
+        "lng": 139.919,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "15:45",
+        "location": "ヤオコー市川中国分店前",
+        "lat": 35.748,
+        "lng": 139.929,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "16:15",
+        "location": "ライフ市川国分店前",
+        "lat": 35.741,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "下総中山駅",
+        "lat": 35.714,
+        "lng": 139.943,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "id": "520667313"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "水沼ひでゆき",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "中道改革連合",
+    "image_path": "photos/260131_千葉県_水沼ひでゆき.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      },
+      {
+        "time": "13:10",
+        "location": "西船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7072,
+        "lng": 139.9592,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "ニッケコルトンプラザ前",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.717,
+        "lng": 139.932,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "市川駅北口",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7289,
+        "lng": 139.908,
+        "status": 0
+      }
+    ],
+    "id": "520667167"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "水沼ひでゆき",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "中道改革連合",
+    "image_path": "photos/260130_千葉県_水沼ひでゆき.jpg",
+    "schedule": [
+      {
+        "time": "06:30",
+        "location": "南船橋駅",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.681,
+        "lng": 139.996,
+        "status": 0
+      },
+      {
+        "time": "10:45",
+        "location": "ヨークマート夏見台店",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7222,
+        "lng": 139.988,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "マルエツ市川大野店",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.755,
+        "lng": 139.954,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "本八幡駅北口",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7209,
+        "lng": 139.927,
+        "status": 0
+      }
+    ],
+    "id": "520667170"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "水沼ひでゆき",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "中道改革連合",
+    "image_path": "photos/260129_千葉県_水沼ひでゆき.jpg",
+    "schedule": [
+      {
+        "time": "06:30",
+        "location": "市川大野駅",
+        "lat": 35.7551,
+        "lng": 139.9515,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "ベルクス市川宮久保店",
+        "lat": 35.7405,
+        "lng": 139.9374,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "イオン船橋店",
+        "lat": 35.712,
+        "lng": 139.9787,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "塚田駅",
+        "lat": 35.722,
+        "lng": 139.9828,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667183"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "水沼ひでゆき",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "中道改革連合",
+    "image_path": "photos/260128_千葉県_水沼ひでゆき.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "西船橋駅",
+        "lat": 35.7072,
+        "lng": 139.9592,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "馬込沢駅",
+        "lat": 35.7417,
+        "lng": 139.9922,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667181"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "水沼ひでゆき",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "中道改革連合",
+    "image_path": "photos/260127_千葉県_水沼ひでゆき.jpg",
+    "schedule": [
+      {
+        "time": "13:00",
+        "location": "船橋駅北口",
+        "lat": 35.7021960842535,
+        "lng": 139.9855345487595,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 2
+      },
+      {
+        "time": "15:50",
+        "location": "市川駅北口",
+        "lat": 35.7289,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "17:10",
+        "location": "船橋駅南出口",
+        "lat": 35.701,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "船橋駅南口",
+        "lat": 35.701,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667177"
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "くどう聖子",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "参政党",
+    "image_path": "photos/260202_千葉県_くどう聖子.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "船橋駅北口",
+        "lat": 35.702,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "東船橋駅南口",
+        "lat": 35.699,
+        "lng": 140.004,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "船橋本町1丁目交差点",
+        "lat": 35.7,
+        "lng": 139.984,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "船橋駅北口",
+        "lat": 35.702,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "塚田駅",
+        "lat": 35.721,
+        "lng": 139.976,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "19:15",
+        "location": "馬込沢駅",
+        "lat": 35.741,
+        "lng": 139.992,
+        "region": "千葉県",
+        "municipality": "鎌ケ谷市",
+        "status": 0
+      }
+    ],
+    "id": "520667355"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "くどう聖子",
+    "party": "参政党",
+    "image_path": "photos/260201_千葉県_くどう聖子.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "船橋駅北口",
+        "lat": 35.702,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "本八幡駅",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "市川駅",
+        "lat": 35.729,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "ニッケコルトンプラザ",
+        "lat": 35.716,
+        "lng": 139.932,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "本町交差点",
+        "lat": 35.698,
+        "lng": 139.986,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "南船橋駅",
+        "lat": 35.681,
+        "lng": 139.996,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "id": "520667309"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "くどう聖子",
+    "prefecture": "千葉県",
+    "constituency": "千葉県第4区",
+    "party": "参政党",
+    "image_path": "photos/260131_千葉県_くどう聖子.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "船橋駅南口",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "船橋駅北口",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "東船橋駅北口",
+        "lat": 35.7,
+        "lng": 140.005,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "ららぽーとTOKYO-BAY",
+        "lat": 35.6865,
+        "lng": 139.9897,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "新船橋駅",
+        "lat": 35.7118,
+        "lng": 139.979,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "西船橋駅",
+        "lat": 35.7072,
+        "lng": 139.9592,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667176"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "くどう聖子",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "参政党",
+    "image_path": "photos/260130_千葉県_くどう聖子.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "北国分駅",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7617,
+        "lng": 139.913,
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "道の駅いちかわ",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.761,
+        "lng": 139.927,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "矢切駅",
+        "region": "千葉県",
+        "municipality": "松戸市",
+        "lat": 35.7725,
+        "lng": 139.8997,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "国府台駅",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7358,
+        "lng": 139.903,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "市川真間駅",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7275,
+        "lng": 139.911,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "菅野駅",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7247,
+        "lng": 139.919,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "京成八幡駅",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7242,
+        "lng": 139.927,
+        "status": 0
+      }
+    ],
+    "id": "520667147"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "くどう聖子",
+    "prefecture": "千葉県",
+    "constituency": "千葉県第4区",
+    "party": "参政党",
+    "image_path": "photos/260128_千葉県_くどう聖子.jpg",
+    "schedule": [
+      {
+        "time": "14:40",
+        "location": "船橋駅",
+        "lat": 35.7011581413613,
+        "lng": 139.98543262481692,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 2
+      }
+    ],
+    "id": "520667182"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "くどう聖子",
+    "prefecture": "千葉県",
+    "constituency": "千葉県第4区",
+    "party": "参政党",
+    "image_path": "photos/260127_千葉県_くどう聖子.jpg",
+    "schedule": [
+      {
+        "time": "13:00",
+        "location": "船橋駅南口（JR船橋駅から変更）",
+        "lat": 35.7012343568899,
+        "lng": 139.98597979545596,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 1
+      }
+    ],
+    "id": "520667179"
+  }
+]

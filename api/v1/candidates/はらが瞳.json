@@ -1,0 +1,77 @@
+[
+  {
+    "id": "17461",
+    "image_path": "photos/260131_福岡県_はらが瞳.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "はらが瞳",
+    "constituency": "福岡3区",
+    "prefecture": "福岡県",
+    "party": "日本共産党",
+    "schedule": [
+      {
+        "time": "10:30",
+        "region": "福岡市",
+        "municipality": "早良区",
+        "location": "有住公民館",
+        "lat": 33.555,
+        "lng": 130.335,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "region": "福岡市",
+        "municipality": "早良区",
+        "location": "原北公民館",
+        "lat": 33.578,
+        "lng": 130.335,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "region": "福岡市",
+        "municipality": "早良区",
+        "location": "原イオン",
+        "lat": 33.575,
+        "lng": 130.342,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "福岡市",
+        "municipality": "早良区",
+        "location": "田隈公民館",
+        "lat": 33.555,
+        "lng": 130.345,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "福岡市",
+        "municipality": "早良区",
+        "location": "西新公民館",
+        "lat": 33.582,
+        "lng": 130.355,
+        "status": 0
+      },
+      {
+        "time": "18:10",
+        "region": "福岡市",
+        "municipality": "早良区",
+        "location": "マルキョウ小田部店",
+        "lat": 33.572,
+        "lng": 130.328,
+        "status": 0
+      },
+      {
+        "time": "19:10",
+        "region": "福岡市",
+        "municipality": "早良区",
+        "location": "脇山口ドンキ前",
+        "lat": 33.582,
+        "lng": 130.345,
+        "status": 0
+      }
+    ]
+  }
+]

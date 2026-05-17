@@ -1,0 +1,301 @@
+[
+  {
+    "date": "2026-02-03",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "party": "教育無償化を実現する会",
+    "image_path": "photos/260203_滋賀県_斎藤アレックス ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "JR 大津駅",
+        "lat": 35.0031,
+        "lng": 135.8649,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "11:00",
+        "location": "フレスコ向陽町店",
+        "lat": 35.0341,
+        "lng": 135.8421,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "12:00",
+        "location": "フレスコみどり店",
+        "lat": 35.0567,
+        "lng": 135.8341,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "15:00",
+        "location": "平和堂和邇店",
+        "lat": 35.1581,
+        "lng": 135.9141,
+        "status": 0,
+        "region": "滋賀県"
+      }
+    ],
+    "day_of_week": "火",
+    "id": "15749172838950",
+    "constituency": "滋賀県"
+  },
+  {
+    "date": "2026-02-07",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "party": "日本維新の会",
+    "image_path": "photos/260207_滋賀県_斎藤アレックス ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "10:20",
+        "location": "由美浜交差点",
+        "lat": 35.0041,
+        "lng": 135.8851,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "11:00",
+        "location": "Oh!me大津テラス前",
+        "lat": 35.0037,
+        "lng": 135.8811,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "12:00",
+        "location": "ブランチ大津京",
+        "lat": 35.0241,
+        "lng": 135.8611,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "14:45",
+        "location": "一里山一丁目交差点",
+        "lat": 34.9811,
+        "lng": 135.9211,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "15:35",
+        "location": "フレンドタウン瀬田",
+        "lat": 34.9667,
+        "lng": 135.9111,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "19:30",
+        "location": "マイク納め集会 (大津駅)",
+        "lat": 35.0031,
+        "lng": 135.8649,
+        "status": 0,
+        "region": "滋賀県"
+      }
+    ],
+    "day_of_week": "土",
+    "id": "25848090950383",
+    "constituency": "滋賀県"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "party": "教育無償化を実現する会",
+    "image_path": "photos/260129_滋賀県_斎藤アレックス ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "13:30",
+        "location": "エフマートもみじが丘店",
+        "lat": 34.962,
+        "lng": 135.922,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "14:10",
+        "location": "スーパーフレンド大石店",
+        "lat": 34.921,
+        "lng": 135.914,
+        "status": 0,
+        "region": "滋賀県"
+      }
+    ],
+    "day_of_week": "木",
+    "id": "42861321094584",
+    "constituency": "滋賀県"
+  },
+  {
+    "date": "2026-01-30",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "party": "教育無償化を実現する会",
+    "image_path": "photos/260130_滋賀県_斎藤アレックス ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "10:45",
+        "location": "JR 石山駅",
+        "lat": 34.979,
+        "lng": 135.901,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "15:00",
+        "location": "JR 大津京駅",
+        "lat": 35.026,
+        "lng": 135.859,
+        "status": 0,
+        "region": "滋賀県"
+      }
+    ],
+    "day_of_week": "金",
+    "id": "17846859079889",
+    "constituency": "滋賀県"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "party": "教育無償化を実現する会",
+    "image_path": "photos/260201_滋賀県_斎藤アレックス ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "10:50",
+        "location": "神領団地前",
+        "lat": 34.974,
+        "lng": 135.915,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "12:00",
+        "location": "フォレオ大津一里山",
+        "lat": 34.981,
+        "lng": 135.924,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "14:00",
+        "location": "フレンドマート青山",
+        "lat": 34.965,
+        "lng": 135.941,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "14:40",
+        "location": "エフマートもみじが丘",
+        "lat": 34.962,
+        "lng": 135.922,
+        "status": 0,
+        "region": "滋賀県"
+      }
+    ],
+    "day_of_week": "日",
+    "id": "29640025863163",
+    "constituency": "滋賀県"
+  },
+  {
+    "date": "2026-02-02",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "party": "日本維新の会",
+    "image_path": "photos/260202_滋賀県_斎藤アレックス ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "09:50",
+        "location": "フレスコ仰木の里",
+        "lat": 35.101,
+        "lng": 135.874,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "13:20",
+        "location": "平和堂坂本店",
+        "lat": 35.074,
+        "lng": 135.868,
+        "status": 0,
+        "region": "滋賀県"
+      },
+      {
+        "time": "14:15",
+        "location": "JR 瀬田駅",
+        "lat": 34.983,
+        "lng": 135.921,
+        "status": 0,
+        "region": "滋賀県"
+      }
+    ],
+    "day_of_week": "月",
+    "id": "10647282578085",
+    "constituency": "滋賀県"
+  },
+  {
+    "id": "53830329120887",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "constituency": "滋賀県",
+    "party": "日本維新の会",
+    "image_path": "photos/260128_滋賀県_斎藤アレックス.jpeg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "平和堂今津店",
+        "lat": 35.4667,
+        "lng": 136.0333,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "エーコープ近畿今津",
+        "lat": 35.467,
+        "lng": 136.034,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "平和堂安曇川店",
+        "lat": 35.3392,
+        "lng": 136.0272,
+        "status": 0
+      },
+      {
+        "time": "11:40",
+        "location": "斎藤アレックス高島事務所",
+        "lat": 35.467,
+        "lng": 136.034,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "79805410267914",
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "斎藤アレックス",
+    "prefecture": "滋賀県",
+    "constituency": "滋賀県",
+    "party": "日本維新の会",
+    "image_path": "photos/260205_滋賀県_斎藤アレックス.jpeg",
+    "schedule": [
+      {
+        "time": "12:40",
+        "location": "高島市役所前",
+        "lat": 35.3601,
+        "lng": 136.0322,
+        "status": 0
+      }
+    ]
+  }
+]

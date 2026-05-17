@@ -1,0 +1,50 @@
+[
+  {
+    "id": "17459",
+    "image_path": "photos/260131_福岡県_木下としゆき.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "木下としゆき",
+    "constituency": "福岡2区",
+    "prefecture": "福岡県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "07:00",
+        "region": "福岡市",
+        "municipality": "中央区",
+        "location": "警固交差点",
+        "lat": 33.585,
+        "lng": 130.395,
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "region": "福岡市",
+        "municipality": "中央区",
+        "location": "六本松駅前",
+        "lat": 33.578,
+        "lng": 130.378,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "福岡市",
+        "municipality": "南区",
+        "location": "清水四角",
+        "lat": 33.568,
+        "lng": 130.428,
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "region": "福岡市",
+        "municipality": "中央区",
+        "location": "天神駅交差点",
+        "lat": 33.591,
+        "lng": 130.398,
+        "status": 0
+      }
+    ]
+  }
+]

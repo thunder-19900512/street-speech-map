@@ -1,0 +1,19 @@
+[
+  {
+    "date": "2025-07-08",
+    "day_of_week": "火",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250708_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "10757806036295"
+  }
+]

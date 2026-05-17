@@ -1,0 +1,356 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "土橋あきひろ",
+    "prefecture": "東京都",
+    "constituency": "比例東京",
+    "party": "チームみらい",
+    "image_path": "photos/260207_東京都_土橋あきひろ.jpg",
+    "schedule": [
+      {
+        "time": "19:00",
+        "location": "銀座4丁目交差点",
+        "lat": 35.6712,
+        "lng": 139.765,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667393"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "土橋あきひろ",
+    "prefecture": "東京都",
+    "constituency": "比例東京",
+    "party": "チームみらい",
+    "image_path": "photos/260205_東京都_土橋あきひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "JR浅草橋駅東口",
+        "lat": 35.69744279147063,
+        "lng": 139.78617668151858,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 2
+      },
+      {
+        "time": "11:00",
+        "location": "水天宮 お宮入口付近",
+        "lat": 35.6836,
+        "lng": 139.7852,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "谷中銀座",
+        "lat": 35.7277,
+        "lng": 139.7662,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "三平ストア 浅草店",
+        "lat": 35.7129,
+        "lng": 139.7919,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      }
+    ],
+    "id": "520667381"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "土橋あきひろ",
+    "prefecture": "東京都",
+    "constituency": "比例東京",
+    "party": "チームみらい",
+    "image_path": "photos/260204_東京都_土橋あきひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "月島駅6番出口",
+        "lat": 35.663,
+        "lng": 139.784,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "9:30",
+        "location": "晴海ららテラス",
+        "lat": 35.655,
+        "lng": 139.778,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "晴海ふ頭公園",
+        "lat": 35.643,
+        "lng": 139.771,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "晴海トリトン",
+        "lat": 35.655,
+        "lng": 139.78,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "人形町駅8番出口",
+        "lat": 35.686,
+        "lng": 139.782,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "日本橋三越前",
+        "lat": 35.685,
+        "lng": 139.773,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "勝どき駅アクセア前",
+        "lat": 35.659,
+        "lng": 139.776,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667374"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "土橋あきひろ",
+    "prefecture": "東京都",
+    "constituency": "比例東京",
+    "party": "チームみらい",
+    "image_path": "photos/260203_東京都_土橋あきひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "稲荷町駅2番出口",
+        "lat": 35.711,
+        "lng": 139.782,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "勝どきTTT",
+        "lat": 35.658,
+        "lng": 139.776,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "下谷神社前",
+        "lat": 35.71,
+        "lng": 139.779,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "鳥越神社前",
+        "lat": 35.702,
+        "lng": 139.785,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "浅草橋駅東口",
+        "lat": 35.69743768858417,
+        "lng": 139.78617131710055,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 2
+      }
+    ],
+    "id": "520667361"
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "土橋あきひろ",
+    "prefecture": "東京都",
+    "constituency": "東京2区",
+    "party": "チームみらい",
+    "image_path": "photos/260201_東京都_土橋あきひろ.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "月島 フジマート前",
+        "lat": 35.66,
+        "lng": 139.779,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "本の森 ちゅうおう",
+        "lat": 35.673,
+        "lng": 139.775,
+        "region": "東京都",
+        "municipality": "中央区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "台東区全域を自転車で周回",
+        "lat": 35.712,
+        "lng": 139.78,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "河童橋道具街 練り歩き",
+        "lat": 35.713,
+        "lng": 139.789,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "上野駅 広小路口",
+        "lat": 35.712,
+        "lng": 139.776,
+        "region": "東京都",
+        "municipality": "台東区",
+        "status": 0
+      }
+    ],
+    "id": "520667346"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "土橋あきひろ",
+    "prefecture": "東京都",
+    "constituency": "東京2区",
+    "party": "チームみらい",
+    "image_path": "photos/260131_東京都_土橋あきひろ.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "勝どき駅前",
+        "region": "東京都",
+        "municipality": "中央区",
+        "lat": 35.6594,
+        "lng": 139.7777,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "勝どき交差点～東武ストア付近",
+        "region": "東京都",
+        "municipality": "中央区",
+        "lat": 35.6594,
+        "lng": 139.7777,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "上野駅公園口",
+        "region": "東京都",
+        "municipality": "台東区",
+        "lat": 35.7125,
+        "lng": 139.7745,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "銀座 練り歩き (1～8丁目)",
+        "region": "東京都",
+        "municipality": "中央区",
+        "lat": 35.671,
+        "lng": 139.765,
+        "status": 0
+      }
+    ],
+    "id": "520667155"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "土橋あきひろ",
+    "prefecture": "東京都",
+    "constituency": "東京2区",
+    "party": "チームみらい",
+    "image_path": "photos/260130_東京都_土橋あきひろ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "根津駅2番出口",
+        "region": "東京都",
+        "municipality": "文京区",
+        "lat": 35.7175,
+        "lng": 139.7657,
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "湯島駅6番出口",
+        "region": "東京都",
+        "municipality": "文京区",
+        "lat": 35.7069,
+        "lng": 139.7699,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "黒門商店街～上野広小路交差点 練り歩き",
+        "region": "東京都",
+        "municipality": "台東区",
+        "lat": 35.7077,
+        "lng": 139.7735,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "三ノ輪駅 (2番出口・3番出口信号渡ってファミマ前)",
+        "region": "東京都",
+        "municipality": "台東区",
+        "lat": 35.7297,
+        "lng": 139.7915,
+        "status": 0
+      }
+    ],
+    "id": "520667143"
+  }
+]

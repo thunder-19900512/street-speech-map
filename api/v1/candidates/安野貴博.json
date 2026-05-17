@@ -1,0 +1,232 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "安野貴博",
+    "prefecture": "東京都",
+    "constituency": "比例東京",
+    "party": "チームみらい",
+    "image_path": "photos/260207_東京都_安野貴博.jpg",
+    "schedule": [
+      {
+        "time": "19:00",
+        "location": "明治神宮外苑",
+        "lat": 35.6775,
+        "lng": 139.7183,
+        "region": "東京都",
+        "municipality": "新宿区",
+        "status": 0
+      }
+    ],
+    "id": "520667397"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "安野貴博",
+    "prefecture": "東京都",
+    "constituency": "比例東京",
+    "party": "チームみらい",
+    "image_path": "photos/260206_埼玉県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "和光市駅 南口",
+        "lat": 35.7885,
+        "lng": 139.6125,
+        "region": "埼玉県",
+        "municipality": "和光市",
+        "status": 0
+      },
+      {
+        "time": "10:15",
+        "location": "朝霞台駅 北口・北朝霞駅 東口",
+        "lat": 35.8149,
+        "lng": 139.5869,
+        "region": "埼玉県",
+        "municipality": "朝霞市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "武蔵浦和駅 東口",
+        "lat": 35.8454,
+        "lng": 139.6472,
+        "region": "埼玉県",
+        "municipality": "さいたま市南区",
+        "status": 0
+      },
+      {
+        "time": "12:45",
+        "location": "川口駅 東口",
+        "lat": 35.802,
+        "lng": 139.719,
+        "region": "埼玉県",
+        "municipality": "川口市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "新橋駅SL広場",
+        "lat": 35.6666,
+        "lng": 139.7582,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      }
+    ],
+    "id": "520667389"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "安野貴博",
+    "prefecture": "東京都",
+    "constituency": "比例東京",
+    "party": "チームみらい",
+    "image_path": "photos/260204_東京都_安野貴博_support.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "品川駅港南口",
+        "lat": 35.629,
+        "lng": 139.74,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "広尾駅2番出口",
+        "lat": 35.652,
+        "lng": 139.722,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "池袋駅東口",
+        "lat": 35.729,
+        "lng": 139.711,
+        "region": "東京都",
+        "municipality": "豊島区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "田町駅 芝浦口",
+        "lat": 35.645,
+        "lng": 139.748,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "location": "浜松町駅 北口",
+        "lat": 35.656,
+        "lng": 139.757,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      }
+    ],
+    "id": "520667376"
+  },
+  {
+    "id": "17436",
+    "image_path": "photos/260131_群馬県_安野貴博.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "安野貴博",
+    "constituency": "全国",
+    "prefecture": "群馬県",
+    "party": "チームみらい",
+    "schedule": [
+      {
+        "time": "10:30",
+        "region": "高崎市",
+        "municipality": "高崎市",
+        "location": "高崎駅東口",
+        "lat": 36.3225,
+        "lng": 139.015,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "region": "さいたま市",
+        "municipality": "さいたま市",
+        "location": "大宮駅東口",
+        "lat": 35.9063,
+        "lng": 139.63,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "region": "川越市",
+        "municipality": "川越市",
+        "location": "川越駅西口",
+        "lat": 35.907,
+        "lng": 139.482,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "所沢市",
+        "municipality": "所沢市",
+        "location": "所沢駅西口1階",
+        "lat": 35.787,
+        "lng": 139.473,
+        "status": 0
+      },
+      {
+        "time": "16:45",
+        "region": "さいたま市",
+        "municipality": "さいたま市",
+        "location": "浦和駅東口パルコ前",
+        "lat": 35.859,
+        "lng": 139.658,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "location": "渋谷駅スクランブル交差点",
+        "lat": 35.6594,
+        "lng": 139.7006,
+        "status": 0
+      },
+      {
+        "time": "19:15",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "location": "恵比寿駅西口",
+        "lat": 35.646,
+        "lng": 139.71,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "candidate": "安野貴博",
+    "prefecture": "東京都",
+    "party": "チームみらい",
+    "image_path": "photos/260206_東京都_安野貴博_SL.jpg",
+    "schedule": [
+      {
+        "time": "19:00",
+        "location": "新橋駅SL広場",
+        "lat": 35.6664,
+        "lng": 139.7571,
+        "status": 0,
+        "region": "東京都"
+      }
+    ],
+    "day_of_week": "金",
+    "id": "67733288213602",
+    "constituency": "東京都"
+  }
+]

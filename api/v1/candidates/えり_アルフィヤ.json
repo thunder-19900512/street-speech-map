@@ -1,0 +1,41 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "えり アルフィヤ",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "自由民主党",
+    "image_path": "photos/260202_千葉県_えりアルフィヤ_schedule.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "行徳駅前",
+        "lat": 35.682,
+        "lng": 139.915,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "浦安駅 ロータリー",
+        "lat": 35.666,
+        "lng": 139.897,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "浦安駅 ロータリー",
+        "lat": 35.666,
+        "lng": 139.897,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      }
+    ],
+    "id": "520667342"
+  }
+]

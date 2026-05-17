@@ -1,0 +1,59 @@
+[
+  {
+    "id": "17452",
+    "image_path": "photos/260131_福岡県_いなとみ修二.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "いなとみ修二",
+    "constituency": "福岡2区",
+    "prefecture": "福岡県",
+    "party": "立憲民主党",
+    "schedule": [
+      {
+        "time": "06:30",
+        "region": "福岡市",
+        "municipality": "中央区",
+        "location": "六本松交差点",
+        "lat": 33.578,
+        "lng": 130.378,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "region": "福岡市",
+        "municipality": "中央区",
+        "location": "梅光園3丁目交差点",
+        "lat": 33.572,
+        "lng": 130.375,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "region": "福岡市",
+        "municipality": "南区",
+        "location": "アミカス(南区)ホール",
+        "lat": 33.565,
+        "lng": 130.421,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "region": "福岡市",
+        "municipality": "南区",
+        "location": "清水四つ角交差点",
+        "lat": 33.568,
+        "lng": 130.428,
+        "status": 0
+      },
+      {
+        "time": "20:00",
+        "region": "福岡市",
+        "municipality": "中央区",
+        "location": "警固交差点",
+        "lat": 33.585,
+        "lng": 130.395,
+        "status": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "山本たけよし",
+    "prefecture": "大阪府",
+    "constituency": "比例近畿",
+    "party": "チームみらい",
+    "image_path": "photos/260203_京都府_チームみらい合流.jpg",
+    "schedule": [
+      {
+        "time": "18:30",
+        "location": "四条河原町 高島屋前",
+        "lat": 35.0036,
+        "lng": 135.769,
+        "region": "京都府",
+        "municipality": "京都市下京区",
+        "status": 0
+      }
+    ],
+    "id": "520667369"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "山本たけよし",
+    "prefecture": "大阪府",
+    "constituency": "比例近畿ブロック",
+    "party": "チームみらい",
+    "image_path": "photos/260131_大阪府_山本たけよし.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "JR高槻駅南口",
+        "region": "大阪府",
+        "municipality": "高槻市",
+        "lat": 34.851,
+        "lng": 135.618,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "千里中央駅",
+        "region": "大阪府",
+        "municipality": "豊中市",
+        "lat": 34.81,
+        "lng": 135.495,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "みのおキューズモール",
+        "region": "大阪府",
+        "municipality": "箕面市",
+        "lat": 34.838,
+        "lng": 135.483,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "神戸アンパンマンミュージアム周辺",
+        "region": "兵庫県",
+        "municipality": "神戸市中央区",
+        "lat": 34.678,
+        "lng": 135.184,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "阪急西宮ガーデンズ",
+        "region": "兵庫県",
+        "municipality": "西宮市",
+        "lat": 34.743,
+        "lng": 135.361,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "神戸マルイ前",
+        "region": "兵庫県",
+        "municipality": "神戸市中央区",
+        "lat": 34.692,
+        "lng": 135.195,
+        "status": 0
+      }
+    ],
+    "id": "520667161"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "山本たけよし",
+    "prefecture": "大阪府",
+    "constituency": "比例近畿ブロック",
+    "party": "チームみらい",
+    "image_path": "photos/260130_大阪府_山本たけよし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "阪急豊中駅エトレ豊中側",
+        "region": "大阪府",
+        "municipality": "豊中市",
+        "lat": 34.7876,
+        "lng": 135.4612,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "難波3丁目交差点角",
+        "region": "大阪府",
+        "municipality": "大阪市中央区",
+        "lat": 34.6662,
+        "lng": 135.5003,
+        "status": 0
+      }
+    ],
+    "id": "520667140"
+  }
+]

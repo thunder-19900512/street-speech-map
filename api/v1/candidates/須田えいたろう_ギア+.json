@@ -1,0 +1,104 @@
+[
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "須田えいたろう ギア+",
+    "prefecture": "愛知県",
+    "constituency": "愛知県",
+    "party": "不明",
+    "image_path": "photos/260127_愛知県_須田えいたろう ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "29027017126400"
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "須田えいたろう ギア+",
+    "prefecture": "岐阜県",
+    "constituency": "岐阜県",
+    "party": "不明",
+    "image_path": "photos/260128_岐阜県_須田えいたろう ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "15908341448446"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "須田えいたろう ギア+",
+    "prefecture": "三重県",
+    "constituency": "三重県",
+    "party": "不明",
+    "image_path": "photos/260129_三重県_須田えいたろう ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "20755237953074"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "須田えいたろう ギア+",
+    "prefecture": "静岡県",
+    "constituency": "静岡県",
+    "party": "不明",
+    "image_path": "photos/260130_静岡県_須田えいたろう ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "34451047751007"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "須田えいたろう ギア+",
+    "prefecture": "愛知県",
+    "constituency": "愛知県",
+    "party": "不明",
+    "image_path": "photos/260206_愛知県_須田えいたろう ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "14943879391221"
+  },
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "須田えいたろう ギア+",
+    "prefecture": "愛知県",
+    "constituency": "愛知県",
+    "party": "不明",
+    "image_path": "photos/260207_愛知県_須田えいたろう ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "16437532487666"
+  }
+]

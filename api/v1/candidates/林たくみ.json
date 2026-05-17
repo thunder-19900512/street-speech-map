@@ -1,0 +1,466 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260207_宮城県_林たくみ.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "仙台駅東口",
+        "lat": 38.25960134301436,
+        "lng": 140.8835784334224,
+        "region": "宮城県",
+        "municipality": "仙台市宮城野区",
+        "status": 2
+      },
+      {
+        "time": "11:00",
+        "location": "名掛丁ドンキ前",
+        "lat": 38.26174278421581,
+        "lng": 140.87899141595702,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 2
+      },
+      {
+        "time": "14:00",
+        "location": "仙台駅東口",
+        "lat": 38.25960052068348,
+        "lng": 140.88363972608934,
+        "region": "宮城県",
+        "municipality": "仙台市宮城野区",
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "location": "藤崎グッチ前",
+        "lat": 38.26077196411285,
+        "lng": 140.87442421121523,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 2
+      },
+      {
+        "time": "17:00",
+        "location": "フォーラス前",
+        "lat": 38.26245617424585,
+        "lng": 140.871977575589,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 2
+      },
+      {
+        "time": "19:00",
+        "location": "三越前",
+        "lat": 38.26581540478599,
+        "lng": 140.8702607313171,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 2
+      }
+    ],
+    "id": "520667396"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260206_宮城県_林たくみ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "仙台駅西口デッキ (エスパル側)",
+        "lat": 38.2609,
+        "lng": 140.8809,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "フォーラス前",
+        "lat": 38.26246882335981,
+        "lng": 140.87200208217837,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 2
+      },
+      {
+        "time": "14:00",
+        "location": "八乙女交差点",
+        "lat": 38.3145,
+        "lng": 140.8831,
+        "region": "宮城県",
+        "municipality": "仙台市泉区",
+        "status": 1
+      },
+      {
+        "time": "16:00",
+        "location": "イオンモール新利府前",
+        "lat": 38.32466088194167,
+        "lng": 140.97182466066445,
+        "region": "宮城県",
+        "municipality": "利府町",
+        "status": 2
+      },
+      {
+        "time": "18:00",
+        "location": "仙台駅東口",
+        "lat": 38.2596,
+        "lng": 140.8835,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 0
+      }
+    ],
+    "id": "520667388"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "林たくみ",
+    "prefecture": "福島県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260205_福島県_宮城県_林たくみ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "福島駅東口",
+        "lat": 37.7545,
+        "lng": 140.4607,
+        "region": "福島県",
+        "municipality": "福島市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "郡山駅西口",
+        "lat": 37.3982,
+        "lng": 140.3885,
+        "region": "福島県",
+        "municipality": "郡山市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "いわき駅南口",
+        "lat": 37.058,
+        "lng": 140.8923,
+        "region": "福島県",
+        "municipality": "いわき市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "仙台駅東口",
+        "lat": 38.2596,
+        "lng": 140.8835,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 1
+      }
+    ],
+    "id": "520667380"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260203_宮城県_秋田県_林たくみ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "秋田駅西口 (大屋根下)",
+        "lat": 39.716,
+        "lng": 140.129,
+        "region": "秋田県",
+        "municipality": "秋田市",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "名掛丁ドンキ前",
+        "lat": 38.26175219821949,
+        "lng": 140.878983453149,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 2
+      },
+      {
+        "time": "18:00",
+        "location": "アエル前",
+        "lat": 38.262140603184285,
+        "lng": 140.8806957083289,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 2
+      }
+    ],
+    "id": "520667353"
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260202_宮城県_林たくみ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "仙台駅西口デッキ (エスパル側)",
+        "lat": 38.26,
+        "lng": 140.881,
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "北上駅西口",
+        "lat": 39.282,
+        "lng": 141.112,
+        "region": "岩手県",
+        "municipality": "北上市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "八戸駅西口",
+        "lat": 40.51,
+        "lng": 141.431,
+        "region": "青森県",
+        "municipality": "八戸市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "盛岡駅東口",
+        "lat": 39.702,
+        "lng": 141.137,
+        "region": "岩手県",
+        "municipality": "盛岡市",
+        "status": 0
+      }
+    ],
+    "id": "520667339"
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北ブロック",
+    "party": "チームみらい",
+    "image_path": "photos/260201_宮城県_林たくみ.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "アエル前",
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "lat": 38.262152115413265,
+        "lng": 140.88071456761102,
+        "status": 2
+      },
+      {
+        "time": "10:30",
+        "location": "名掛丁ドンキ前",
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "lat": 38.261753228375326,
+        "lng": 140.8789994835388,
+        "status": 2
+      },
+      {
+        "time": "12:00",
+        "location": "藤崎グッチ前",
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "lat": 38.26078528207412,
+        "lng": 140.87444492499347,
+        "status": 2
+      },
+      {
+        "time": "14:00",
+        "location": "アエル前",
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "lat": 38.26214882620516,
+        "lng": 140.8807239972521,
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "location": "ゼビオアリーナ仙台前 (長町)",
+        "region": "宮城県",
+        "municipality": "仙台市太白区",
+        "lat": 38.225,
+        "lng": 140.887,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "アエル前",
+        "region": "宮城県",
+        "municipality": "仙台市青葉区",
+        "lat": 38.26213484706906,
+        "lng": 140.8807249402162,
+        "status": 2
+      }
+    ],
+    "id": "520667162"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260127_宮城県_林たくみ.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "93254357569739"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260129_宮城県_林たくみ.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "24643122259441"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260130_宮城県_林たくみ.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "11597544085786"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260131_宮城県_林たくみ.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "26195657789470"
+  },
+  {
+    "date": "2026-02-04",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "party": "チームみらい",
+    "image_path": "photos/260204_宮城県_山形県_林たくみ.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "仙台駅西口デッキ (S-PAL前)",
+        "lat": 38.2601,
+        "lng": 140.8821,
+        "status": 0,
+        "region": "宮城県"
+      },
+      {
+        "time": "11:00",
+        "location": "山形・文翔館",
+        "lat": 38.25617685262003,
+        "lng": 140.3408812475391,
+        "status": 2,
+        "region": "宮城県"
+      },
+      {
+        "time": "13:00",
+        "location": "イオンモール天童前",
+        "lat": 38.34208535616074,
+        "lng": 140.362963937223,
+        "status": 2,
+        "region": "宮城県"
+      },
+      {
+        "time": "16:30",
+        "location": "愛子駅前",
+        "lat": 38.27253551144961,
+        "lng": 140.76158242067325,
+        "status": 2,
+        "region": "宮城県"
+      },
+      {
+        "time": "18:30",
+        "location": "仙台・アエル前",
+        "lat": 38.26214622064024,
+        "lng": 140.88068023324013,
+        "status": 2,
+        "region": "宮城県"
+      }
+    ],
+    "day_of_week": "水",
+    "id": "27191689643936",
+    "constituency": "宮城県"
+  },
+  {
+    "date": "2026-02-07",
+    "candidate": "林たくみ",
+    "prefecture": "宮城県",
+    "party": "チームみらい",
+    "image_path": "photos/260207_宮城県_林たくみ_final.jpg",
+    "schedule": [
+      {
+        "time": "19:00",
+        "location": "仙台三越前",
+        "lat": 38.26581978968994,
+        "lng": 140.8702597464435,
+        "status": 2,
+        "region": "宮城県"
+      }
+    ],
+    "day_of_week": "土",
+    "id": "12095818520006",
+    "constituency": "宮城県"
+  }
+]

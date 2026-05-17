@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "小林しゅうへい",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "チームみらい",
+    "image_path": "photos/260131_千葉県_小林しゅうへい.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "成田駅",
+        "region": "千葉県",
+        "municipality": "成田市",
+        "lat": 35.7773,
+        "lng": 140.3137,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "千葉ニュータウン中央駅",
+        "region": "千葉県",
+        "municipality": "印西市",
+        "lat": 35.801,
+        "lng": 140.111,
+        "status": 0
+      },
+      {
+        "time": "11:45",
+        "location": "柏の葉キャンパス駅",
+        "region": "千葉県",
+        "municipality": "柏市",
+        "lat": 35.894,
+        "lng": 139.952,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "流山おおたかの森駅",
+        "region": "千葉県",
+        "municipality": "流山市",
+        "lat": 35.872,
+        "lng": 139.925,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "柏駅",
+        "region": "千葉県",
+        "municipality": "柏市",
+        "lat": 35.862,
+        "lng": 139.9709,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "松戸駅",
+        "region": "千葉県",
+        "municipality": "松戸市",
+        "lat": 35.7843,
+        "lng": 139.9006,
+        "status": 0
+      }
+    ],
+    "id": "520667149"
+  }
+]

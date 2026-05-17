@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "黒岩たかひろ",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "立憲民主党",
+    "image_path": "photos/260127_新潟県_黒岩たかひろ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "29374884420161"
+  },
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "黒岩たかひろ",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "立憲民主党",
+    "image_path": "photos/260207_新潟県_黒岩たかひろ.png",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "19220104430707"
+  }
+]

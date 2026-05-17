@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "ながの春信",
+    "prefecture": "千葉県",
+    "constituency": "千葉14区",
+    "party": "自由民主党",
+    "image_path": "photos/260202_千葉県_ながの春信.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "田中真太郎先生宅前",
+        "lat": 35.691,
+        "lng": 140.038,
+        "region": "千葉県",
+        "municipality": "習志野市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "JR津田沼駅南口",
+        "lat": 35.691,
+        "lng": 140.02,
+        "region": "千葉県",
+        "municipality": "習志野市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "JR津田沼駅北口",
+        "lat": 35.691,
+        "lng": 140.02,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "JR津田沼駅南口",
+        "lat": 35.691,
+        "lng": 140.02,
+        "region": "千葉県",
+        "municipality": "習志野市",
+        "status": 0
+      }
+    ],
+    "id": "520667357"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "にとうべとうま",
+    "prefecture": "宮城県",
+    "constituency": "比例東北",
+    "party": "チームみらい",
+    "image_path": "photos/260207_宮城県_にとうべとうま.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "22766662897598"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "17446",
+    "image_path": "photos/260130_長野県_後藤しげゆき.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "後藤しげゆき",
+    "constituency": "長野4区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "08:15",
+        "region": "木祖村",
+        "municipality": "木祖村",
+        "location": "笑ん館",
+        "lat": 35.93665497312514,
+        "lng": 137.78424024581912,
+        "status": 2
+      },
+      {
+        "time": "11:40",
+        "region": "木曽町",
+        "municipality": "木曽町",
+        "location": "交流促進センター",
+        "lat": 35.84352567259045,
+        "lng": 137.62686967849734,
+        "status": 2
+      },
+      {
+        "time": "12:15",
+        "region": "王滝村",
+        "municipality": "王滝村",
+        "location": "王滝村総合案内所",
+        "lat": 35.80869536508538,
+        "lng": 137.55385994911197,
+        "status": 2
+      },
+      {
+        "time": "13:50",
+        "region": "木曽町",
+        "municipality": "木曽町",
+        "location": "JAグリーンファームきそ",
+        "lat": 35.837442011161095,
+        "lng": 137.68736958503726,
+        "status": 2
+      },
+      {
+        "time": "15:50",
+        "region": "大桑村",
+        "municipality": "大桑村",
+        "location": "野尻地区館",
+        "lat": 35.67283786403266,
+        "lng": 137.63609111309054,
+        "status": 2
+      },
+      {
+        "time": "16:50",
+        "region": "南木曽町",
+        "municipality": "南木曽町",
+        "location": "南木曽駅前",
+        "lat": 35.598793219426426,
+        "lng": 137.6082766056061,
+        "status": 2
+      },
+      {
+        "time": "18:00",
+        "region": "上松町",
+        "municipality": "上松町",
+        "location": "上松町ひのきの里総合文化センター",
+        "lat": 35.783484814191034,
+        "lng": 137.6935172080994,
+        "status": 2
+      }
+    ]
+  }
+]

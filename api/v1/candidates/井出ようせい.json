@@ -1,0 +1,103 @@
+[
+  {
+    "date": "2026-02-01",
+    "candidate": "井出ようせい",
+    "party": "自由民主党",
+    "image_path": "photos/260201_長野県_井出ようせい.jpg",
+    "schedule": [
+      {
+        "time": "11:30",
+        "location": "道の駅青木",
+        "lat": 36.375,
+        "lng": 138.118,
+        "region": "長野県",
+        "municipality": "青木村",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "上田東急REIホテル",
+        "lat": 36.396,
+        "lng": 138.251,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "id": "520667230"
+  },
+  {
+    "id": "S__64880644",
+    "image_path": "photos/260129_長野県_井出ようせい.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "井出ようせい",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "11:00",
+        "region": "佐久市望月",
+        "municipality": "佐久市",
+        "location": "望月川西座跡地",
+        "lat": 36.2754,
+        "lng": 138.3582,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "立科町",
+        "municipality": "立科町",
+        "location": "立科町老人福祉センター",
+        "lat": 36.2652,
+        "lng": 138.3283,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17335",
+    "image_path": "photos/260127_長野県_井出ようせい.jpg",
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "井出ようせい",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "09:00",
+        "region": "上田駅",
+        "municipality": "上田市",
+        "location": "上田駅前",
+        "lat": 36.39705712438108,
+        "lng": 138.2500510364335,
+        "status": 2
+      },
+      {
+        "time": "13:00",
+        "region": "東御市",
+        "municipality": "東御市",
+        "location": "東御市役所付近",
+        "lat": 36.3594,
+        "lng": 138.3304,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "小諸市",
+        "municipality": "小諸市",
+        "location": "小諸駅",
+        "lat": 36.327,
+        "lng": 138.4217,
+        "status": 0
+      }
+    ],
+    "early_voting": "",
+    "election_day": "2026-02-08"
+  }
+]

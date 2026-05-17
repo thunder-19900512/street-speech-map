@@ -1,0 +1,158 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "岡野純子",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "国民民主党",
+    "image_path": "photos/260202_千葉県_岡野純子.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "本八幡駅",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "本八幡駅",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "id": "520667356"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "岡野純子",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "国民民主党",
+    "image_path": "photos/260131_千葉県_岡野純子.png",
+    "schedule": [
+      {
+        "time": "17:00",
+        "location": "新浦安駅",
+        "lat": 35.65,
+        "lng": 139.912,
+        "status": 0
+      }
+    ],
+    "id": "520667208"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "岡野純子",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "国民民主党",
+    "image_path": "photos/260130_千葉県_岡野純子.png",
+    "schedule": [
+      {
+        "time": "19:00",
+        "location": "新浦安駅",
+        "lat": 35.65,
+        "lng": 139.912,
+        "status": 0
+      }
+    ],
+    "id": "520667209"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "岡野純子",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "国民民主党",
+    "image_path": "photos/260129_千葉県_岡野純子.png",
+    "schedule": [
+      {
+        "time": "13:00",
+        "location": "本八幡駅",
+        "lat": 35.721,
+        "lng": 139.927,
+        "status": 0
+      }
+    ],
+    "id": "520667210"
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "岡野純子",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "国民民主党",
+    "image_path": "photos/260128_千葉県_岡野純子.png",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "市川駅北口",
+        "lat": 35.729,
+        "lng": 139.908,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "本八幡駅北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "status": 0
+      }
+    ],
+    "id": "520667211"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "岡野純子",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "国民民主党",
+    "image_path": "photos/260127_千葉県_岡野純子_1.png",
+    "schedule": [
+      {
+        "time": "13:30",
+        "location": "本八幡駅北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "本八幡駅北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "status": 0
+      }
+    ],
+    "id": "520667212"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "岡野純子",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "不明",
+    "image_path": "photos/260127_千葉県_岡野純子_2.png",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "12542227284488"
+  }
+]

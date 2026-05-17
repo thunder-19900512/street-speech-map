@@ -1,0 +1,280 @@
+[
+  {
+    "date": "2025-07-04",
+    "day_of_week": "金",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250704_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "13192828375969"
+  },
+  {
+    "date": "2025-07-05",
+    "day_of_week": "土",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250705_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "33105239276266"
+  },
+  {
+    "date": "2025-07-06",
+    "day_of_week": "日",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250706_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "19473817175993"
+  },
+  {
+    "date": "2025-07-07",
+    "day_of_week": "月",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250707_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "13:20",
+        "location": "宮町ヤマザワ",
+        "lat": 38.26412246747971,
+        "lng": 140.33831624896268,
+        "status": 2
+      },
+      {
+        "time": "14:20",
+        "location": "山形駅前/東口",
+        "lat": 38.2483,
+        "lng": 140.3308,
+        "status": 0
+      },
+      {
+        "time": "15:10",
+        "location": "ヨークベニマル南館",
+        "lat": 38.23885776064201,
+        "lng": 140.30260455328974,
+        "status": 2
+      },
+      {
+        "time": "18:30",
+        "location": "上山市 中部地区公民館",
+        "lat": 38.1583,
+        "lng": 140.275,
+        "status": 0
+      }
+    ],
+    "id": "54492660703863"
+  },
+  {
+    "date": "2025-07-08",
+    "day_of_week": "火",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250708_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "10757806036295"
+  },
+  {
+    "date": "2025-07-09",
+    "day_of_week": "水",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250709_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "16664571413105"
+  },
+  {
+    "date": "2025-07-10",
+    "day_of_week": "木",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250710_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "40134738865493"
+  },
+  {
+    "date": "2025-07-11",
+    "day_of_week": "金",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250711_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "25369874193629"
+  },
+  {
+    "date": "2025-07-12",
+    "day_of_week": "土",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250712_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "25824444035054"
+  },
+  {
+    "date": "2025-07-13",
+    "day_of_week": "日",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250713_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "23148315483375"
+  },
+  {
+    "date": "2025-07-14",
+    "day_of_week": "月",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250714_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "21812503633401"
+  },
+  {
+    "date": "2025-07-15",
+    "day_of_week": "火",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250715_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "13583335125086"
+  },
+  {
+    "date": "2025-07-17",
+    "day_of_week": "木",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250717_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "27328685401237"
+  },
+  {
+    "date": "2025-07-18",
+    "day_of_week": "金",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250718_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "25164206384976"
+  },
+  {
+    "date": "2025-07-19",
+    "day_of_week": "土",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250719_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "90988892606730"
+  }
+]

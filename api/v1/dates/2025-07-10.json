@@ -1,0 +1,87 @@
+[
+  {
+    "date": "2025-07-10",
+    "day_of_week": "木",
+    "candidate": "はが道也",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "無所属",
+    "image_path": "photos/250710_山形県_はが道也.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "山形県内各地",
+        "status": 0
+      }
+    ],
+    "id": "40134738865493"
+  },
+  {
+    "id": "1779016772505",
+    "date": "2025-07-10",
+    "day_of_week": "木",
+    "candidate": "なかいずみ松司",
+    "prefecture": "秋田県",
+    "constituency": "秋田選挙区",
+    "party": "自民党",
+    "image_path": "photos/250710_秋田県_なかいずみ松司.jpg",
+    "schedule": [
+      {
+        "time": "08:15",
+        "location": "椿台 鈴木建設工業前",
+        "lat": 39.1699685,
+        "lng": 140.7164932,
+        "status": 0
+      },
+      {
+        "time": "08:40",
+        "location": "岩井川 ゆるるん前",
+        "lat": 39.1793272,
+        "lng": 140.649358,
+        "status": 0
+      },
+      {
+        "time": "09:20",
+        "location": "田子内 役場前",
+        "lat": 39.179259,
+        "lng": 140.649359,
+        "status": 0
+      },
+      {
+        "time": "10:40",
+        "location": "大館公会堂",
+        "lat": 39.1474492,
+        "lng": 140.5646866,
+        "status": 0
+      },
+      {
+        "time": "11:10",
+        "location": "三梨JA前",
+        "lat": 39.133477,
+        "lng": 140.568972,
+        "status": 0
+      },
+      {
+        "time": "11:40",
+        "location": "佐藤養助商店 本社工場前",
+        "lat": 39.1643018,
+        "lng": 140.4957467,
+        "status": 0
+      },
+      {
+        "time": "17:10",
+        "location": "湯沢市役所",
+        "lat": 39.1643417,
+        "lng": 140.4957429,
+        "status": 0
+      },
+      {
+        "time": "17:55",
+        "location": "グランマート",
+        "lat": 39.1703934,
+        "lng": 140.4836149,
+        "status": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "花岡あきひさ",
+    "prefecture": "長野県",
+    "constituency": "長野4区",
+    "party": "国民民主党",
+    "image_path": "photos/260201_長野県_花岡あきひさ.png",
+    "schedule": [
+      {
+        "time": "08:15",
+        "location": "諏訪インター南交差点",
+        "lat": 36.002,
+        "lng": 138.122,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "茅野交差点",
+        "lat": 35.996,
+        "lng": 138.146,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "諏訪大社上社 駐車場前",
+        "lat": 35.992,
+        "lng": 138.122,
+        "status": 0
+      },
+      {
+        "time": "17:15",
+        "location": "角上魚類 諏訪店",
+        "lat": 36.022,
+        "lng": 138.112,
+        "status": 0
+      }
+    ],
+    "id": "520667206"
+  },
+  {
+    "id": "17434",
+    "image_path": "photos/260131_長野県_花岡あきひさ.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "花岡あきひさ",
+    "constituency": "長野4区",
+    "prefecture": "長野県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "09:00",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "塩尻駅",
+        "lat": 36.1147,
+        "lng": 137.9482,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "19号と20号の交差点・辻立ち",
+        "lat": 36.1105,
+        "lng": 137.9495,
+        "status": 0
+      },
+      {
+        "time": "11:20",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "無印良品ツルヤ塩尻広丘店付近・辻立ち",
+        "lat": 36.1485,
+        "lng": 137.9545,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "広丘駅",
+        "lat": 36.1436,
+        "lng": 137.9515,
+        "status": 0
+      },
+      {
+        "time": "14:15",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "コミュニティマーケットプレイスギャザ付近",
+        "lat": 36.148,
+        "lng": 137.953,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "広丘吉田交差点・辻立ち",
+        "lat": 36.155,
+        "lng": 137.956,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "広丘交番北交差点・辻立ち",
+        "lat": 36.145,
+        "lng": 137.952,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17433",
+    "image_path": "photos/260130_長野県_花岡あきひさ.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "花岡あきひさ",
+    "constituency": "長野4区",
+    "prefecture": "長野県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "09:00",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "塩尻駅前",
+        "lat": 36.1147,
+        "lng": 137.9482,
+        "status": 0
+      },
+      {
+        "time": "09:45",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "19号20号交差点・辻立ち",
+        "lat": 36.1105,
+        "lng": 137.9495,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "region": "塩尻市",
+        "municipality": "塩尻市",
+        "location": "無印良品ツルヤ塩尻広丘店付近・辻立ち",
+        "lat": 36.1485,
+        "lng": 137.9545,
+        "status": 0
+      },
+      {
+        "time": "12:20",
+        "region": "諏訪市",
+        "municipality": "諏訪市",
+        "location": "上諏訪駅",
+        "lat": 36.0465,
+        "lng": 138.1165,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "茅野市",
+        "municipality": "茅野市",
+        "location": "諏訪ステーションパーク",
+        "lat": 35.989,
+        "lng": 138.125,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "諏訪市",
+        "municipality": "諏訪市",
+        "location": "綿半スーパーセンター諏訪店",
+        "lat": 36.015,
+        "lng": 138.095,
+        "status": 0
+      },
+      {
+        "time": "16:45",
+        "region": "諏訪市",
+        "municipality": "諏訪市",
+        "location": "諏訪市飯島交差点・辻立ち",
+        "lat": 36.008,
+        "lng": 138.105,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "S__520740869",
+    "image_path": "photos/260129_長野県_花岡あきひさ.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "花岡あきひさ",
+    "constituency": "長野4区",
+    "prefecture": "長野県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "08:10",
+        "region": "諏訪市",
+        "municipality": "諏訪市",
+        "location": "上諏訪駅",
+        "lat": 36.04691103157453,
+        "lng": 138.1168305624249,
+        "status": 2
+      },
+      {
+        "time": "09:00",
+        "region": "下諏訪町",
+        "municipality": "下諏訪町",
+        "location": "大社通り交差点（諏訪大社下社から変更）",
+        "lat": 36.07461456828749,
+        "lng": 138.08649301528934,
+        "status": 2
+      },
+      {
+        "time": "10:15",
+        "region": "下諏訪町",
+        "municipality": "下諏訪町",
+        "location": "下諏訪町高浜交差点 ツルハドラッグ付近",
+        "lat": 36.067569,
+        "lng": 138.098965,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "岡谷湖畔公園 みなとなぎさパーク",
+        "lat": 36.05144947019964,
+        "lng": 138.05354209939225,
+        "status": 2
+      },
+      {
+        "time": "15:30",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "今井交差点（フォレストモール岡谷から変更）",
+        "lat": 36.0823409102858,
+        "lng": 138.04695725440982,
+        "status": 2
+      },
+      {
+        "time": "16:15",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "旧アピタ・レイクウォーク岡谷",
+        "lat": 36.06592010992882,
+        "lng": 138.05079109421254,
+        "status": 2
+      },
+      {
+        "time": "17:00",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "岡谷駅",
+        "lat": 36.057097098708994,
+        "lng": 138.04420704009738,
+        "status": 2
+      },
+      {
+        "time": "18:30",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "個人演説会@ライフプラザマリオ岡谷",
+        "lat": 36.0648992,
+        "lng": 138.072354,
+        "status": 0
+      }
+    ],
+    "early_voting": "",
+    "election_day": ""
+  },
+  {
+    "id": "520667138",
+    "image_path": "photos/260128_長野県_花岡あきひさ.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "花岡あきひさ",
+    "constituency": "長野4区",
+    "prefecture": "長野県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "08:40",
+        "region": "茅野市",
+        "municipality": "茅野市",
+        "location": "茅野駅",
+        "lat": 35.99438253570444,
+        "lng": 138.1528179228131,
+        "status": 2
+      },
+      {
+        "time": "09:30",
+        "region": "茅野市",
+        "municipality": "茅野市",
+        "location": "茅野市横内 交差点",
+        "lat": 35.9963,
+        "lng": 138.1459,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "region": "茅野市",
+        "municipality": "茅野市",
+        "location": "オギノ茅野ショッピングセンター",
+        "lat": 35.99972142576321,
+        "lng": 138.1508583744009,
+        "status": 2
+      },
+      {
+        "time": "13:00",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "岡谷駅",
+        "lat": 36.05710654101095,
+        "lng": 138.04422221258665,
+        "status": 2
+      },
+      {
+        "time": "13:30",
+        "region": "岡谷市",
+        "municipality": "岡谷市",
+        "location": "旧アピタ・蚕糸公園",
+        "lat": 36.06595713409925,
+        "lng": 138.05076522973607,
+        "status": 2
+      },
+      {
+        "time": "16:00",
+        "region": "諏訪市",
+        "municipality": "諏訪市",
+        "location": "湖畔公園・湖岸通り交差点",
+        "lat": 36.04738140844645,
+        "lng": 138.1118077039719,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "諏訪市",
+        "municipality": "諏訪市",
+        "location": "上諏訪駅",
+        "lat": 36.04689709811837,
+        "lng": 138.1167888791887,
+        "status": 2
+      },
+      {
+        "time": "18:00~",
+        "region": "諏訪市",
+        "municipality": "諏訪市",
+        "location": "街宣車活動 等",
+        "lat": null,
+        "lng": null,
+        "status": 0
+      }
+    ],
+    "early_voting": "",
+    "election_day": ""
+  }
+]

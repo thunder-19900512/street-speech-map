@@ -1,0 +1,68 @@
+[
+  {
+    "id": "17454",
+    "image_path": "photos/260131_福岡県_おにき誠.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "おにき誠",
+    "constituency": "福岡2区",
+    "prefecture": "福岡県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "15:00",
+        "region": "福岡市",
+        "municipality": "中央区",
+        "location": "警固公園",
+        "lat": 33.589,
+        "lng": 130.401,
+        "status": 0
+      },
+      {
+        "time": "17:10",
+        "region": "福岡市",
+        "municipality": "城南区",
+        "location": "島廻橋交差点",
+        "lat": 33.555,
+        "lng": 130.375,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "region": "福岡市",
+        "municipality": "城南区",
+        "location": "油山団地西側",
+        "lat": 33.535,
+        "lng": 130.372,
+        "status": 0
+      },
+      {
+        "time": "18:15",
+        "region": "福岡市",
+        "municipality": "城南区",
+        "location": "市営片江住宅",
+        "lat": 33.542,
+        "lng": 130.368,
+        "status": 0
+      },
+      {
+        "time": "18:50",
+        "region": "福岡市",
+        "municipality": "城南区",
+        "location": "金桜橋東交差点",
+        "lat": 33.552,
+        "lng": 130.362,
+        "status": 0
+      },
+      {
+        "time": "19:20",
+        "region": "福岡市",
+        "municipality": "城南区",
+        "location": "中村大前交差点",
+        "lat": 33.565,
+        "lng": 130.365,
+        "status": 0
+      }
+    ]
+  }
+]

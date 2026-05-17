@@ -1,0 +1,32 @@
+[
+  {
+    "id": "17462",
+    "image_path": "photos/260200_福岡県_大石仁人_Summary.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "大石仁人",
+    "constituency": "福岡10区",
+    "prefecture": "福岡県",
+    "party": "無所属",
+    "schedule": [
+      {
+        "time": "15:30",
+        "region": "北九州市",
+        "municipality": "小倉北区",
+        "location": "井堀市民センター",
+        "lat": 33.882,
+        "lng": 130.855,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "region": "北九州市",
+        "municipality": "小倉北区",
+        "location": "文化記念体育施設 第三会議室",
+        "lat": 33.845,
+        "lng": 130.905,
+        "status": 0
+      }
+    ]
+  }
+]

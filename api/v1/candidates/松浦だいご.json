@@ -1,0 +1,71 @@
+[
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "松浦だいご",
+    "prefecture": "秋田県",
+    "constituency": "秋田1区",
+    "party": "日本維新の会",
+    "image_path": "photos/260131_秋田県_松浦だいご.jpg",
+    "schedule": [
+      {
+        "time": "12:00",
+        "location": "イオンモール秋田前",
+        "lat": 39.6644,
+        "lng": 140.1608,
+        "region": "秋田県",
+        "municipality": "秋田市",
+        "status": 0
+      },
+      {
+        "time": "12:45",
+        "location": "秋田県庁前",
+        "lat": 39.7186,
+        "lng": 140.1025,
+        "region": "秋田県",
+        "municipality": "秋田市",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "秋田駅前",
+        "lat": 39.7170123485912,
+        "lng": 140.1279813051224,
+        "region": "秋田県",
+        "municipality": "秋田市",
+        "status": 2
+      }
+    ],
+    "id": "17710689544456"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "松浦だいご",
+    "prefecture": "秋田県",
+    "constituency": "秋田1区",
+    "party": "日本維新の会",
+    "image_path": "photos/260127_秋田県_松浦だいご.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "山王十字路",
+        "lat": 39.7186,
+        "lng": 140.1025,
+        "region": "秋田県",
+        "municipality": "秋田市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "秋田駅前",
+        "lat": 39.7169,
+        "lng": 140.1286,
+        "region": "秋田県",
+        "municipality": "秋田市",
+        "status": 0
+      }
+    ],
+    "id": "17711413608879"
+  }
+]

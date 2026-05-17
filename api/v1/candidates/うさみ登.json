@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "うさみ登",
+    "prefecture": "東京都",
+    "constituency": "東京26区",
+    "party": "チームみらい",
+    "image_path": "photos/260205_東京都_うさみ登.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "目黒駅西口",
+        "lat": 35.6341,
+        "lng": 139.7154,
+        "region": "東京都",
+        "municipality": "品川区",
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "学芸大学駅",
+        "lat": 35.62916476628544,
+        "lng": 139.68526124954226,
+        "region": "東京都",
+        "municipality": "目黒区",
+        "status": 2
+      }
+    ],
+    "id": "520667384"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "うさみ登",
+    "prefecture": "東京都",
+    "constituency": "東京26区",
+    "party": "チームみらい",
+    "image_path": "photos/260204_東京都_うさみ登.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "都立大学駅",
+        "lat": 35.6176,
+        "lng": 139.6763,
+        "region": "東京都",
+        "municipality": "目黒区",
+        "status": 0
+      }
+    ],
+    "id": "520667379"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "うさみ登",
+    "prefecture": "東京都",
+    "constituency": "東京26区",
+    "party": "チームみらい",
+    "image_path": "photos/260203_東京都_うさみ登.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "学芸大学駅",
+        "lat": 35.62917359421579,
+        "lng": 139.68526124954226,
+        "region": "東京都",
+        "municipality": "目黒区",
+        "status": 2
+      },
+      {
+        "time": "12:00",
+        "location": "御嶽山駅",
+        "lat": 35.584,
+        "lng": 139.679,
+        "region": "東京都",
+        "municipality": "大田区",
+        "status": 0
+      }
+    ],
+    "id": "520667365"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "うさみ登",
+    "prefecture": "東京都",
+    "constituency": "東京26区",
+    "party": "チームみらい",
+    "image_path": "photos/260131_東京都_うさみ登.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "目黒駅西口",
+        "region": "東京都",
+        "municipality": "品川区",
+        "lat": 35.6339,
+        "lng": 139.7157,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "田園調布駅東口",
+        "region": "東京都",
+        "municipality": "大田区",
+        "lat": 35.5971,
+        "lng": 139.6677,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "自由ヶ丘駅正面口",
+        "region": "東京都",
+        "municipality": "目黒区",
+        "lat": 35.6074,
+        "lng": 139.6687,
+        "status": 0
+      }
+    ],
+    "id": "520667158"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "うさみ登",
+    "prefecture": "東京都",
+    "constituency": "東京26区",
+    "party": "チームみらい",
+    "image_path": "photos/260130_東京都_うさみ登.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "洗足池駅前",
+        "region": "東京都",
+        "municipality": "大田区",
+        "lat": 35.600054850918866,
+        "lng": 139.6914088726044,
+        "status": 2
+      },
+      {
+        "time": "12:00",
+        "location": "碑文谷イオン前",
+        "region": "東京都",
+        "municipality": "目黒区",
+        "lat": 35.62254552976969,
+        "lng": 139.68487501144412,
+        "status": 2
+      },
+      {
+        "time": "17:30",
+        "location": "大岡山駅前",
+        "region": "東京都",
+        "municipality": "大田区",
+        "lat": 35.60730802842565,
+        "lng": 139.6852666139603,
+        "status": 2
+      }
+    ],
+    "id": "520667144"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "うさみ登",
+    "prefecture": "東京都",
+    "constituency": "東京26区",
+    "party": "チームみらい",
+    "image_path": "photos/260129_東京都_うさみ登.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "自由が丘正面ロータリー",
+        "region": "東京都",
+        "municipality": "目黒区",
+        "lat": 35.6074,
+        "lng": 139.6687,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "武蔵小山駅前",
+        "region": "東京都",
+        "municipality": "品川区",
+        "lat": 35.6206,
+        "lng": 139.7046,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "御嶽山駅",
+        "region": "東京都",
+        "municipality": "大田区",
+        "lat": 35.58558123090591,
+        "lng": 139.68219816684726,
+        "status": 2
+      }
+    ],
+    "id": "520667139"
+  }
+]

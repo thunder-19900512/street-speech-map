@@ -1,0 +1,528 @@
+[
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "藤田ひかる",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "party": "中道改革連合",
+    "image_path": "photos/260206_長野県_藤田ひかる.jpg",
+    "schedule": [
+      {
+        "time": "11:30",
+        "location": "渚一丁目交差点",
+        "lat": 36.2317,
+        "lng": 137.9563,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "ツルヤ平田店前",
+        "lat": 36.1903,
+        "lng": 137.9626,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "デリシア桐店前",
+        "lat": 36.255,
+        "lng": 137.9729,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "19:15",
+        "location": "COMO庄内前",
+        "lat": 36.2217,
+        "lng": 137.9713,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      }
+    ],
+    "id": "520667398"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "藤田ひかる",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "party": "中道改革連合",
+    "image_path": "photos/260205_長野県_藤田ひかる.jpg",
+    "schedule": [
+      {
+        "time": "10:20",
+        "location": "ハピアAコープ白馬店前",
+        "lat": 36.6979,
+        "lng": 137.861,
+        "region": "長野県",
+        "municipality": "白馬村",
+        "status": 0
+      },
+      {
+        "time": "13:15",
+        "location": "松川村板取交差点",
+        "lat": 36.43,
+        "lng": 137.8921,
+        "region": "長野県",
+        "municipality": "松川村",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "池田町 シェアベースにぎわい駐車場",
+        "lat": 36.4204,
+        "lng": 137.8781,
+        "region": "長野県",
+        "municipality": "池田町",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "長野県護国神社",
+        "lat": 36.258,
+        "lng": 137.9781,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "グリーンワークまつかわ",
+        "lat": 36.4113,
+        "lng": 137.8606,
+        "region": "長野県",
+        "municipality": "松川村",
+        "status": 0
+      }
+    ],
+    "id": "520667377"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "藤田ひかる",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "party": "中道改革連合",
+    "image_path": "photos/260204_長野県_藤田ひかる.jpg",
+    "schedule": [
+      {
+        "time": "09:10",
+        "location": "JAながの西山支所",
+        "lat": 36.6184,
+        "lng": 137.9841,
+        "region": "長野県",
+        "municipality": "小川村",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "JAながの中条支店",
+        "lat": 36.6113,
+        "lng": 138.0361,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 0
+      },
+      {
+        "time": "12:15",
+        "location": "信州新町水防会館",
+        "lat": 36.564,
+        "lng": 137.986,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "松本合同庁舎前",
+        "lat": 36.2354,
+        "lng": 137.9446,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "新村交差点",
+        "lat": 36.2181,
+        "lng": 137.9029,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      }
+    ],
+    "id": "520667378"
+  },
+  {
+    "date": "2026-02-02",
+    "candidate": "藤田ひかる",
+    "party": "自由民主党",
+    "image_path": "photos/260202_長野県_藤田ひかる.jpg",
+    "schedule": [
+      {
+        "time": "13:00",
+        "location": "アイシティ21 北側駐車場",
+        "lat": 36.216,
+        "lng": 137.887,
+        "region": "長野県",
+        "municipality": "山形村",
+        "status": 0
+      }
+    ],
+    "day_of_week": "月",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "id": "520667225"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "藤田ひかる",
+    "party": "自由民主党",
+    "image_path": "photos/260201_長野県_藤田ひかる.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "奈川公民館",
+        "lat": 36.0825,
+        "lng": 137.765,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 2
+      },
+      {
+        "time": "10:30",
+        "location": "島々郵便局前",
+        "lat": 36.175,
+        "lng": 137.795,
+        "region": "長野県",
+        "municipality": "松本市",
+        "status": 0
+      },
+      {
+        "time": "12:15",
+        "location": "堀金道の駅前",
+        "lat": 36.295,
+        "lng": 137.892,
+        "region": "長野県",
+        "municipality": "安曇野市",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "明科駅前",
+        "lat": 36.353,
+        "lng": 137.927,
+        "region": "長野県",
+        "municipality": "安曇野市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "スイス村サンモリッツ",
+        "lat": 36.298,
+        "lng": 137.915,
+        "region": "長野県",
+        "municipality": "安曇野市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "長野県",
+    "constituency": "長野2区",
+    "id": "520667224"
+  },
+  {
+    "id": "17445",
+    "image_path": "photos/260131_長野県_藤田ひかる.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "藤田ひかる",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "09:00",
+        "region": "朝日村",
+        "municipality": "朝日村",
+        "location": "朝日村商工会館",
+        "lat": 36.132,
+        "lng": 137.885,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "山形村",
+        "municipality": "山形村",
+        "location": "山形村ミラフード館",
+        "lat": 36.152,
+        "lng": 137.905,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "今井 道の駅",
+        "lat": 36.168,
+        "lng": 137.915,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "イオンタウン松本村井前",
+        "lat": 36.182,
+        "lng": 137.955,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "デリシア寿店前",
+        "lat": 36.202,
+        "lng": 137.985,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "綿半松本芳川店",
+        "lat": 36.195,
+        "lng": 137.965,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17444",
+    "image_path": "photos/260130_長野県_藤田ひかる.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "藤田ひかる",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "09:00",
+        "region": "生坂村",
+        "municipality": "生坂村",
+        "location": "生坂村若者コミュニティセンター",
+        "lat": 36.415,
+        "lng": 137.915,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "麻績村",
+        "municipality": "麻績村",
+        "location": "麻績村地域交流センター",
+        "lat": 36.465,
+        "lng": 138.015,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "region": "筑北村",
+        "municipality": "筑北村",
+        "location": "筑北村本城公民館",
+        "lat": 36.418,
+        "lng": 138.025,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "デリシア桐店前",
+        "lat": 36.252,
+        "lng": 137.975,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "元町西友前",
+        "lat": 36.238,
+        "lng": 137.985,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "松本駅前",
+        "lat": 36.231,
+        "lng": 137.965,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "S__520740868",
+    "image_path": "photos/260129_長野県_藤田ひかる.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "藤田ひかる",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "09:00",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "長野市商工会 豊野支所",
+        "lat": 36.71073,
+        "lng": 138.273945,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "region": "飯綱町",
+        "municipality": "飯綱町",
+        "location": "飯綱町直売所さんちゃん前",
+        "lat": 36.68537,
+        "lng": 138.261947,
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "region": "信濃町",
+        "municipality": "信濃町",
+        "location": "第一スーパー古間店前",
+        "lat": 36.795296,
+        "lng": 138.216092,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "長野市戸隠",
+        "municipality": "長野市",
+        "location": "戸隠観光情報センター",
+        "lat": 36.741287,
+        "lng": 138.084595,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "region": "長野市鬼無里",
+        "municipality": "長野市",
+        "location": "そば処鬼無里",
+        "lat": 36.6794329,
+        "lng": 137.9990808,
+        "status": 0
+      }
+    ],
+    "early_voting": "",
+    "election_day": "2026-02-08"
+  },
+  {
+    "id": "S__75448329",
+    "image_path": "photos/260128_長野県_藤田ひかる.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "藤田ひかる",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "09:30",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "安曇野庁舎",
+        "lat": 36.3026,
+        "lng": 137.8996,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "ベイシア堀金店前",
+        "lat": 36.3025,
+        "lng": 137.8758,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "ザ・ビッグ三郷店前",
+        "lat": 36.2448,
+        "lng": 137.889,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "region": "安曇野市",
+        "municipality": "安曇野市",
+        "location": "白金交差点付近",
+        "lat": 36.3331,
+        "lng": 137.8952,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "region": "池田町",
+        "municipality": "池田町",
+        "location": "ザ・ビッグ信州池田店前",
+        "lat": 36.386,
+        "lng": 137.8931,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "池田町",
+        "municipality": "池田町",
+        "location": "ツルヤ池田店前",
+        "lat": 36.4112,
+        "lng": 137.8795,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "region": "大町市",
+        "municipality": "大町市",
+        "location": "デリシア大町店前",
+        "lat": 36.4974,
+        "lng": 137.8575,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "大町市",
+        "municipality": "大町市",
+        "location": "サンアルプス大町",
+        "lat": 36.5189,
+        "lng": 137.856,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "region": "池田町",
+        "municipality": "池田町",
+        "location": "池田町商工会館",
+        "lat": 36.4218,
+        "lng": 137.8766,
+        "status": 0
+      }
+    ],
+    "early_voting": "",
+    "election_day": "2026-02-08"
+  }
+]

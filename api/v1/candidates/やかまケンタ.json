@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "やかまケンタ",
+    "prefecture": "千葉県",
+    "constituency": "千葉14区",
+    "party": "日本共産党",
+    "image_path": "photos/260201_千葉県_やかまケンタ.jpg",
+    "schedule": [
+      {
+        "time": "11:00",
+        "location": "JR津田沼駅南口",
+        "lat": 35.69,
+        "lng": 140.02,
+        "region": "千葉県",
+        "municipality": "習志野市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "JR津田沼駅北口",
+        "lat": 35.692,
+        "lng": 140.021,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667347"
+  }
+]

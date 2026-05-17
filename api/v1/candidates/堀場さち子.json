@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "堀場さち子",
+    "prefecture": "京都府",
+    "constituency": "京都1区",
+    "party": "チームみらい",
+    "image_path": "photos/260203_京都府_チームみらい合流.jpg",
+    "schedule": [
+      {
+        "time": "18:30",
+        "location": "四条河原町 高島屋前",
+        "lat": 35.0036,
+        "lng": 135.769,
+        "region": "京都府",
+        "municipality": "京都市下京区",
+        "status": 0
+      }
+    ],
+    "id": "520667368"
+  }
+]

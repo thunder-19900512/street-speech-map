@@ -1,0 +1,323 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "みねしま侑也",
+    "prefecture": "東京都",
+    "constituency": "東京7区",
+    "party": "チームみらい",
+    "image_path": "photos/260207_東京都_安野貴博.jpg",
+    "schedule": [
+      {
+        "time": "19:00",
+        "location": "明治神宮外苑",
+        "lat": 35.6775,
+        "lng": 139.7183,
+        "region": "東京都",
+        "municipality": "新宿区",
+        "status": 0
+      }
+    ],
+    "id": "520667404"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "みねしま侑也",
+    "prefecture": "東京都",
+    "constituency": "東京7区",
+    "party": "チームみらい",
+    "image_path": "photos/260205_東京都_みねしま侑也.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "恵比寿駅 西口",
+        "lat": 35.6471,
+        "lng": 139.7098,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "広尾プラザ前",
+        "lat": 35.647,
+        "lng": 139.7187,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "渋谷駅 宮益坂下",
+        "lat": 35.6595,
+        "lng": 139.7024,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "location": "Bunkamura前",
+        "lat": 35.6608,
+        "lng": 139.695,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "代々木八幡駅 南口",
+        "lat": 35.6696,
+        "lng": 139.6886,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "初台駅 南口",
+        "lat": 35.6806,
+        "lng": 139.6865,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "幡ヶ谷駅 南口",
+        "lat": 35.6771,
+        "lng": 139.6769,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "笹塚駅 北口",
+        "lat": 35.674,
+        "lng": 139.6674,
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "status": 0
+      }
+    ],
+    "id": "520667383"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "みねしま侑也",
+    "prefecture": "東京都",
+    "constituency": "東京7区",
+    "party": "チームみらい",
+    "image_path": "photos/260204_東京都_みねしま侑也.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "品川駅港南口 (ペデストリアンデッキ)",
+        "lat": 35.629,
+        "lng": 139.74,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "品川駅港南口 (地上)",
+        "lat": 35.629,
+        "lng": 139.74,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "広尾駅2番出口",
+        "lat": 35.652,
+        "lng": 139.722,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "麻布十番パティオ十番",
+        "lat": 35.655,
+        "lng": 139.734,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "白金高輪駅3番出口",
+        "lat": 35.643,
+        "lng": 139.733,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "田町駅三田口",
+        "lat": 35.645,
+        "lng": 139.747,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "芝浦プラタナス公園",
+        "lat": 35.64,
+        "lng": 139.752,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "田町駅芝浦口",
+        "lat": 35.645,
+        "lng": 139.748,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "location": "浜松町駅北口",
+        "lat": 35.656,
+        "lng": 139.757,
+        "region": "東京都",
+        "municipality": "港区",
+        "status": 0
+      }
+    ],
+    "id": "520667375"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "みねしま侑也",
+    "prefecture": "東京都",
+    "constituency": "東京7区",
+    "party": "チームみらい",
+    "image_path": "photos/260131_東京都_みねしま侑也.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "代々木上原駅",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.669,
+        "lng": 139.679,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "富ヶ谷交差点",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.665,
+        "lng": 139.689,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "代々木八幡駅",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.669,
+        "lng": 139.689,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "初台駅",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.6811,
+        "lng": 139.686,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "幡ヶ谷駅南口",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.677,
+        "lng": 139.677,
+        "status": 0
+      },
+      {
+        "time": "18:20",
+        "location": "品川駅港南口",
+        "region": "東京都",
+        "municipality": "港区",
+        "lat": 35.6285,
+        "lng": 139.74,
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "location": "渋谷駅スクランブル交差点",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.6594,
+        "lng": 139.7006,
+        "status": 0
+      }
+    ],
+    "id": "520667174"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "みねしま侑也",
+    "prefecture": "東京都",
+    "constituency": "東京7区",
+    "party": "チームみらい",
+    "image_path": "photos/260130_東京都_みねしま侑也.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "笹塚駅北口",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.6737,
+        "lng": 139.667,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "代々木八幡駅南口",
+        "region": "東京都",
+        "municipality": "渋谷区",
+        "lat": 35.669,
+        "lng": 139.689,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "新橋駅西口 SL広場",
+        "region": "東京都",
+        "municipality": "港区",
+        "lat": 35.6664,
+        "lng": 139.758,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "品川駅港南口",
+        "region": "東京都",
+        "municipality": "港区",
+        "lat": 35.6285,
+        "lng": 139.74,
+        "status": 0
+      }
+    ],
+    "id": "520667166"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "仁科ひろき",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "参政党",
+    "image_path": "photos/260131_長野県_仁科ひろき.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "住吉交差点",
+        "lat": 36.398,
+        "lng": 138.272,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "上塩尻東交差点",
+        "lat": 36.417,
+        "lng": 138.223,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "上田警察署入口交差点",
+        "lat": 36.392,
+        "lng": 138.251,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "セブン上田小牧店そば",
+        "lat": 36.386,
+        "lng": 138.277,
+        "status": 0
+      }
+    ],
+    "id": "520667196"
+  },
+  {
+    "id": "17429",
+    "image_path": "photos/260129_長野県_仁科ひろき.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "仁科ひろき",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "08:30",
+        "region": "小諸市",
+        "municipality": "小諸市",
+        "location": "浅間サンライン入口交差点",
+        "lat": 36.311,
+        "lng": 138.423,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "region": "御代田町",
+        "municipality": "御代田町",
+        "location": "鳥井原東交差点",
+        "lat": 36.319,
+        "lng": 138.508,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "region": "小諸市",
+        "municipality": "小諸市",
+        "location": "三ツ矢東交差点",
+        "lat": 36.326,
+        "lng": 138.455,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "小諸市",
+        "municipality": "小諸市",
+        "location": "浅間中学校西交差点",
+        "lat": 36.342,
+        "lng": 138.425,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17430",
+    "image_path": "photos/260128_長野県_仁科ひろき.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "仁科ひろき",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "08:00",
+        "region": "佐久市",
+        "municipality": "佐久市",
+        "location": "佐久平駅",
+        "lat": 36.277,
+        "lng": 138.463,
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "region": "佐久市",
+        "municipality": "佐久市",
+        "location": "佐久大学入口交差点",
+        "lat": 36.255,
+        "lng": 138.465,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "region": "佐久市",
+        "municipality": "佐久市",
+        "location": "フォレストモール佐久平",
+        "lat": 36.273,
+        "lng": 138.465,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "小諸市",
+        "municipality": "小諸市",
+        "location": "湧玉川橋北交差点",
+        "lat": 36.315,
+        "lng": 138.455,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "佐久市",
+        "municipality": "佐久市",
+        "location": "フォレストモール佐久平",
+        "lat": 36.273,
+        "lng": 138.465,
+        "status": 0
+      }
+    ]
+  }
+]

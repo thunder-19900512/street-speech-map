@@ -1,0 +1,299 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "古川あおい",
+    "prefecture": "福岡県",
+    "constituency": "比例九州",
+    "party": "チームみらい",
+    "image_path": "photos/260207_福岡県_古川あおい.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "赤坂交差点 スタバ付近",
+        "lat": 33.5888,
+        "lng": 130.3909,
+        "region": "福岡県",
+        "municipality": "福岡市中央区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "西新駅 プラリバ前",
+        "lat": 33.5838,
+        "lng": 130.3597,
+        "region": "福岡県",
+        "municipality": "福岡市早良区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "千早駅西口 なみきスクエア側",
+        "lat": 33.6503,
+        "lng": 130.4393,
+        "region": "福岡県",
+        "municipality": "福岡市東区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "大橋駅東口",
+        "lat": 33.5591,
+        "lng": 130.4268,
+        "region": "福岡県",
+        "municipality": "福岡市南区",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "警固公園",
+        "lat": 33.5882,
+        "lng": 130.3992,
+        "region": "福岡県",
+        "municipality": "福岡市中央区",
+        "status": 0
+      }
+    ],
+    "id": "520667391"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "古川あおい",
+    "prefecture": "長崎県",
+    "constituency": "比例九州",
+    "party": "チームみらい",
+    "image_path": "photos/260204_長崎県_宮崎県_古川あおい.jpg",
+    "schedule": [
+      {
+        "time": "11:00",
+        "location": "長崎市 浜町アーケード前鉄橋",
+        "lat": 32.744,
+        "lng": 129.878,
+        "region": "長崎県",
+        "municipality": "長崎市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "宮崎市 橘通りデパート前交差点",
+        "lat": 31.916,
+        "lng": 131.423,
+        "region": "宮崎県",
+        "municipality": "宮崎市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "宮崎市 宮崎駅西口",
+        "lat": 31.916,
+        "lng": 131.43,
+        "region": "宮崎県",
+        "municipality": "宮崎市",
+        "status": 0
+      }
+    ],
+    "id": "520667370"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "古川あおい",
+    "prefecture": "沖縄県",
+    "constituency": "比例九州",
+    "party": "チームみらい",
+    "image_path": "photos/260203_沖縄県_大分県_古川あおい.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "那覇 パレットくもじ前",
+        "lat": 26.214,
+        "lng": 127.679,
+        "region": "沖縄県",
+        "municipality": "那覇市",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "別府公園北交差点",
+        "lat": 33.282,
+        "lng": 131.493,
+        "region": "大分県",
+        "municipality": "別府市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "大分市 トキハ本店前",
+        "lat": 33.236,
+        "lng": 131.606,
+        "region": "大分県",
+        "municipality": "大分市",
+        "status": 0
+      }
+    ],
+    "id": "520667358"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "古川あおい",
+    "party": "チームみらい",
+    "image_path": "photos/260201_福岡県_古川あおい.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "博多駅博多口",
+        "lat": 33.5897,
+        "lng": 130.4206,
+        "region": "福岡県",
+        "municipality": "福岡市博多区",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "大濠公園",
+        "lat": 33.5847,
+        "lng": 130.3764,
+        "region": "福岡県",
+        "municipality": "福岡市中央区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "PayPayドーム付近",
+        "lat": 33.5954,
+        "lng": 130.3622,
+        "region": "福岡県",
+        "municipality": "福岡市中央区",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "ららぽーとガンダム前",
+        "lat": 33.5623,
+        "lng": 130.4439,
+        "region": "福岡県",
+        "municipality": "福岡市博多区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "警固公園",
+        "lat": 33.5888,
+        "lng": 130.4005,
+        "region": "福岡県",
+        "municipality": "福岡市中央区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "福岡県",
+    "constituency": "比例九州ブロック",
+    "id": "520667220"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "古川あおい",
+    "prefecture": "福岡県",
+    "constituency": "比例九州ブロック",
+    "party": "チームみらい",
+    "image_path": "photos/260131_福岡県_古川あおい.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "大濠公園 (郵便局前)",
+        "region": "福岡県",
+        "municipality": "福岡市中央区",
+        "lat": 33.5859,
+        "lng": 130.3763,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "イオンモール香椎浜",
+        "region": "福岡県",
+        "municipality": "福岡市東区",
+        "lat": 33.661,
+        "lng": 130.432,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "新宮IKEA前",
+        "region": "福岡県",
+        "municipality": "新宮町",
+        "lat": 33.708,
+        "lng": 130.444,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "警固公園前",
+        "region": "福岡県",
+        "municipality": "福岡市中央区",
+        "lat": 33.5882,
+        "lng": 130.3994,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "博多駅博多口",
+        "region": "福岡県",
+        "municipality": "福岡市博多区",
+        "lat": 33.5902,
+        "lng": 130.4207,
+        "status": 0
+      }
+    ],
+    "id": "520667173"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "古川あおい",
+    "prefecture": "福岡県",
+    "constituency": "比例九州ブロック",
+    "party": "チームみらい",
+    "image_path": "photos/260130_福岡県_古川あおい.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "博多駅 博多口",
+        "region": "福岡県",
+        "municipality": "福岡市博多区",
+        "lat": 33.5902,
+        "lng": 130.4207,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "JR佐賀駅",
+        "region": "佐賀県",
+        "municipality": "佐賀市",
+        "lat": 33.264,
+        "lng": 130.298,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "西鉄久留米駅 東口ロータリー",
+        "region": "福岡県",
+        "municipality": "久留米市",
+        "lat": 33.313,
+        "lng": 130.521,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "西鉄久留米駅前 アーケード入り口付近",
+        "region": "福岡県",
+        "municipality": "久留米市",
+        "lat": 33.313,
+        "lng": 130.521,
+        "status": 0
+      }
+    ],
+    "id": "520667165"
+  }
+]

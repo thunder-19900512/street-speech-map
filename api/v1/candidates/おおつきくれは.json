@@ -1,0 +1,40 @@
+[
+  {
+    "date": "2026-01-27",
+    "candidate": "おおつきくれは",
+    "prefecture": "北海道",
+    "constituency": "北海道4区",
+    "party": "中道改革連合",
+    "image_path": "photos/260127_北海道_おおつきくれは.jpeg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "北洋銀行前 (俱知安)",
+        "lat": 42.9011,
+        "lng": 140.7456,
+        "region": "北海道",
+        "municipality": "俱知安町",
+        "status": 0
+      },
+      {
+        "time": "13:45",
+        "location": "らぶちゃんホール前 (蘭越)",
+        "lat": 42.8028,
+        "lng": 140.5283,
+        "region": "北海道",
+        "municipality": "蘭越町",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "共和町勤労者会館",
+        "lat": 42.9867,
+        "lng": 140.6133,
+        "region": "北海道",
+        "municipality": "共和町",
+        "status": 0
+      }
+    ],
+    "id": "1771153319928879"
+  }
+]

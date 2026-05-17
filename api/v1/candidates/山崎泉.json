@@ -1,0 +1,236 @@
+[
+  {
+    "date": "2026-02-07",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260207_北海道_山崎泉.jpg",
+    "schedule": [
+      {
+        "time": "19:00",
+        "location": "北24条駅前",
+        "lat": 43.0894,
+        "lng": 141.3458,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937130"
+  },
+  {
+    "date": "2026-02-06",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260206_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "12:00",
+        "location": "札幌市内遊説",
+        "lat": 43.06,
+        "lng": 141.35,
+        "region": "北海道",
+        "municipality": "札幌市",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937583"
+  },
+  {
+    "date": "2026-02-05",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260205_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "札幌三越前",
+        "lat": 43.0594,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "イオン札幌麻生店",
+        "lat": 43.1008,
+        "lng": 141.3364,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937162"
+  },
+  {
+    "date": "2026-02-04",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260204_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "18:30",
+        "location": "イオン札幌麻生店",
+        "lat": 43.1008,
+        "lng": 141.3364,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937387"
+  },
+  {
+    "date": "2026-02-02",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260202_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "北24条駅前",
+        "lat": 43.0894,
+        "lng": 141.3458,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937377"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260131_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "11:20",
+        "location": "栄町駅前",
+        "lat": 43.1114,
+        "lng": 141.3653,
+        "region": "北海道",
+        "municipality": "札幌市東区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "イオン札幌麻生店",
+        "lat": 43.1008,
+        "lng": 141.3364,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319936420"
+  },
+  {
+    "date": "2026-01-30",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260130_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "13:45",
+        "location": "札幌三越",
+        "lat": 43.0594,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "麻生イオン",
+        "lat": 43.1008,
+        "lng": 141.3364,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "栄町駅前",
+        "lat": 43.1114,
+        "lng": 141.3653,
+        "region": "北海道",
+        "municipality": "札幌市東区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319936245"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の會",
+    "image_path": "photos/260129_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "北18条駅前",
+        "lat": 43.0794,
+        "lng": 141.3486,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "元町駅前",
+        "lat": 43.0906,
+        "lng": 141.3653,
+        "region": "北海道",
+        "municipality": "札幌市東区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319936433"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "山崎泉",
+    "prefecture": "北海道",
+    "constituency": "北海道2区",
+    "party": "日本維新の会",
+    "image_path": "photos/260128_北海道_山崎泉.jpeg",
+    "schedule": [
+      {
+        "time": "13:30",
+        "location": "麻生駅前",
+        "lat": 43.10945016368527,
+        "lng": 141.33808672428134,
+        "region": "北海道",
+        "municipality": "札幌市北区",
+        "status": 2
+      },
+      {
+        "time": "19:00",
+        "location": "環状通東駅前",
+        "lat": 43.08227731338012,
+        "lng": 141.37463450431827,
+        "region": "北海道",
+        "municipality": "札幌市東区",
+        "status": 2
+      }
+    ],
+    "id": "1771153319936704"
+  }
+]

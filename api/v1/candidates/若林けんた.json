@@ -1,0 +1,188 @@
+[
+  {
+    "date": "2026-02-01",
+    "candidate": "若林けんた",
+    "party": "自由民主党",
+    "image_path": "photos/260201_長野県_若林けんた.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "綿内中町区公民館",
+        "lat": 36.634,
+        "lng": 138.273,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "11:20",
+        "location": "A・コープ ファーマーズ 南長野店付近",
+        "lat": 36.571,
+        "lng": 138.188,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "篠ノ井交流センター",
+        "lat": 36.576,
+        "lng": 138.163,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "13:00",
+        "location": "更北商工会",
+        "lat": 36.602,
+        "lng": 138.18,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "13:30",
+        "location": "更北公民館稲里分館",
+        "lat": 36.604,
+        "lng": 138.176,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "14:00",
+        "location": "更北・川中島連絡所",
+        "lat": 36.606,
+        "lng": 138.167,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "14:30",
+        "location": "真島公民館",
+        "lat": 36.594,
+        "lng": 138.204,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "15:30",
+        "location": "柳原交流センター",
+        "lat": 36.657,
+        "lng": 138.261,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "16:30",
+        "location": "ツルヤ徳間店前付近",
+        "lat": 36.681,
+        "lng": 138.226,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "長野駅前 善光寺口",
+        "lat": 36.643,
+        "lng": 138.188,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "三輪公民館",
+        "lat": 36.662,
+        "lng": 138.203,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "18:30",
+        "location": "吉田公民館",
+        "lat": 36.671,
+        "lng": 138.219,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      },
+      {
+        "time": "18:35",
+        "location": "緑町公民館",
+        "lat": 36.649,
+        "lng": 138.192,
+        "region": "長野県",
+        "municipality": "長野市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "長野県",
+    "constituency": "長野1区",
+    "id": "520667326"
+  },
+  {
+    "id": "17432",
+    "image_path": "photos/260130_長野県_若林けんた.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "若林けんた",
+    "constituency": "長野1区",
+    "prefecture": "長野県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "17:00",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "TOiGO前 バス停付近",
+        "lat": 36.649,
+        "lng": 138.188,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "長野駅前 善光寺口",
+        "lat": 36.643,
+        "lng": 138.188,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "上駒沢会館",
+        "lat": 36.696,
+        "lng": 138.232,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "若槻東条会館",
+        "lat": 36.685,
+        "lng": 138.204,
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "region": "長野市",
+        "municipality": "長野市",
+        "location": "浅川公民館",
+        "lat": 36.685,
+        "lng": 138.185,
+        "status": 0
+      }
+    ]
+  }
+]

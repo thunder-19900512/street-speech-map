@@ -1,0 +1,76 @@
+[
+  {
+    "date": "2026-02-02",
+    "candidate": "佐々木あけみ",
+    "prefecture": "北海道",
+    "constituency": "北海道4区",
+    "party": "日本共産党",
+    "image_path": "photos/260202_北海道_佐々木あけみ.jpeg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "ラルズマート余市西部店前",
+        "lat": 43.1817,
+        "lng": 140.79,
+        "region": "北海道",
+        "municipality": "余市町",
+        "status": 0
+      },
+      {
+        "time": "09:40",
+        "location": "北海道信用金庫古平支店前",
+        "lat": 43.2667,
+        "lng": 140.6333,
+        "region": "北海道",
+        "municipality": "古平町",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "余市中央公民館",
+        "lat": 43.1817,
+        "lng": 140.7917,
+        "region": "北海道",
+        "municipality": "余市町",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "小樽 梅広会館",
+        "lat": 43.19,
+        "lng": 141,
+        "region": "北海道",
+        "municipality": "小樽市",
+        "status": 0
+      },
+      {
+        "time": "14:20",
+        "location": "小樽 緑上部会館",
+        "lat": 43.195,
+        "lng": 140.99,
+        "region": "北海道",
+        "municipality": "小樽市",
+        "status": 0
+      },
+      {
+        "time": "15:20",
+        "location": "小樽 朝里町会事務所",
+        "lat": 43.175,
+        "lng": 141.0667,
+        "region": "北海道",
+        "municipality": "小樽市",
+        "status": 0
+      },
+      {
+        "time": "17:50",
+        "location": "小樽 銭函 豊足神社",
+        "lat": 43.1417,
+        "lng": 141.1583,
+        "region": "北海道",
+        "municipality": "小樽市",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937329"
+  }
+]

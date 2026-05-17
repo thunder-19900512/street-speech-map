@@ -1,0 +1,221 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "小林史明",
+    "prefecture": "広島県",
+    "constituency": "広島6区",
+    "party": "自由民主党",
+    "image_path": "photos/260207_広島県_小林史明.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "ハローズ駅家モール店前",
+        "lat": 34.5458,
+        "lng": 133.3242,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "フジグラン神辺 道上2号公園",
+        "lat": 34.5458,
+        "lng": 133.3914,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "緑町ココローズ 北西交差点",
+        "lat": 34.4786,
+        "lng": 133.3653,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "ポートプラザ 北東交差点",
+        "lat": 34.4859,
+        "lng": 133.3769,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "トライアングル広場",
+        "lat": 34.4883,
+        "lng": 133.3617,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "福山駅北口広場",
+        "lat": 34.4894,
+        "lng": 133.3617,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      }
+    ],
+    "id": "17710689544458"
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "小林史明",
+    "prefecture": "広島県",
+    "constituency": "広島6区",
+    "party": "自由民主党",
+    "image_path": "photos/260201_広島県_小林史明.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "フジグラン神辺 道上2号公園",
+        "lat": 34.5458,
+        "lng": 133.3914,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "JA福山市 神村支店",
+        "lat": 34.4608,
+        "lng": 133.31,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "ポートプラザ 交差点",
+        "lat": 34.4859,
+        "lng": 133.3769,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "緑町ココローズ 交差点",
+        "lat": 34.4786,
+        "lng": 133.3653,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      }
+    ],
+    "id": "17710689544457"
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "小林史明",
+    "prefecture": "広島県",
+    "constituency": "広島6区",
+    "party": "自由民主党",
+    "image_path": "photos/260128_広島県_小林史明.jpg",
+    "schedule": [
+      {
+        "time": "12:15",
+        "location": "景勝館前",
+        "lat": 34.3828,
+        "lng": 133.3828,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "location": "あんず広場",
+        "lat": 34.4078,
+        "lng": 133.3769,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "緑町ココローズ 交差点",
+        "lat": 34.4786,
+        "lng": 133.3653,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      }
+    ],
+    "id": "17710689544454"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "小林史明",
+    "prefecture": "広島県",
+    "constituency": "広島6区",
+    "party": "自由民主党",
+    "image_path": "photos/260127_広島県_小林史明.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "入船交流広場",
+        "lat": 34.4859,
+        "lng": 133.3769,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "水呑町 宇田事務所駐車場",
+        "lat": 34.4633,
+        "lng": 133.3683,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "ニチエー さんらいず店前",
+        "lat": 34.455,
+        "lng": 133.2833,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "ハート新市店跡地",
+        "lat": 34.55,
+        "lng": 133.2833,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "駅家公園",
+        "lat": 34.5458,
+        "lng": 133.3242,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "神辺商工文化センター前",
+        "lat": 34.5417,
+        "lng": 133.4083,
+        "region": "広島県",
+        "municipality": "福山市",
+        "status": 0
+      }
+    ],
+    "id": "17710689544452"
+  }
+]

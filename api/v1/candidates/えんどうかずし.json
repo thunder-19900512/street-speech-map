@@ -1,0 +1,19 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "えんどうかずし",
+    "prefecture": "山形県",
+    "constituency": "山形3区",
+    "party": "参政党",
+    "image_path": "photos/260207_山形県_えんどうかずし.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "26831099541292"
+  }
+]

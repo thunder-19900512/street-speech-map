@@ -1,0 +1,358 @@
+[
+  {
+    "date": "2026-02-01",
+    "candidate": "玉ほりりえ",
+    "party": "日本共産党",
+    "image_path": "photos/260201_千葉県_玉ほりりえ.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "船橋南口",
+        "lat": 35.7,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "JR船橋駅南口",
+        "lat": 35.7,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "船橋北口",
+        "lat": 35.702200111323016,
+        "lng": 139.98532533645633,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "id": "520667314"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "玉ほりりえ",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "日本共産党",
+    "image_path": "photos/260131_千葉県_玉ほりりえ.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "市川駅北口",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.729396133311596,
+        "lng": 139.90781486034396,
+        "status": 2
+      },
+      {
+        "time": "14:00",
+        "location": "本八幡駅北口",
+        "region": "千葉県",
+        "municipality": "市川市",
+        "lat": 35.7209,
+        "lng": 139.927,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "下総中山駅",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7142,
+        "lng": 139.9431,
+        "status": 0
+      }
+    ],
+    "id": "520667152"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "玉ほりりえ",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "日本共産党",
+    "image_path": "photos/260130_千葉県_玉ほりりえ.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "金杉台団地郵便局前",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7411,
+        "lng": 140.0075,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "夏見台ヨークマート脇",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7222,
+        "lng": 139.988,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "船橋法典駅",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7303,
+        "lng": 139.9667,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "船橋駅南口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      }
+    ],
+    "id": "520667146"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "玉ほりりえ",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "日本共産党",
+    "image_path": "photos/260129_千葉県_玉ほりりえ.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "南船橋駅",
+        "lat": 35.6811,
+        "lng": 139.9961,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "若松団地中央広場",
+        "lat": 35.687,
+        "lng": 139.993,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "船橋市役所前",
+        "lat": 35.6947,
+        "lng": 139.9826,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "location": "南浜ファミリークリニック",
+        "lat": 35.6964,
+        "lng": 139.979,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "西船グリーンハイツ",
+        "lat": 35.71,
+        "lng": 139.957,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "海神市営住宅",
+        "lat": 35.708,
+        "lng": 139.972,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "西船橋駅北口",
+        "lat": 35.7072,
+        "lng": 139.9592,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667184"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "玉ほりりえ",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "日本共産党",
+    "image_path": "photos/260128_千葉県_玉ほりりえ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "下総中山駅北口",
+        "lat": 35.7142,
+        "lng": 139.9431,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "鬼高ショップス前",
+        "lat": 35.714,
+        "lng": 139.9384,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "10:40",
+        "location": "市川ハイツ前",
+        "lat": 35.743,
+        "lng": 139.94,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "11:20",
+        "location": "コルトンプラザ噴水側",
+        "lat": 35.717,
+        "lng": 139.932,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "大町第2団地",
+        "lat": 35.7746,
+        "lng": 139.9611,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "15:20",
+        "location": "マルエツ大野店",
+        "lat": 35.7464,
+        "lng": 139.9547,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "16:10",
+        "location": "福太郎南大野店",
+        "lat": 35.7433,
+        "lng": 139.9516,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "下総中山駅",
+        "lat": 35.7142,
+        "lng": 139.9431,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667180"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "玉ほりりえ",
+    "prefecture": "千葉県",
+    "constituency": "千葉4区",
+    "party": "日本共産党",
+    "image_path": "photos/260127_千葉県_玉ほりりえ.jpg",
+    "schedule": [
+      {
+        "time": "14:00",
+        "location": "西船橋北口",
+        "lat": 35.7072,
+        "lng": 139.9592,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "ふなっこ畑",
+        "lat": 35.7206,
+        "lng": 139.9708,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "馬込沢駅",
+        "lat": 35.7417,
+        "lng": 139.9922,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "船橋北口",
+        "lat": 35.702187362100645,
+        "lng": 139.98543262481692,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 2
+      }
+    ],
+    "id": "520667178"
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "玉ほりりえ",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "不明",
+    "image_path": "photos/260201_千葉県_玉ほりりえ_2.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "21340659666095"
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "date": "2026-02-07",
+    "candidate": "加藤貴弘",
+    "prefecture": "北海道",
+    "constituency": "北海道1区",
+    "party": "自由民主党",
+    "image_path": "photos/260207_北海道_加藤貴弘.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "マンボウ西野店",
+        "lat": 43.0767,
+        "lng": 141.2667,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "地下鉄琴似駅",
+        "lat": 43.0767,
+        "lng": 141.3017,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "徒歩遊説",
+        "lat": 43.055,
+        "lng": 141.35,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "16:45",
+        "location": "イオン札幌藻岩店",
+        "lat": 43.0117,
+        "lng": 141.3333,
+        "region": "北海道",
+        "municipality": "札幌市南区",
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "地下鉄澄川駅",
+        "lat": 43.0167,
+        "lng": 141.3667,
+        "region": "北海道",
+        "municipality": "札幌市南区",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "三越前",
+        "lat": 43.0594,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937718"
+  },
+  {
+    "date": "2026-02-06",
+    "candidate": "加藤貴弘",
+    "prefecture": "北海道",
+    "constituency": "北海道1区",
+    "party": "自由民主党",
+    "image_path": "photos/260206_北海道_加藤貴弘.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "ふくい会館",
+        "lat": 43.0533,
+        "lng": 141.2583,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "円山北町会館",
+        "lat": 43.0683,
+        "lng": 141.3083,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "桑園ふれあいセンター",
+        "lat": 43.065,
+        "lng": 141.33,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "西町会館",
+        "lat": 43.0767,
+        "lng": 141.275,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937186"
+  },
+  {
+    "date": "2026-02-04",
+    "candidate": "加藤貴弘",
+    "prefecture": "北海道",
+    "constituency": "北海道1区",
+    "party": "自由民主党",
+    "image_path": "photos/260204_北海道_加藤貴弘.jpg",
+    "schedule": [
+      {
+        "time": "12:00",
+        "location": "自民党藤野支部",
+        "lat": 42.975,
+        "lng": 141.2833,
+        "region": "北海道",
+        "municipality": "札幌市南区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "三越前",
+        "lat": 43.0594,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "15:10",
+        "location": "すすきのサツドラ前",
+        "lat": 43.055,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "琴似・山の手自民党支部",
+        "lat": 43.0783,
+        "lng": 141.3033,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937479"
+  },
+  {
+    "date": "2026-02-02",
+    "candidate": "加藤貴弘",
+    "prefecture": "北海道",
+    "constituency": "北海道1区",
+    "party": "自由民主党",
+    "image_path": "photos/260202_北海道_加藤貴弘.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "藻岩北会館",
+        "lat": 43.0117,
+        "lng": 141.3333,
+        "region": "北海道",
+        "municipality": "札幌市南区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "澄川地区会館",
+        "lat": 43.0167,
+        "lng": 141.3667,
+        "region": "北海道",
+        "municipality": "札幌市南区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "鉄工団地組合ホール",
+        "lat": 43.0833,
+        "lng": 141.2667,
+        "region": "北海道",
+        "municipality": "札幌市西区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937435"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "加藤貴弘",
+    "prefecture": "北海道",
+    "constituency": "北海道1区",
+    "party": "自由民主党",
+    "image_path": "photos/260131_北海道_加藤貴弘.jpg",
+    "schedule": [
+      {
+        "time": "15:40",
+        "location": "円山まちづくりセンター",
+        "lat": 43.055,
+        "lng": 141.3167,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "光明寺",
+        "lat": 43.0783,
+        "lng": 141.325,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      }
+    ],
+    "id": "17711533199364"
+  }
+]

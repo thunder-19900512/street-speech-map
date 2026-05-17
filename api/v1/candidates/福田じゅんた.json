@@ -1,0 +1,256 @@
+[
+  {
+    "date": "2026-02-01",
+    "candidate": "福田じゅんた",
+    "party": "中道改革連合",
+    "image_path": "photos/260201_長野県_福田じゅんた.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "小野駅",
+        "lat": 36.064,
+        "lng": 137.964,
+        "region": "長野県",
+        "municipality": "辰野町",
+        "status": 0
+      },
+      {
+        "time": "09:45",
+        "location": "辰野駅",
+        "lat": 35.984,
+        "lng": 137.997,
+        "region": "長野県",
+        "municipality": "辰野町",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "駒ヶ根市アルパ",
+        "lat": 35.736,
+        "lng": 137.935,
+        "region": "長野県",
+        "municipality": "駒ヶ根市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "id": "520667226"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "福田じゅんた",
+    "party": "中道改革連合",
+    "image_path": "photos/260131_長野県_福田じゅんた.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "三尋石団地",
+        "lat": 35.534,
+        "lng": 137.842,
+        "region": "長野県",
+        "municipality": "飯田市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "上山交差点",
+        "lat": 35.516,
+        "lng": 137.829,
+        "region": "長野県",
+        "municipality": "飯田市",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "伊那八幡駅前",
+        "lat": 35.502,
+        "lng": 137.838,
+        "region": "長野県",
+        "municipality": "飯田市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "高森町 福祉センター (個人演説会)",
+        "lat": 35.568,
+        "lng": 137.881,
+        "region": "長野県",
+        "municipality": "高森町",
+        "status": 2
+      }
+    ],
+    "day_of_week": "土",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "id": "520667332"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "福田じゅんた",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "party": "中道改革連合",
+    "image_path": "photos/260131_長野県_福田じゅんた.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "三尋石団地",
+        "region": "長野県",
+        "municipality": "飯田市",
+        "lat": 35.498,
+        "lng": 137.818,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "上山交差点",
+        "region": "長野県",
+        "municipality": "飯田市",
+        "lat": 35.495,
+        "lng": 137.825,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "伊那八幡駅前",
+        "region": "長野県",
+        "municipality": "飯田市",
+        "lat": 35.4967,
+        "lng": 137.8415,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "高森町 福祉センター",
+        "region": "長野県",
+        "municipality": "高森町",
+        "lat": 35.545,
+        "lng": 137.885,
+        "status": 0
+      }
+    ],
+    "id": "520667168"
+  },
+  {
+    "date": "2026-01-30",
+    "candidate": "福田じゅんた",
+    "party": "中道改革連合",
+    "image_path": "photos/260130_長野県_福田じゅんた.jpg",
+    "schedule": [
+      {
+        "time": "11:00",
+        "location": "道の駅 田切の里",
+        "lat": 35.696,
+        "lng": 137.931,
+        "region": "長野県",
+        "municipality": "飯島町",
+        "status": 0
+      }
+    ],
+    "day_of_week": "金",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "id": "520667333"
+  },
+  {
+    "id": "17441",
+    "image_path": "photos/260130_長野県_福田じゅんた.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "福田じゅんた",
+    "constituency": "長野県",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "11:00",
+        "region": "飯島町",
+        "municipality": "飯島町",
+        "location": "道の駅 田切の里",
+        "lat": 35.685,
+        "lng": 137.915,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "福田じゅんた",
+    "party": "中道改革連合",
+    "image_path": "photos/260129_長野県_福田じゅんた.jpg",
+    "schedule": [
+      {
+        "time": "15:00",
+        "location": "伊那市セントラルパーク",
+        "lat": 35.839,
+        "lng": 137.957,
+        "region": "長野県",
+        "municipality": "伊那市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "Aコープ あいぱんいいだ店前",
+        "lat": 35.498,
+        "lng": 137.813,
+        "region": "長野県",
+        "municipality": "飯田市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "木",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "id": "520667334"
+  },
+  {
+    "id": "S__64880643",
+    "image_path": "photos/260129_長野県_福田じゅんた.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "福田じゅんた",
+    "constituency": "長野県",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "15:00",
+        "region": "伊那市",
+        "municipality": "伊那市",
+        "location": "伊那市セントラルパーク",
+        "lat": 35.84049033238892,
+        "lng": 137.96004831790927,
+        "status": 2
+      },
+      {
+        "time": "17:00",
+        "region": "飯田市",
+        "municipality": "飯田市",
+        "location": "Aコープあいぱんいいだ店前",
+        "lat": 35.5218,
+        "lng": 137.8226,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "福田じゅんた",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "party": "不明",
+    "image_path": "photos/260201_長野県_福田じゅんた_2.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "33958431661437"
+  }
+]

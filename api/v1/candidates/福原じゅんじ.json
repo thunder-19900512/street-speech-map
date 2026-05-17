@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1779016772497",
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "福原じゅんじ",
+    "prefecture": "秋田県",
+    "constituency": "秋田2区",
+    "party": "自民党",
+    "image_path": "photos/260205_秋田県_福原じゅんじ.jpeg",
+    "schedule": [
+      {
+        "time": "12:20",
+        "location": "道の駅かみこあに",
+        "lat": 40.0633544,
+        "lng": 140.2972457,
+        "status": 0
+      }
+    ]
+  }
+]

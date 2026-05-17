@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "古川あおい ギア+",
+    "prefecture": "福岡県",
+    "constituency": "福岡県",
+    "party": "不明",
+    "image_path": "photos/260127_福岡県_古川あおい ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "11603102867244"
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "古川あおい ギア+",
+    "prefecture": "福岡県",
+    "constituency": "福岡県",
+    "party": "不明",
+    "image_path": "photos/260128_福岡県_古川あおい ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "21893721445364"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "古川あおい ギア+",
+    "prefecture": "鹿児島県",
+    "constituency": "鹿児島県",
+    "party": "不明",
+    "image_path": "photos/260129_鹿児島県_古川あおい ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "25341108780892"
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "古川あおい ギア+",
+    "prefecture": "沖縄県",
+    "constituency": "沖縄県",
+    "party": "不明",
+    "image_path": "photos/260202_沖縄県_古川あおい ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "54438019667926"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "古川あおい ギア+",
+    "prefecture": "長崎県・宮崎県",
+    "constituency": "長崎県・宮崎県",
+    "party": "不明",
+    "image_path": "photos/260204_長崎県・宮崎県_古川あおい ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "23108219676761"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "古川あおい ギア+",
+    "prefecture": "鹿児島県・福岡県",
+    "constituency": "鹿児島県・福岡県",
+    "party": "不明",
+    "image_path": "photos/260205_鹿児島県・福岡県_古川あおい ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "79255593173850"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "古川あおい ギア+",
+    "prefecture": "福岡県",
+    "constituency": "福岡県",
+    "party": "不明",
+    "image_path": "photos/260206_福岡県_古川あおい ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "19149891740043"
+  }
+]

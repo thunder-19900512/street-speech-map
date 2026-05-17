@@ -1,0 +1,257 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "たじま要",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "party": "中道改革連合",
+    "image_path": "photos/260202_千葉県_たじま要.jpg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "海浜幕張駅",
+        "lat": 35.648,
+        "lng": 140.042,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "ヤオコー検見川浜店前",
+        "lat": 35.638,
+        "lng": 140.059,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "17:50",
+        "location": "検見川浜駅",
+        "lat": 35.637,
+        "lng": 140.059,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "稲毛海岸駅",
+        "lat": 35.629,
+        "lng": 140.073,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      }
+    ],
+    "id": "520667349"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "たじま要",
+    "party": "中道改革連合",
+    "image_path": "photos/260201_千葉県_たじま要.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "日高屋千葉富士見店前",
+        "lat": 35.611,
+        "lng": 140.118,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "千葉駅そごう口",
+        "lat": 35.612,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "海浜幕張駅",
+        "lat": 35.648,
+        "lng": 140.041,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "稲毛海岸駅",
+        "lat": 35.628,
+        "lng": 140.073,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "19:20",
+        "location": "稲毛駅(東口)",
+        "lat": 35.637,
+        "lng": 140.092,
+        "region": "千葉県",
+        "municipality": "千葉市稲毛区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667301"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "たじま要",
+    "party": "中道改革連合",
+    "image_path": "photos/260131_千葉県_たじま要.jpg",
+    "schedule": [
+      {
+        "time": "15:00",
+        "location": "千葉駅ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "15:40",
+        "location": "千葉駅そごう口",
+        "lat": 35.612,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "日高屋前(千葉富士見店)",
+        "lat": 35.611,
+        "lng": 140.118,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "17:40",
+        "location": "稲毛海岸駅",
+        "lat": 35.628,
+        "lng": 140.073,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "location": "千葉駅そごう口",
+        "lat": 35.612,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "土",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667302"
+  },
+  {
+    "date": "2026-01-30",
+    "candidate": "たじま要",
+    "party": "中道改革連合",
+    "image_path": "photos/260130_千葉県_たじま要_2.png",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "本千葉駅",
+        "lat": 35.601,
+        "lng": 140.121,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "09:50",
+        "location": "ビックカメラ前",
+        "lat": 35.613,
+        "lng": 140.112,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "10:40",
+        "location": "そごう口",
+        "lat": 35.612,
+        "lng": 140.113,
+        "region": "千葉県",
+        "municipality": "千葉市中央区",
+        "status": 0
+      },
+      {
+        "time": "11:40",
+        "location": "稲毛海岸駅",
+        "lat": 35.628,
+        "lng": 140.073,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "location": "稲毛駅(東口)",
+        "lat": 35.637,
+        "lng": 140.092,
+        "region": "千葉県",
+        "municipality": "千葉市稲毛区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "海浜幕張駅",
+        "lat": 35.648,
+        "lng": 140.041,
+        "region": "千葉県",
+        "municipality": "千葉市美浜区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "金",
+    "prefecture": "千葉県",
+    "constituency": "千葉1区",
+    "id": "520667303"
+  }
+]

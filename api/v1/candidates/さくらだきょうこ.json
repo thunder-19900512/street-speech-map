@@ -1,0 +1,53 @@
+[
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "さくらだきょうこ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260205_山形県_さくらだきょうこ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "18735899178497"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "さくらだきょうこ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260206_山形県_さくらだきょうこ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "50705057623407"
+  },
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "さくらだきょうこ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260207_山形県_さくらだきょうこ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "27581694679806"
+  }
+]

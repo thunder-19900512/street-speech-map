@@ -1,0 +1,34 @@
+[
+  {
+    "id": "S__17366",
+    "image_path": "photos/260127_長野県_下条みつ.jpg",
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "下条みつ",
+    "constituency": "長野2区",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "松本駅お城口広場",
+        "lat": 36.23127664290772,
+        "lng": 137.96524865034962,
+        "status": 2
+      },
+      {
+        "time": "17:10",
+        "region": "松本市",
+        "municipality": "松本市",
+        "location": "松本駅お城口広場",
+        "lat": 36.2312883208319,
+        "lng": 137.9652722157589,
+        "status": 2
+      }
+    ],
+    "early_voting": "1/28(水)〜2/7(土)",
+    "election_day": "2026-02-08"
+  }
+]

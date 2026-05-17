@@ -1,0 +1,343 @@
+[
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "武藤かず子",
+    "prefecture": "埼玉県",
+    "constituency": "比例北関東",
+    "party": "チームみらい",
+    "image_path": "photos/260206_埼玉県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "和光市駅 南口",
+        "lat": 35.7885,
+        "lng": 139.6125,
+        "region": "埼玉県",
+        "municipality": "和光市",
+        "status": 0
+      },
+      {
+        "time": "10:15",
+        "location": "朝霞台駅 北口・北朝霞駅 東口",
+        "lat": 35.8149,
+        "lng": 139.5869,
+        "region": "埼玉県",
+        "municipality": "朝霞市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "武蔵浦和駅 東口",
+        "lat": 35.8454,
+        "lng": 139.6472,
+        "region": "埼玉県",
+        "municipality": "さいたま市南区",
+        "status": 0
+      },
+      {
+        "time": "12:45",
+        "location": "川口駅 東口",
+        "lat": 35.802,
+        "lng": 139.719,
+        "region": "埼玉県",
+        "municipality": "川口市",
+        "status": 0
+      }
+    ],
+    "id": "520667387"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "武藤かず子",
+    "prefecture": "埼玉県",
+    "constituency": "比例北関東",
+    "party": "チームみらい",
+    "image_path": "photos/260205_埼玉県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "さいたま新都心駅 東口",
+        "lat": 35.9081,
+        "lng": 139.6231,
+        "region": "埼玉県",
+        "municipality": "さいたま市大宮区",
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "春日部駅 西口",
+        "lat": 35.9789,
+        "lng": 139.7521,
+        "region": "埼玉県",
+        "municipality": "春日部市",
+        "status": 0
+      },
+      {
+        "time": "11:15",
+        "location": "久喜駅 西口",
+        "lat": 36.0655,
+        "lng": 139.6777,
+        "region": "埼玉県",
+        "municipality": "久喜市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "大宮駅 西口",
+        "lat": 35.9059,
+        "lng": 139.6229,
+        "region": "埼玉県",
+        "municipality": "さいたま市大宮区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "南浦和駅 西口",
+        "lat": 35.8464,
+        "lng": 139.6682,
+        "region": "埼玉県",
+        "municipality": "さいたま市南区",
+        "status": 0
+      },
+      {
+        "time": "17:15",
+        "location": "蕨駅 西口",
+        "lat": 35.8281,
+        "lng": 139.6896,
+        "region": "埼玉県",
+        "municipality": "蕨市",
+        "status": 0
+      }
+    ],
+    "id": "520667386"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "武藤かず子",
+    "prefecture": "埼玉県",
+    "constituency": "比例北関東",
+    "party": "チームみらい",
+    "image_path": "photos/260204_埼玉県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "所沢駅 東口ロータリー",
+        "lat": 35.787,
+        "lng": 139.474,
+        "region": "埼玉県",
+        "municipality": "所沢市",
+        "status": 0
+      },
+      {
+        "time": "09:15",
+        "location": "入間市駅 南口ロータリー",
+        "lat": 35.84,
+        "lng": 139.39,
+        "region": "埼玉県",
+        "municipality": "入間市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "飯能駅 北口",
+        "lat": 35.851,
+        "lng": 139.32,
+        "region": "埼玉県",
+        "municipality": "飯能市",
+        "status": 0
+      },
+      {
+        "time": "15:45",
+        "location": "川越駅 西口",
+        "lat": 35.907,
+        "lng": 139.482,
+        "region": "埼玉県",
+        "municipality": "川越市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "若葉駅 東口",
+        "lat": 35.949,
+        "lng": 139.41,
+        "region": "埼玉県",
+        "municipality": "鶴ヶ島市",
+        "status": 0
+      },
+      {
+        "time": "18:15",
+        "location": "川越駅 東口クレアモール前",
+        "lat": 35.908,
+        "lng": 139.484,
+        "region": "埼玉県",
+        "municipality": "川越市",
+        "status": 0
+      }
+    ],
+    "id": "520667372"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "武藤かず子",
+    "prefecture": "茨城県",
+    "constituency": "比例北関東",
+    "party": "チームみらい",
+    "image_path": "photos/260203_茨城県_埼玉県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "土浦駅西口",
+        "lat": 36.077,
+        "lng": 140.198,
+        "region": "茨城県",
+        "municipality": "土浦市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "つくば駅 A3出口",
+        "lat": 36.082,
+        "lng": 140.111,
+        "region": "茨城県",
+        "municipality": "つくば市",
+        "status": 0
+      },
+      {
+        "time": "13:15",
+        "location": "守谷駅 西口駅前広場",
+        "lat": 35.95,
+        "lng": 139.991,
+        "region": "茨城県",
+        "municipality": "守谷市",
+        "status": 0
+      },
+      {
+        "time": "15:15",
+        "location": "南越谷駅・新越谷駅 ロータリー",
+        "lat": 35.875,
+        "lng": 139.791,
+        "region": "埼玉県",
+        "municipality": "越谷市",
+        "status": 0
+      }
+    ],
+    "id": "520667340"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "武藤かず子",
+    "prefecture": "群馬県",
+    "constituency": "比例北関東ブロック",
+    "party": "チームみらい",
+    "image_path": "photos/260131_群馬県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "高崎駅東口",
+        "region": "群馬県",
+        "municipality": "高崎市",
+        "lat": 36.3225,
+        "lng": 139.015,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "大宮駅東口",
+        "region": "埼玉県",
+        "municipality": "さいたま市大宮区",
+        "lat": 35.9063,
+        "lng": 139.63,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "川越駅西口",
+        "region": "埼玉県",
+        "municipality": "川越市",
+        "lat": 35.907,
+        "lng": 139.482,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "所沢駅西口1階",
+        "region": "埼玉県",
+        "municipality": "所沢市",
+        "lat": 35.787,
+        "lng": 139.473,
+        "status": 0
+      },
+      {
+        "time": "16:45",
+        "location": "浦和駅東口パルコ前",
+        "region": "埼玉県",
+        "municipality": "さいたま市浦和区",
+        "lat": 35.859,
+        "lng": 139.658,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "南越谷駅・新越谷駅",
+        "region": "埼玉県",
+        "municipality": "越谷市",
+        "lat": 35.875,
+        "lng": 139.791,
+        "status": 0
+      }
+    ],
+    "id": "520667175"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "武藤かず子",
+    "prefecture": "群馬県",
+    "constituency": "比例北関東ブロック",
+    "party": "チームみらい",
+    "image_path": "photos/260129_群馬県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "高崎駅西口",
+        "region": "群馬県",
+        "municipality": "高崎市",
+        "lat": 36.3225,
+        "lng": 139.013,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "熊谷駅南口",
+        "region": "埼玉県",
+        "municipality": "熊谷市",
+        "lat": 36.139,
+        "lng": 139.39,
+        "status": 0
+      }
+    ],
+    "id": "520667164"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "武藤かず子",
+    "prefecture": "茨城県",
+    "constituency": "茨城県",
+    "party": "不明",
+    "image_path": "photos/260203_茨城県_武藤かず子.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "27229424011991"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "酒井ゆうすけ",
+    "prefecture": "京都府",
+    "constituency": "京都2区",
+    "party": "チームみらい",
+    "image_path": "photos/260206_京都府_酒井ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "山科駅",
+        "lat": 34.992,
+        "lng": 135.816,
+        "region": "京都府",
+        "municipality": "京都市山科区",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "椥辻駅",
+        "lat": 34.9727,
+        "lng": 135.8149,
+        "region": "京都府",
+        "municipality": "京都市山科区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "瓜芸前",
+        "lat": 35.0373,
+        "lng": 135.7922,
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "百万遍交差点",
+        "lat": 35.029,
+        "lng": 135.779,
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "山科駅",
+        "lat": 34.992,
+        "lng": 135.816,
+        "region": "京都府",
+        "municipality": "京都市山科区",
+        "status": 0
+      }
+    ],
+    "id": "520667402"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "酒井ゆうすけ",
+    "prefecture": "京都府",
+    "constituency": "京都2区",
+    "party": "チームみらい",
+    "image_path": "photos/260203_京都府_酒井ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "山科駅",
+        "lat": 34.992,
+        "lng": 135.816,
+        "region": "京都府",
+        "municipality": "京都市山科区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "百万遍交差点",
+        "lat": 35.029,
+        "lng": 135.779,
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "四条河原町 高島屋前",
+        "lat": 35.0036,
+        "lng": 135.769,
+        "region": "京都府",
+        "municipality": "京都市下京区",
+        "status": 0
+      }
+    ],
+    "id": "520667367"
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "酒井ゆうすけ",
+    "prefecture": "京都府",
+    "constituency": "京都2区",
+    "party": "チームみらい",
+    "image_path": "photos/260202_京都府_酒井ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "12:00",
+        "location": "百万遍交差点",
+        "lat": 35.029,
+        "lng": 135.779,
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "status": 0
+      }
+    ],
+    "id": "520667344"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "酒井ゆうすけ",
+    "party": "チームみらい",
+    "image_path": "photos/260201_京都府_酒井ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "七条駅前",
+        "lat": 34.9892,
+        "lng": 135.7686,
+        "region": "京都府",
+        "municipality": "京都市東山区",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "岡崎公園",
+        "lat": 35.0125,
+        "lng": 135.7825,
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "出町柳駅前",
+        "lat": 35.03,
+        "lng": 135.772,
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "国際会館駅前",
+        "lat": 35.0604,
+        "lng": 135.785,
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "京都府",
+    "constituency": "京都2区",
+    "id": "520667223"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "酒井ゆうすけ",
+    "prefecture": "京都府",
+    "constituency": "京都2区",
+    "party": "チームみらい",
+    "image_path": "photos/260131_京都府_酒井ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "出町柳駅前",
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "lat": 35.0304,
+        "lng": 135.773,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "百万遍交差点",
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "lat": 35.029,
+        "lng": 135.778,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "熊野神社前",
+        "region": "京都府",
+        "municipality": "京都市左京区",
+        "lat": 35.016,
+        "lng": 135.778,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "東福寺駅前",
+        "region": "京都府",
+        "municipality": "京都市東山区",
+        "lat": 34.981,
+        "lng": 135.77,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "山科駅前",
+        "region": "京都府",
+        "municipality": "京都市山科区",
+        "lat": 34.9912,
+        "lng": 135.8174,
+        "status": 0
+      }
+    ],
+    "id": "520667156"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "藤野やすふみ",
+    "prefecture": "長野県",
+    "constituency": "比例北陸信越",
+    "party": "日本共産党",
+    "image_path": "photos/260206_長野県_藤野やすふみ.jpg",
+    "schedule": [
+      {
+        "time": "10:50",
+        "location": "西友 駒ヶ根店前",
+        "lat": 35.7419,
+        "lng": 137.94,
+        "region": "長野県",
+        "municipality": "駒ヶ根市",
+        "status": 0
+      },
+      {
+        "time": "13:20",
+        "location": "道の駅 花の里いいじま",
+        "lat": 35.6618,
+        "lng": 137.91,
+        "region": "長野県",
+        "municipality": "飯島町",
+        "status": 0
+      },
+      {
+        "time": "14:40",
+        "location": "キラヤ 大島店前",
+        "lat": 35.5952,
+        "lng": 137.9143,
+        "region": "長野県",
+        "municipality": "松川町",
+        "status": 0
+      },
+      {
+        "time": "15:40",
+        "location": "進栄自動車工業前",
+        "lat": 35.5451,
+        "lng": 137.8766,
+        "region": "長野県",
+        "municipality": "高森町",
+        "status": 0
+      },
+      {
+        "time": "16:40",
+        "location": "とよおかマルシェ前",
+        "lat": 35.5444,
+        "lng": 137.8911,
+        "region": "長野県",
+        "municipality": "豊丘村",
+        "status": 0
+      },
+      {
+        "time": "17:15",
+        "location": "旧 養老乃瀧 喬木店前",
+        "lat": 35.5218,
+        "lng": 137.8763,
+        "region": "長野県",
+        "municipality": "喬木村",
+        "status": 0
+      }
+    ],
+    "id": "520667400"
+  }
+]

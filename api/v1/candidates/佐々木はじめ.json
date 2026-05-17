@@ -1,0 +1,153 @@
+[
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "佐々木はじめ",
+    "prefecture": "石川県",
+    "constituency": "石川2区",
+    "party": "自民党",
+    "image_path": "photos/260131_石川県_佐々木はじめ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "山和駐車場 (白峰)",
+        "lat": 36.142,
+        "lng": 136.622,
+        "status": 0
+      },
+      {
+        "time": "10:45",
+        "location": "バードハミング鳥越",
+        "lat": 36.322,
+        "lng": 136.582,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "池田病院 (野々市)",
+        "lat": 36.522,
+        "lng": 136.612,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "小松市民センター",
+        "lat": 36.402,
+        "lng": 136.452,
+        "status": 0
+      }
+    ],
+    "id": "520667204"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "佐々木はじめ",
+    "prefecture": "石川県",
+    "constituency": "石川2区",
+    "party": "自民党",
+    "image_path": "photos/260130_石川県_佐々木はじめ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "石川樹脂工業(株)",
+        "lat": 36.262,
+        "lng": 136.332,
+        "status": 0
+      },
+      {
+        "time": "08:20",
+        "location": "(株)エリオ",
+        "lat": 36.282,
+        "lng": 136.352,
+        "status": 0
+      },
+      {
+        "time": "15:40",
+        "location": "山中座",
+        "lat": 36.242,
+        "lng": 136.372,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "にぎわいの里ののいちカミーノ",
+        "lat": 36.532,
+        "lng": 136.612,
+        "status": 0
+      }
+    ],
+    "id": "520667202"
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "佐々木はじめ",
+    "prefecture": "石川県",
+    "constituency": "石川2区",
+    "party": "自民党",
+    "image_path": "photos/260129_石川県_佐々木はじめ.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "道の駅めぐみ白山",
+        "lat": 36.522,
+        "lng": 136.552,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "グランドホテル白山",
+        "lat": 36.512,
+        "lng": 136.562,
+        "status": 0
+      }
+    ],
+    "id": "520667216"
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "佐々木はじめ",
+    "prefecture": "石川県",
+    "constituency": "石川2区",
+    "party": "自民党",
+    "image_path": "photos/260128_石川県_佐々木はじめ.jpg",
+    "schedule": [
+      {
+        "time": "08:05",
+        "location": "福岡公民館前",
+        "lat": 36.442,
+        "lng": 136.522,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "JA加賀 本店",
+        "lat": 36.322,
+        "lng": 136.382,
+        "status": 0
+      }
+    ],
+    "id": "520667215"
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "火",
+    "candidate": "佐々木はじめ",
+    "prefecture": "石川県",
+    "constituency": "石川2区",
+    "party": "自民党",
+    "image_path": "photos/260127_石川県_佐々木はじめ.jpg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "ウレシャス小松 (こまつ北電ホール)",
+        "lat": 36.402,
+        "lng": 136.462,
+        "status": 0
+      }
+    ],
+    "id": "520667214"
+  }
+]

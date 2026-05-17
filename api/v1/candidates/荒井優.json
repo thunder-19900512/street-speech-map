@@ -1,0 +1,76 @@
+[
+  {
+    "date": "2026-02-07",
+    "candidate": "荒井優",
+    "prefecture": "北海道",
+    "constituency": "北海道3区",
+    "party": "中道改革連合",
+    "image_path": "photos/260207_北海道_荒井優.jpeg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "イオン南平岸店",
+        "lat": 43.0286,
+        "lng": 141.3592,
+        "region": "北海道",
+        "municipality": "札幌市豊平区",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "東光ストア豊平店",
+        "lat": 43.0483,
+        "lng": 141.3683,
+        "region": "北海道",
+        "municipality": "札幌市豊平区",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "スーパーアークス北野店前",
+        "lat": 43.0133,
+        "lng": 141.4333,
+        "region": "北海道",
+        "municipality": "札幌市清田区",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "フードD生鮮市場美しが丘店",
+        "lat": 42.9833,
+        "lng": 141.4483,
+        "region": "北海道",
+        "municipality": "札幌市清田区",
+        "status": 0
+      },
+      {
+        "time": "16:50",
+        "location": "ダイイチ白石神社前店",
+        "lat": 43.0333,
+        "lng": 141.4117,
+        "region": "北海道",
+        "municipality": "札幌市白石区",
+        "status": 0
+      },
+      {
+        "time": "18:10",
+        "location": "ツルハ菊水元町8条店",
+        "lat": 43.0767,
+        "lng": 141.4,
+        "region": "北海道",
+        "municipality": "札幌市白石区",
+        "status": 0
+      },
+      {
+        "time": "19:30",
+        "location": "地下鉄東札幌駅",
+        "lat": 43.0556,
+        "lng": 141.385,
+        "region": "北海道",
+        "municipality": "札幌市白石区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937790"
+  }
+]

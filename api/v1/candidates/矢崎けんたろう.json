@@ -1,0 +1,290 @@
+[
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "矢崎けんたろう",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "party": "中道改革連合",
+    "image_path": "photos/260202_千葉県_矢崎けんたろう.png",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "舞浜駅北口",
+        "lat": 35.637,
+        "lng": 139.883,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "浦安・中町付近",
+        "lat": 35.642,
+        "lng": 139.913,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "浦安市内",
+        "lat": 35.654,
+        "lng": 139.898,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "南行徳駅",
+        "lat": 35.672,
+        "lng": 139.902,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "新浦安駅前",
+        "lat": 35.65,
+        "lng": 139.912,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      }
+    ],
+    "id": "520667345"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "矢崎けんたろう",
+    "party": "中道改革連合",
+    "image_path": "photos/260131_千葉県_矢崎けんたろう.png",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "東西線浦安駅",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "本八幡北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "東西線浦安駅",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "土",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "id": "520667308"
+  },
+  {
+    "date": "2026-01-31",
+    "candidate": "矢崎けんたろう",
+    "party": "中道改革連合",
+    "image_path": "photos/260131_千葉県_矢崎けんたろう.png",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "東西線浦安駅",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "本八幡北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "東西線浦安駅",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "土",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "id": "520667315"
+  },
+  {
+    "date": "2026-01-30",
+    "candidate": "矢崎けんたろう",
+    "party": "中道改革連合",
+    "image_path": "photos/260130_千葉県_矢崎けんたろう.png",
+    "schedule": [
+      {
+        "time": "08:30",
+        "location": "新浦安駅",
+        "lat": 35.65,
+        "lng": 139.912,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "本八幡駅",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "金",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "id": "520667316"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "矢崎けんたろう",
+    "party": "中道改革連合",
+    "image_path": "photos/260128_千葉県_矢崎けんたろう.png",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "本八幡駅北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "新浦安駅南口デッキ上",
+        "lat": 35.65,
+        "lng": 139.912,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "17:50",
+        "location": "新浦安駅前（街頭演説会）",
+        "lat": 35.65,
+        "lng": 139.912,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "水",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "id": "520667317"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "矢崎けんたろう",
+    "party": "中道改革連合",
+    "image_path": "photos/260127_千葉県_矢崎けんたろう.png",
+    "schedule": [
+      {
+        "time": "10:00",
+        "location": "市川駅北口",
+        "lat": 35.729,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "本八幡駅北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "東西線浦安駅",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "新浦安駅南口",
+        "lat": 35.65,
+        "lng": 139.912,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "市川駅北口",
+        "lat": 35.729,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "行徳駅",
+        "lat": 35.683,
+        "lng": 139.914,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "新浦安駅南口",
+        "lat": 35.65,
+        "lng": 139.912,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "浦安駅前（街頭演説会）",
+        "lat": 35.666,
+        "lng": 139.894,
+        "region": "千葉県",
+        "municipality": "浦安市",
+        "status": 2
+      }
+    ],
+    "day_of_week": "火",
+    "prefecture": "千葉県",
+    "constituency": "千葉5区",
+    "id": "520667318"
+  }
+]

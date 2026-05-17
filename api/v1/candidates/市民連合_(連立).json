@@ -1,0 +1,32 @@
+[
+  {
+    "id": "17451",
+    "image_path": "photos/260131_福岡県_市民連合.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "市民連合 (連立)",
+    "constituency": "福岡県",
+    "prefecture": "福岡県",
+    "party": "野党共闘",
+    "schedule": [
+      {
+        "time": "14:00",
+        "region": "直方市",
+        "municipality": "直方市",
+        "location": "サンリブ直方店前",
+        "lat": 33.745,
+        "lng": 130.725,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "飯塚市",
+        "municipality": "飯塚市",
+        "location": "イオン穂波店前",
+        "lat": 33.626,
+        "lng": 130.681,
+        "status": 0
+      }
+    ]
+  }
+]

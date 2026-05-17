@@ -1,0 +1,89 @@
+[
+  {
+    "id": "17456",
+    "image_path": "photos/260131_福岡県_かわもと健.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "かわもと健",
+    "constituency": "福岡5区",
+    "prefecture": "福岡県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "11:00",
+        "region": "筑前町",
+        "municipality": "筑前町",
+        "location": "筑前町役場前",
+        "lat": 33.428,
+        "lng": 130.615,
+        "status": 0
+      },
+      {
+        "time": "12:30",
+        "region": "筑前町",
+        "municipality": "筑前町",
+        "location": "みなみの里前",
+        "lat": 33.452,
+        "lng": 130.635,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17439",
+    "image_path": "photos/260130_福岡県_かわもと健.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "かわもと健",
+    "constituency": "福岡5区",
+    "prefecture": "福岡県",
+    "party": "国民民主党",
+    "schedule": [
+      {
+        "time": "12:30",
+        "region": "大野城市",
+        "municipality": "大野城市",
+        "location": "大野城市役所前",
+        "lat": 33.535,
+        "lng": 130.478,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "イオンモール筑紫野前",
+        "lat": 33.475,
+        "lng": 130.542,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "朝倉街道駅前",
+        "lat": 33.486,
+        "lng": 130.548,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "西鉄二日市駅西口前",
+        "lat": 33.499,
+        "lng": 130.518,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "region": "筑紫野市",
+        "municipality": "筑紫野市",
+        "location": "イオン二日市店前",
+        "lat": 33.5,
+        "lng": 130.525,
+        "status": 0
+      }
+    ]
+  }
+]

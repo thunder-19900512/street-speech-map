@@ -1,0 +1,113 @@
+[
+  {
+    "id": "17453",
+    "image_path": "photos/260131_福岡県_三原あさと.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "三原あさと",
+    "constituency": "福岡9区",
+    "prefecture": "福岡県",
+    "party": "自由民主党",
+    "schedule": [
+      {
+        "time": "09:45",
+        "region": "北九州市",
+        "municipality": "若松区",
+        "location": "ナフコひびきの前",
+        "lat": 33.882,
+        "lng": 130.715,
+        "status": 0
+      },
+      {
+        "time": "10:15",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "ゆめマート青山前",
+        "lat": 33.855,
+        "lng": 130.735,
+        "status": 0
+      },
+      {
+        "time": "11:45",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "竹末一丁目交差点",
+        "lat": 33.845,
+        "lng": 130.755,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "筒井町交差点",
+        "lat": 33.862,
+        "lng": 130.765,
+        "status": 0
+      },
+      {
+        "time": "13:20",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "高山質屋前交差点",
+        "lat": 33.858,
+        "lng": 130.782,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "上津役ヤマダ電機",
+        "lat": 33.835,
+        "lng": 130.765,
+        "status": 0
+      },
+      {
+        "time": "14:40",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "ドラモリ星ヶ丘交差点",
+        "lat": 33.825,
+        "lng": 130.755,
+        "status": 0
+      },
+      {
+        "time": "15:40",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "八幡南郵便局",
+        "lat": 33.845,
+        "lng": 130.785,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "穴生電停前",
+        "lat": 33.858,
+        "lng": 130.758,
+        "status": 0
+      },
+      {
+        "time": "16:40",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "本城トンネル前",
+        "lat": 33.875,
+        "lng": 130.745,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "region": "北九州市",
+        "municipality": "八幡西区",
+        "location": "折尾駅前",
+        "lat": 33.865,
+        "lng": 130.713,
+        "status": 0
+      }
+    ]
+  }
+]

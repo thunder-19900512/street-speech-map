@@ -1,0 +1,141 @@
+[
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "落合たくま",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "中道改革連合",
+    "image_path": "photos/260205_山形県_落合たくま.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "17099124531426"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "落合たくま",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "中道改革連合",
+    "image_path": "photos/260206_山形県_落合たくま.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "17273130194716"
+  },
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "落合たくま",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "中道改革連合",
+    "image_path": "photos/260207_山形県_落合たくま_1.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "主婦の店鶴岡店パル様前",
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "荘銀タクト鶴岡様前",
+        "status": 0
+      },
+      {
+        "time": "11:45",
+        "location": "酒田市肴町地内",
+        "status": 0
+      },
+      {
+        "time": "13:05",
+        "location": "めんたま畑様前",
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "八幡タウンセンター様前",
+        "status": 0
+      },
+      {
+        "time": "14:45",
+        "location": "遊佐エルパ様前",
+        "status": 0
+      },
+      {
+        "time": "15:15",
+        "location": "こぴあ コープ酒田様前",
+        "status": 0
+      },
+      {
+        "time": "15:40",
+        "location": "酒田海鮮市場様前",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "酒田市東中の口町地内",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "ト一屋みずほ通り店様前",
+        "status": 0
+      },
+      {
+        "time": "17:50",
+        "location": "旧清水屋様前",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "いろは蔵パーク様前",
+        "status": 0
+      },
+      {
+        "time": "19:50",
+        "location": "酒田市富士見町1丁目地内",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "ト一屋みずほ通り店様前",
+        "lat": 38.9058,
+        "lng": 139.8517,
+        "status": 0
+      },
+      {
+        "time": "17:50",
+        "location": "旧清水屋様前",
+        "lat": 38.9175,
+        "lng": 139.8383,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "いろは蔵パーク様前",
+        "lat": 38.9225,
+        "lng": 139.8358,
+        "status": 0
+      },
+      {
+        "time": "19:50",
+        "location": "酒田市富士見町1丁目地内",
+        "lat": 38.925,
+        "lng": 139.85,
+        "status": 0
+      }
+    ],
+    "id": "68352587934515"
+  }
+]

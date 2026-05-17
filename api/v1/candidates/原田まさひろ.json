@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "原田まさひろ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260206_山形県_原田まさひろ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "25420650912494"
+  },
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "原田まさひろ",
+    "prefecture": "山形県",
+    "constituency": "山形県",
+    "party": "国民民主党",
+    "image_path": "photos/260207_山形県_原田まさひろ.jpg",
+    "schedule": [
+      {
+        "time": "--:--",
+        "location": "街頭演説予定",
+        "status": 0
+      }
+    ],
+    "id": "10939905025483"
+  }
+]

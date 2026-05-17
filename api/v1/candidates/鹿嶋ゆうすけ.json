@@ -1,0 +1,243 @@
+[
+  {
+    "date": "2026-02-01",
+    "candidate": "鹿嶋ゆうすけ",
+    "party": "自由民主党",
+    "image_path": "photos/260201_千葉県_鹿嶋ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "15:30",
+        "location": "馬込沢駅",
+        "lat": 35.742,
+        "lng": 140.003,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "市川大野駅",
+        "lat": 35.755,
+        "lng": 139.953,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "本八幡駅北口",
+        "lat": 35.721,
+        "lng": 139.927,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "日",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "id": "520667311"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "鹿嶋ゆうすけ",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "自由民主党",
+    "image_path": "photos/260131_千葉県_鹿嶋ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "12:00",
+        "location": "新船橋駅",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7118,
+        "lng": 139.979,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "東船橋駅",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7,
+        "lng": 140.005,
+        "status": 0
+      },
+      {
+        "time": "17:30",
+        "location": "船橋駅南口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      }
+    ],
+    "id": "520667151"
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "鹿嶋ゆうすけ",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "自由民主党",
+    "image_path": "photos/260130_千葉県_鹿嶋ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "06:30",
+        "location": "西船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7072,
+        "lng": 139.9592,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "下総中山駅",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7142,
+        "lng": 139.9431,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "船橋駅南口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "西船橋駅北口",
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "lat": 35.7072,
+        "lng": 139.9592,
+        "status": 0
+      }
+    ],
+    "id": "520667145"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "鹿嶋ゆうすけ",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "自由民主党",
+    "image_path": "photos/260129_千葉県_鹿嶋ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "市川駅北口",
+        "lat": 35.7289,
+        "lng": 139.908,
+        "region": "千葉県",
+        "municipality": "市川市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "塚田駅",
+        "lat": 35.722,
+        "lng": 139.9828,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "船橋法典駅",
+        "lat": 35.7308,
+        "lng": 139.9666,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667185"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "鹿嶋ゆうすけ",
+    "party": "自由民主党",
+    "image_path": "photos/260128_千葉県_鹿嶋ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "06:30",
+        "location": "船橋駅",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "船橋駅",
+        "lat": 35.7017,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "南船橋駅",
+        "lat": 35.681,
+        "lng": 139.996,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "day_of_week": "水",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "id": "520667231"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "鹿嶋ゆうすけ",
+    "prefecture": "千葉県",
+    "constituency": "千葉県",
+    "party": "自由民主党",
+    "image_path": "photos/260127_千葉県_鹿嶋ゆうすけ.jpg",
+    "schedule": [
+      {
+        "time": "12:15",
+        "location": "JR船橋駅南口",
+        "lat": 35.701,
+        "lng": 139.985,
+        "region": "千葉県",
+        "municipality": "船橋市",
+        "status": 0
+      }
+    ],
+    "id": "520667186"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1779016772496",
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "村岡としひで",
+    "prefecture": "秋田県",
+    "constituency": "秋田県",
+    "party": "国民民主党",
+    "image_path": "photos/260207_秋田県_村岡としひで.jpeg",
+    "schedule": [
+      {
+        "time": "19:30",
+        "location": "羽後信用金庫 本店前",
+        "lat": 39.7186,
+        "lng": 140.1023,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1779016772498",
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "村岡としひで",
+    "prefecture": "秋田県",
+    "constituency": "秋田県",
+    "party": "国民民主党",
+    "image_path": "photos/260204_秋田県_村岡としひで.jpeg",
+    "schedule": [
+      {
+        "time": "15:20",
+        "location": "横手 イオン隣 JRAウィンズ横手正面",
+        "lat": 39.2986484,
+        "lng": 140.5524043,
+        "status": 0
+      }
+    ]
+  }
+]

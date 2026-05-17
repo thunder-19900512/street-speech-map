@@ -1,0 +1,394 @@
+[
+  {
+    "date": "2026-02-07",
+    "candidate": "和田よしあき",
+    "prefecture": "北海道",
+    "constituency": "北海道5区",
+    "party": "自由民主党",
+    "image_path": "photos/260207_北海道_和田よしあき.jpeg",
+    "schedule": [
+      {
+        "time": "07:00",
+        "location": "ホテルグランテラス千歳前",
+        "lat": 42.8278,
+        "lng": 141.6517,
+        "region": "北海道",
+        "municipality": "千歳市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "恵庭 アクロスプラザ恵庭",
+        "lat": 42.89,
+        "lng": 141.59,
+        "region": "北海道",
+        "municipality": "恵庭市",
+        "status": 0
+      },
+      {
+        "time": "11:50",
+        "location": "恵庭 恵庭駅前商店街",
+        "lat": 42.8833,
+        "lng": 141.5833,
+        "region": "北海道",
+        "municipality": "恵庭市",
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "恵庭 恵み野駅前商店街",
+        "lat": 42.9033,
+        "lng": 141.595,
+        "region": "北海道",
+        "municipality": "恵庭市",
+        "status": 0
+      },
+      {
+        "time": "13:20",
+        "location": "恵庭 コープさっぽろ恵み野店前",
+        "lat": 42.9056,
+        "lng": 141.595,
+        "region": "北海道",
+        "municipality": "恵庭市",
+        "status": 0
+      },
+      {
+        "time": "13:40",
+        "location": "恵庭 島松駅前商店街",
+        "lat": 42.9233,
+        "lng": 141.5833,
+        "region": "北海道",
+        "municipality": "恵庭市",
+        "status": 0
+      },
+      {
+        "time": "14:50",
+        "location": "すすきの周辺",
+        "lat": 43.0558,
+        "lng": 141.3533,
+        "region": "北海道",
+        "municipality": "札幌市中央区",
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "厚別 新札幌 カテプリ前",
+        "lat": 43.0391,
+        "lng": 141.4725,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      },
+      {
+        "time": "19:45",
+        "location": "厚別 和田よしあき事務所前",
+        "lat": 43.04,
+        "lng": 141.47,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937765"
+  },
+  {
+    "date": "2026-02-06",
+    "candidate": "和田よしあき",
+    "prefecture": "北海道",
+    "constituency": "北海道5区",
+    "party": "自由民主党",
+    "image_path": "photos/260206_北海道_和田よしあき.jpeg",
+    "schedule": [
+      {
+        "time": "06:45",
+        "location": "当別駅",
+        "lat": 43.223,
+        "lng": 141.516,
+        "region": "北海道",
+        "municipality": "当別町",
+        "status": 0
+      },
+      {
+        "time": "16:20",
+        "location": "老健のっぽろ駐車場",
+        "lat": 43.085,
+        "lng": 141.545,
+        "region": "北海道",
+        "municipality": "江別市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "江別市中央公民館",
+        "lat": 43.1056,
+        "lng": 141.56,
+        "region": "北海道",
+        "municipality": "江別市",
+        "status": 0
+      },
+      {
+        "time": "19:45",
+        "location": "株式会社マルマツ前",
+        "lat": 43.0683,
+        "lng": 141.5033,
+        "region": "北海道",
+        "municipality": "江別市",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937614"
+  },
+  {
+    "date": "2026-02-03",
+    "candidate": "和田よしあき",
+    "prefecture": "北海道",
+    "constituency": "北海道5区",
+    "party": "自由民主党",
+    "image_path": "photos/260203_北海道_和田よしあき.jpeg",
+    "schedule": [
+      {
+        "time": "12:00",
+        "location": "ホクレンショップ東郊店",
+        "lat": 42.825,
+        "lng": 141.67,
+        "region": "北海道",
+        "municipality": "千歳市",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "JA道央 江別支店",
+        "lat": 43.11,
+        "lng": 141.56,
+        "region": "北海道",
+        "municipality": "江別市",
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "野幌商店街付近",
+        "lat": 43.0925,
+        "lng": 141.5269,
+        "region": "北海道",
+        "municipality": "江別市",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937929"
+  },
+  {
+    "date": "2026-02-01",
+    "candidate": "和田よしあき",
+    "prefecture": "北海道",
+    "constituency": "北海道5区",
+    "party": "自由民主党",
+    "image_path": "photos/260201_北海道_和田よしあき.jpeg",
+    "schedule": [
+      {
+        "time": "14:50",
+        "location": "白石区北都地区会館",
+        "lat": 43.0583,
+        "lng": 141.425,
+        "region": "北海道",
+        "municipality": "札幌市白石区",
+        "status": 0
+      },
+      {
+        "time": "17:50",
+        "location": "ランターンフェスティバル",
+        "lat": 43.0333,
+        "lng": 141.4667,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319937914"
+  },
+  {
+    "date": "2026-01-29",
+    "candidate": "和田よしあき",
+    "prefecture": "北海道",
+    "constituency": "北海道5区",
+    "party": "自由民主党",
+    "image_path": "photos/260129_北海道_和田よしあき.jpeg",
+    "schedule": [
+      {
+        "time": "07:30",
+        "location": "新札幌駅前",
+        "lat": 43.0391,
+        "lng": 141.4725,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      },
+      {
+        "time": "10:10",
+        "location": "ホクノー中央店",
+        "lat": 43.0217,
+        "lng": 141.4886,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      },
+      {
+        "time": "11:45",
+        "location": "森林公園駅前 (西口)",
+        "lat": 43.0567,
+        "lng": 141.4817,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      },
+      {
+        "time": "18:40",
+        "location": "新札幌駅前",
+        "lat": 43.0391,
+        "lng": 141.4725,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      }
+    ],
+    "id": "1771153319936857"
+  },
+  {
+    "date": "2026-01-28",
+    "candidate": "和田よしあき",
+    "prefecture": "北海道",
+    "constituency": "北海道5区",
+    "party": "自由民主党",
+    "image_path": "photos/260128_北海道_和田よしあき.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "野幌駅前 (北口)",
+        "lat": 43.0925,
+        "lng": 141.5269,
+        "region": "北海道",
+        "municipality": "江別市",
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "工業会館",
+        "lat": 43.1056,
+        "lng": 141.5417,
+        "region": "北海道",
+        "municipality": "江別市",
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "ホテルエミシア札幌 個人演説会",
+        "lat": 43.0378,
+        "lng": 141.4744,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "JA新しのつ大会議室",
+        "lat": 43.2417,
+        "lng": 141.625,
+        "region": "北海道",
+        "municipality": "新篠津村",
+        "status": 0
+      },
+      {
+        "time": "16:45",
+        "location": "ロイズタウン駅前",
+        "lat": 43.2081,
+        "lng": 141.5367,
+        "region": "北海道",
+        "municipality": "当別町",
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "田西会館",
+        "lat": 43.2217,
+        "lng": 141.5161,
+        "region": "北海道",
+        "municipality": "当別町",
+        "status": 0
+      }
+    ],
+    "id": "1771153319936416"
+  },
+  {
+    "date": "2026-01-27",
+    "candidate": "和田よしあき",
+    "prefecture": "北海道",
+    "constituency": "北海道5区",
+    "party": "自由民主党",
+    "image_path": "photos/260127_北海道_和田よしあき.jpeg",
+    "schedule": [
+      {
+        "time": "09:00",
+        "location": "ホテルエミシア札幌 出陣式",
+        "lat": 43.0378,
+        "lng": 141.4744,
+        "region": "北海道",
+        "municipality": "札幌市厚別区",
+        "status": 0
+      },
+      {
+        "time": "13:45",
+        "location": "和田よしあき北広島事務所前",
+        "lat": 42.9922,
+        "lng": 141.5583,
+        "region": "北海道",
+        "municipality": "北広島市",
+        "status": 0
+      },
+      {
+        "time": "14:15",
+        "location": "北広島市役所前",
+        "lat": 42.9892,
+        "lng": 141.5644,
+        "region": "北海道",
+        "municipality": "北広島市",
+        "status": 0
+      },
+      {
+        "time": "15:05",
+        "location": "ショッピング北広島前",
+        "lat": 42.9908,
+        "lng": 141.5647,
+        "region": "北海道",
+        "municipality": "北広島市",
+        "status": 0
+      },
+      {
+        "time": "16:10",
+        "location": "JA道央 本店前",
+        "lat": 42.8944,
+        "lng": 141.5833,
+        "region": "北海道",
+        "municipality": "恵庭市",
+        "status": 0
+      },
+      {
+        "time": "17:10",
+        "location": "うおはん前",
+        "lat": 42.8833,
+        "lng": 141.5833,
+        "region": "北海道",
+        "municipality": "恵庭市",
+        "status": 0
+      },
+      {
+        "time": "18:20",
+        "location": "和田よしあき千歳事務所前",
+        "lat": 42.825,
+        "lng": 141.6517,
+        "region": "北海道",
+        "municipality": "千歳市",
+        "status": 0
+      }
+    ],
+    "id": "1771153319936405"
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "date": "2026-02-07",
+    "day_of_week": "土",
+    "candidate": "神津たけし",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "中道改革連合",
+    "image_path": "photos/260207_長野県_神津たけし.jpg",
+    "schedule": [
+      {
+        "time": "15:00",
+        "location": "上田駅 お城口 水車前広場",
+        "lat": 36.3966,
+        "lng": 138.2497,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      }
+    ],
+    "id": "520667395"
+  },
+  {
+    "date": "2026-02-06",
+    "day_of_week": "金",
+    "candidate": "神津たけし",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "中道改革連合",
+    "image_path": "photos/260206_長野県_神津たけし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "千曲病院入口交差点",
+        "lat": 36.1619,
+        "lng": 138.4774,
+        "region": "長野県",
+        "municipality": "佐久穂町",
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "佐久平駅 蓼科口 ロータリー",
+        "lat": 36.2778,
+        "lng": 138.4647,
+        "region": "長野県",
+        "municipality": "佐久市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "上田駅 お城口 水車前",
+        "lat": 36.3966,
+        "lng": 138.2497,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      },
+      {
+        "time": "13:45",
+        "location": "相浜バス停",
+        "lat": 36.2509,
+        "lng": 138.4135,
+        "region": "長野県",
+        "municipality": "佐久市",
+        "status": 0
+      }
+    ],
+    "id": "520667403"
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "神津たけし",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "中道改革連合",
+    "image_path": "photos/260205_長野県_神津たけし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "上塩尻東交差点",
+        "lat": 36.416,
+        "lng": 138.221,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "坂城駅前",
+        "lat": 36.4766,
+        "lng": 138.2028,
+        "region": "長野県",
+        "municipality": "坂城町",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "カラコロの足湯前",
+        "lat": 36.4809,
+        "lng": 138.1434,
+        "region": "長野県",
+        "municipality": "千曲市",
+        "status": 0
+      }
+    ],
+    "id": "520667382"
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "神津たけし",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "中道改革連合",
+    "image_path": "photos/260204_長野県_神津たけし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "菅平",
+        "lat": 36.529,
+        "lng": 138.354,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "ゆきむら夢工房 駐車場",
+        "lat": 36.4442,
+        "lng": 138.2933,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      },
+      {
+        "time": "13:45",
+        "location": "JA信州うえだ 丸子支所 依田店",
+        "lat": 36.3151,
+        "lng": 138.2863,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      }
+    ],
+    "id": "520667364"
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "火",
+    "candidate": "神津たけし",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "中道改革連合",
+    "image_path": "photos/260203_長野県_神津たけし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "小諸市四ツ谷交差点",
+        "lat": 36.327,
+        "lng": 138.411,
+        "region": "長野県",
+        "municipality": "小諸市",
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "ヤオトク軽井沢店",
+        "lat": 36.342,
+        "lng": 138.618,
+        "region": "長野県",
+        "municipality": "軽井沢町",
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "JA 軽井沢支所",
+        "lat": 36.34,
+        "lng": 138.597,
+        "region": "長野県",
+        "municipality": "軽井沢町",
+        "status": 0
+      }
+    ],
+    "id": "520667359"
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "月",
+    "candidate": "神津たけし",
+    "prefecture": "長野県",
+    "constituency": "長野3区",
+    "party": "中道改革連合",
+    "image_path": "photos/260202_長野県_神津たけし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "上田市武石",
+        "lat": 36.311,
+        "lng": 138.196,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      },
+      {
+        "time": "09:00",
+        "location": "長和町",
+        "lat": 36.195,
+        "lng": 138.258,
+        "region": "長野県",
+        "municipality": "長和町",
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "道の駅 マルメロの駅ながと マルシェ黒耀前",
+        "lat": 36.216,
+        "lng": 138.286,
+        "region": "長野県",
+        "municipality": "長和町",
+        "status": 0
+      },
+      {
+        "time": "13:15",
+        "location": "立科町",
+        "lat": 36.281,
+        "lng": 138.309,
+        "region": "長野県",
+        "municipality": "立科町",
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "佐久市望月",
+        "lat": 36.273,
+        "lng": 138.358,
+        "region": "長野県",
+        "municipality": "佐久市",
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "東御市北御牧",
+        "lat": 36.315,
+        "lng": 138.336,
+        "region": "長野県",
+        "municipality": "東御市",
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "東御市",
+        "lat": 36.353,
+        "lng": 138.334,
+        "region": "長野県",
+        "municipality": "東御市",
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "上田市街",
+        "lat": 36.401,
+        "lng": 138.249,
+        "region": "長野県",
+        "municipality": "上田市",
+        "status": 0
+      }
+    ],
+    "id": "520667341"
+  },
+  {
+    "id": "S__75456517",
+    "image_path": "photos/260201_長野県_神津たけし.jpg",
+    "date": "2026-02-01",
+    "day_of_week": "日",
+    "candidate": "神津たけし",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "18:30~",
+        "region": "上田市",
+        "municipality": "上田市",
+        "location": "上田文化会館",
+        "lat": 36.3999,
+        "lng": 138.2605,
+        "status": 1
+      }
+    ],
+    "early_voting": "",
+    "election_day": "2026-02-08"
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "神津たけし",
+    "prefecture": "長野県",
+    "constituency": "長野県",
+    "party": "中道改革連合",
+    "image_path": "photos/260131_長野県_神津たけし.jpg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "鹿教湯",
+        "region": "長野県",
+        "municipality": "上田市",
+        "lat": 36.315,
+        "lng": 138.113,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "青木村",
+        "region": "長野県",
+        "municipality": "青木村",
+        "lat": 36.371,
+        "lng": 138.125,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "JA青木店様 駐車場 (青木村役場前)",
+        "region": "長野県",
+        "municipality": "青木村",
+        "lat": 36.371,
+        "lng": 138.125,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "上田市街地",
+        "region": "長野県",
+        "municipality": "上田市",
+        "lat": 36.402,
+        "lng": 138.252,
+        "status": 0
+      }
+    ],
+    "id": "520667148"
+  },
+  {
+    "id": "17428",
+    "image_path": "photos/260130_長野県_神津たけし.jpg",
+    "date": "2026-01-30",
+    "day_of_week": "金",
+    "candidate": "神津たけし",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "08:00",
+        "region": "千曲市",
+        "municipality": "千曲市",
+        "location": "粟佐北交差点",
+        "lat": 36.541,
+        "lng": 138.192,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "region": "千曲市",
+        "municipality": "千曲市",
+        "location": "ウィッシュホーム様前",
+        "lat": 36.529,
+        "lng": 138.118,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "region": "千曲市",
+        "municipality": "千曲市",
+        "location": "武水別神社鳥居前",
+        "lat": 36.525,
+        "lng": 138.125,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "region": "千曲市",
+        "municipality": "千曲市",
+        "location": "マツモトキヨシ千曲内川店様前",
+        "lat": 36.495,
+        "lng": 138.165,
+        "status": 0
+      },
+      {
+        "time": "18:00~",
+        "region": "坂城町",
+        "municipality": "坂城町",
+        "location": "坂城町遊説",
+        "lat": 36.46,
+        "lng": 138.15,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "S__64880645",
+    "image_path": "photos/260129_長野県_神津たけし.jpg",
+    "date": "2026-01-29",
+    "day_of_week": "木",
+    "candidate": "神津たけし",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "08:00",
+        "region": "東御市",
+        "municipality": "東御市",
+        "location": "東御市常田交差点",
+        "lat": 36.3536,
+        "lng": 138.3181,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "region": "東御市",
+        "municipality": "東御市",
+        "location": "田中商店街 (小林時計店前)",
+        "lat": 36.3512,
+        "lng": 138.3315,
+        "status": 0
+      },
+      {
+        "time": "13:00~",
+        "region": "小諸市",
+        "municipality": "小諸市",
+        "location": "小諸市街地",
+        "lat": null,
+        "lng": null,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "region": "小諸市",
+        "municipality": "小諸市",
+        "location": "山浦管工 駐車場",
+        "lat": 36.3315,
+        "lng": 138.4121,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "17324",
+    "image_path": "photos/260128_長野県_神津たけし.jpg",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "神津たけし",
+    "constituency": "長野3区",
+    "prefecture": "長野県",
+    "party": "中道改革連合",
+    "schedule": [
+      {
+        "time": "08:10",
+        "region": "南牧村野辺山",
+        "municipality": "南牧村",
+        "location": "板橋公民館",
+        "lat": 35.9687,
+        "lng": 138.4786,
+        "status": 1
+      },
+      {
+        "time": "09:15",
+        "region": "川上村",
+        "municipality": "川上村",
+        "location": "ナナーズ川上店",
+        "lat": 35.9708,
+        "lng": 138.5669,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "region": "南相木村",
+        "municipality": "南相木村",
+        "location": "南相木村役場横",
+        "lat": 36.036,
+        "lng": 138.5469,
+        "status": 0
+      },
+      {
+        "time": "未定",
+        "region": "北相木村",
+        "municipality": "北相木村",
+        "location": "中島公民館",
+        "lat": 36.0356,
+        "lng": 138.5474,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "region": "小海町",
+        "municipality": "小海町",
+        "location": "親沢公園横 駐車場",
+        "lat": 36.0931,
+        "lng": 138.4831,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "region": "佐久穂町",
+        "municipality": "佐久穂町",
+        "location": "キッチンえみゅー様 駐車場",
+        "lat": 36.1558,
+        "lng": 138.4745,
+        "status": 0
+      },
+      {
+        "time": "18:00~",
+        "region": "佐久市街地",
+        "municipality": "佐久市",
+        "location": "佐久市街地",
+        "lat": null,
+        "lng": null,
+        "status": 0
+      }
+    ],
+    "early_voting": "1/28(水)〜2/7(土)",
+    "election_day": "2026-02-08"
+  }
+]

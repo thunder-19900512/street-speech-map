@@ -1,0 +1,50 @@
+[
+  {
+    "id": "17455",
+    "image_path": "photos/260131_福岡県_大河内茂太.jpg",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "大河内茂太",
+    "constituency": "比例九州ブロック",
+    "prefecture": "福岡県",
+    "party": "参政党",
+    "schedule": [
+      {
+        "time": "10:00",
+        "region": "飯塚市",
+        "municipality": "飯塚市",
+        "location": "JR新飯塚駅",
+        "lat": 33.644,
+        "lng": 130.697,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "region": "直方市",
+        "municipality": "直方市",
+        "location": "びっくり市",
+        "lat": 33.725,
+        "lng": 130.715,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "region": "直方市",
+        "municipality": "直方市",
+        "location": "カインズ直方店",
+        "lat": 33.741,
+        "lng": 130.725,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "region": "岡垣町",
+        "municipality": "岡垣町",
+        "location": "JR海老津駅",
+        "lat": 33.854,
+        "lng": 130.612,
+        "status": 0
+      }
+    ]
+  }
+]

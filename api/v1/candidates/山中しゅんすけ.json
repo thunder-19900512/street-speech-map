@@ -1,0 +1,371 @@
+[
+  {
+    "date": "2026-02-02",
+    "candidate": "山中しゅんすけ",
+    "prefecture": "福井県",
+    "party": "国民民主党",
+    "image_path": "photos/260202_福井県_山中俊祐 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "イーザ 前",
+        "lat": 36.1661,
+        "lng": 136.2166,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "11:00",
+        "location": "スシロー春江交差点",
+        "lat": 36.1311,
+        "lng": 136.2162,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "13:40",
+        "location": "バロー金津店 前",
+        "lat": 36.2131,
+        "lng": 136.2238,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "14:10",
+        "location": "あわら市役所 前",
+        "lat": 36.2115,
+        "lng": 136.2307,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "16:00",
+        "location": "ゲンキー金津店 前",
+        "lat": 36.2119,
+        "lng": 136.2201,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "17:00",
+        "location": "船津交差点",
+        "lat": 36.2185,
+        "lng": 136.2267,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "17:50",
+        "location": "ハニーBig Bellyあわら 前",
+        "lat": 36.2215,
+        "lng": 136.2341,
+        "status": 0,
+        "region": "福井県"
+      }
+    ],
+    "day_of_week": "月",
+    "id": "29395066671231",
+    "constituency": "福井県"
+  },
+  {
+    "date": "2026-02-07",
+    "candidate": "山中しゅんすけ",
+    "prefecture": "福井県",
+    "party": "国民民主党",
+    "image_path": "photos/260207_福井県_山中俊祐 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "08:30",
+        "location": "MEGAドン・キホーテUNY福井店",
+        "lat": 36.0354,
+        "lng": 136.2323,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "10:00",
+        "location": "Aコープやしろ店",
+        "lat": 36.0401,
+        "lng": 136.2081,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "11:00",
+        "location": "バロー新田塚店前",
+        "lat": 36.0887,
+        "lng": 136.2141,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "12:30",
+        "location": "福井駅西口駅前商店街",
+        "lat": 36.0621,
+        "lng": 136.2211,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "13:00",
+        "location": "西武福井前",
+        "lat": 36.0641,
+        "lng": 136.2201,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "15:30",
+        "location": "エルパ交差点",
+        "lat": 36.0967,
+        "lng": 136.2411,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "19:00",
+        "location": "大名町交差点",
+        "lat": 36.0617,
+        "lng": 136.2205,
+        "status": 0,
+        "region": "福井県"
+      }
+    ],
+    "day_of_week": "土",
+    "id": "17410743812464",
+    "constituency": "福井県"
+  },
+  {
+    "date": "2026-02-06",
+    "candidate": "山中しゅんすけ",
+    "prefecture": "福井県",
+    "party": "国民民主党",
+    "image_path": "photos/260206_福井県_山中俊祐 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "福井駅西口 (辻立ち)",
+        "lat": 36.0621,
+        "lng": 136.2211,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "10:20",
+        "location": "海鮮アトム幾久店前",
+        "lat": 36.0791,
+        "lng": 136.2225,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "11:00",
+        "location": "ワイプラザ新保店交差点",
+        "lat": 36.0805,
+        "lng": 136.2441,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "13:30",
+        "location": "エルパ交差点",
+        "lat": 36.0967,
+        "lng": 136.2411,
+        "status": 0,
+        "region": "福井県"
+      },
+      {
+        "time": "16:00",
+        "location": "ベル前",
+        "lat": 36.0351,
+        "lng": 136.2201,
+        "status": 0,
+        "region": "福井県"
+      }
+    ],
+    "day_of_week": "金",
+    "id": "24522526129644",
+    "constituency": "福井県"
+  },
+  {
+    "id": "36211436344561",
+    "date": "2026-01-28",
+    "day_of_week": "水",
+    "candidate": "山中しゅんすけ",
+    "prefecture": "福井県",
+    "constituency": "福井県",
+    "party": "国民民主党",
+    "image_path": "photos/260128_福井県_山中俊祐.jpg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "永平寺町役場",
+        "lat": 36.1031,
+        "lng": 136.2917,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "勝山サンプラザ前",
+        "lat": 36.0617,
+        "lng": 136.5017,
+        "status": 0
+      },
+      {
+        "time": "11:40",
+        "location": "ホームセンターヤスサキ勝山店",
+        "lat": 36.065,
+        "lng": 136.51,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "結ステーション前",
+        "lat": 35.9867,
+        "lng": 136.4883,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "80962681121347",
+    "date": "2026-01-31",
+    "day_of_week": "土",
+    "candidate": "山中しゅんすけ",
+    "prefecture": "福井県",
+    "constituency": "福井県",
+    "party": "国民民主党",
+    "image_path": "photos/260131_福井県_山中俊祐.jpeg",
+    "schedule": [
+      {
+        "time": "09:20",
+        "location": "丸岡町本町通り",
+        "lat": 36.1483,
+        "lng": 136.2733,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "プラント2",
+        "lat": 36.1367,
+        "lng": 136.2767,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "あわら湯のまち駅",
+        "lat": 36.2167,
+        "lng": 136.1767,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "バロー金津店",
+        "lat": 36.215,
+        "lng": 136.2231,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "67298637847674",
+    "date": "2026-02-04",
+    "day_of_week": "水",
+    "candidate": "山中しゅんすけ",
+    "prefecture": "福井県",
+    "constituency": "福井県",
+    "party": "国民民主党",
+    "image_path": "photos/260204_福井県_山中俊祐.jpeg",
+    "schedule": [
+      {
+        "time": "08:30",
+        "location": "福井駅西 原眼科前",
+        "lat": 36.0621,
+        "lng": 136.2217,
+        "status": 0
+      },
+      {
+        "time": "09:30",
+        "location": "福井駅東 ケヤキ通り前",
+        "lat": 36.0617,
+        "lng": 136.225,
+        "status": 0
+      },
+      {
+        "time": "11:00",
+        "location": "ワイプラザ新保店前",
+        "lat": 36.085,
+        "lng": 136.2417,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "エルパ交差点",
+        "lat": 36.1,
+        "lng": 136.245,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "ベル前",
+        "lat": 36.035,
+        "lng": 136.2183,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "42140934107647",
+    "date": "2026-02-05",
+    "day_of_week": "木",
+    "candidate": "山中しゅんすけ",
+    "prefecture": "福井県",
+    "constituency": "福井県",
+    "party": "国民民主党",
+    "image_path": "photos/260205_福井県_山中俊祐.jpeg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "道の駅「禅の里」",
+        "lat": 36.1064,
+        "lng": 136.3533,
+        "status": 0
+      },
+      {
+        "time": "10:30",
+        "location": "勝山サンプラザ前",
+        "lat": 36.0617,
+        "lng": 136.5017,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "ホームセンターヤスサキ勝山店",
+        "lat": 36.065,
+        "lng": 136.51,
+        "status": 0
+      },
+      {
+        "time": "13:30",
+        "location": "結ステーション前",
+        "lat": 35.9867,
+        "lng": 136.4883,
+        "status": 0
+      },
+      {
+        "time": "14:30",
+        "location": "ショッピングモールVIO",
+        "lat": 35.9867,
+        "lng": 136.4883,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "ハニー新鮮館 こぶし通り店前",
+        "lat": 35.9867,
+        "lng": 136.4883,
+        "status": 0
+      }
+    ]
+  }
+]
