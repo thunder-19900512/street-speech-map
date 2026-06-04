@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1780556357492",
+    "date": "2026-05-20",
+    "day_of_week": "水",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260520_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "12:30",
+        "location": "田上町交流会館",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "ハイブ長岡",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  }
+]

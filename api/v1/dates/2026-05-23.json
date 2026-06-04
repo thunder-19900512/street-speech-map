@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1780556357495",
+    "date": "2026-05-23",
+    "day_of_week": "土",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260523_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "直江津駅前 北口",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "12:55",
+        "location": "原信岩上店前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "13:50",
+        "location": "ラピカ北側駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "(株)中村組 駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  }
+]

@@ -17365,5 +17365,548 @@
         "status": 0
       }
     ]
+  },
+  {
+    "id": "1780556357486",
+    "date": "2026-05-14",
+    "day_of_week": "木",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260514_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "09:15",
+        "location": "新潟駅万代口 第5マルカビル前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "ベイシア様隣 靴のかかつ 豊栄店様",
+        "lat": 37.922471,
+        "lng": 139.206253,
+        "status": 0
+      },
+      {
+        "time": "13:10",
+        "location": "チャレンジャー 燕三条店様",
+        "lat": 37.6555901,
+        "lng": 138.9446226,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "アオーレ長岡",
+        "lat": 37.4473991,
+        "lng": 138.8497295,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "上越文化会館",
+        "lat": 37.1497883,
+        "lng": 138.2411297,
+        "status": 0
+      },
+      {
+        "time": "19:00",
+        "location": "ヒスイ王国館",
+        "lat": 37.0440696,
+        "lng": 137.8623767,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357487",
+    "date": "2026-05-15",
+    "day_of_week": "金",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260515_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "デンカ(株)様 青海工場正門前",
+        "lat": 37.0226177,
+        "lng": 137.7949966,
+        "status": 0
+      },
+      {
+        "time": "09:10",
+        "location": "能生商工会前",
+        "lat": 37.0961041,
+        "lng": 137.9885381,
+        "status": 0
+      },
+      {
+        "time": "11:35",
+        "location": "(株)山崎建設様前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:40",
+        "location": "雪だるま物産館",
+        "lat": 37.099204,
+        "lng": 138.479681,
+        "status": 0
+      },
+      {
+        "time": "17:45",
+        "location": "ユーモール様",
+        "lat": 37.1436454,
+        "lng": 138.7565036,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357488",
+    "date": "2026-05-16",
+    "day_of_week": "土",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260516_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "JAえちご中越越路支所様",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "JAえちご中越見附西支店様 駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "トチオーレ",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "花みずき温泉 喜芳",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "17:35",
+        "location": "旧良寛牛乳 跡地",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "18:20",
+        "location": "(株)水倉組様和島営業所駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "19:10",
+        "location": "(株)中元組様駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357489",
+    "date": "2026-05-17",
+    "day_of_week": "日",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260517_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "いっぺこーと",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "万代シティ ビルボードプレイス前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:00",
+        "location": "酒屋町民の家 (個人演説会)",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "大江山地区 農村環境改善センター (個人演説会)",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "18:10",
+        "location": "河渡マーケットシティ前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357490",
+    "date": "2026-05-18",
+    "day_of_week": "月",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260518_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "関川村役場前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "08:50",
+        "location": "胎内市役所 黒川支所前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "10:00",
+        "location": "JA北新潟 営農センター様",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "11:50",
+        "location": "月岡温泉足湯前広場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "旧第四銀行新津支店様前 (新潟市秋葉区新津本町2-4-15)",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "18:10",
+        "location": "ウオロク松浜店様前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357491",
+    "date": "2026-05-19",
+    "day_of_week": "火",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260519_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "10:30",
+        "location": "あいかわ開発総合センター",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "13:00",
+        "location": "アミューズメント佐渡",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:45",
+        "location": "あゆす会館",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "18:25",
+        "location": "道の駅 あいぽーと佐渡",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357492",
+    "date": "2026-05-20",
+    "day_of_week": "水",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260520_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "12:30",
+        "location": "田上町交流会館",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "ハイブ長岡",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357493",
+    "date": "2026-05-21",
+    "day_of_week": "木",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260521_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "09:15",
+        "location": "雪国おくにじまん会館",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "11:30",
+        "location": "旧第四銀行小出支店様前 (魚沼市本町1丁目 本町バス停付近)",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "原信 桜町店様前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357494",
+    "date": "2026-05-22",
+    "day_of_week": "金",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260522_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "08:00",
+        "location": "JAえちご上越浦川原物産館様前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "12:00",
+        "location": "津南町役場 正面駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "14:40",
+        "location": "第四北越銀行 湯沢支店様前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "JAみなみ魚沼様 大木六低温倉庫前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "六日町郵便局様前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "17:00",
+        "location": "第四北越銀行 十日町支店様前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "18:00",
+        "location": "十日町市 川西支所前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357495",
+    "date": "2026-05-23",
+    "day_of_week": "土",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260523_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "09:30",
+        "location": "直江津駅前 北口",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "12:55",
+        "location": "原信岩上店前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "13:50",
+        "location": "ラピカ北側駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:30",
+        "location": "(株)中村組 駐車場",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357496",
+    "date": "2026-05-24",
+    "day_of_week": "日",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260524_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "10:15",
+        "location": "弥彦神社 一の鳥居前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:30",
+        "location": "亀田郷土地改良区 (個人演説会)",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "18:30",
+        "location": "新潟駅万代口 マルタケビル前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "id": "1780556357497",
+    "date": "2026-05-25",
+    "day_of_week": "月",
+    "candidate": "はなずみ英世",
+    "prefecture": "新潟県",
+    "constituency": "新潟県",
+    "party": "無所属",
+    "image_path": "photos/260525_新潟県_はなずみ英世 ギア+.jpeg",
+    "schedule": [
+      {
+        "time": "08:30",
+        "location": "猿沢コミュニティセンター",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "14:00",
+        "location": "胎内市役所前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "15:10",
+        "location": "加治川地区体育館前",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:00",
+        "location": "上館公会堂 (個人演説会)",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      },
+      {
+        "time": "16:45",
+        "location": "(株)岩村物産 紫雲寺SS隣",
+        "lat": 37.9024,
+        "lng": 139.0232,
+        "status": 0
+      }
+    ]
   }
 ]
